@@ -3,7 +3,7 @@
 collecting related resources of gesture recognition here.
 
 - 【wiki】[Gesture_recognition](https://en.wikipedia.org/wiki/Gesture_recognition)
-- 【challenges】[challenges related to gesture recognition](http://gesture.chalearn.org/)
+- 【chalearn】[challenges related to gesture recognition](http://gesture.chalearn.org/)
 ## books
 
 #### 2001
