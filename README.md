@@ -2,6 +2,7 @@
 
 collecting related resources of gesture recognition here.
 
+- 【wiki】[Gesture_recognition](https://en.wikipedia.org/wiki/Gesture_recognition)
 
 ## books
 
