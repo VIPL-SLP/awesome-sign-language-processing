@@ -9,7 +9,7 @@ collecting related resources of gesture recognition here.
 - [Face Detection and Gesture Recognition for Human-Computer Interaction](http://gen.lib.rus.ec/book/index.php?md5=E1ABFE65BA1D8740A610FB1E14D74C50)
 #### 2005
 - [Analysis and Modelling of Faces and Gestures: Second International Workshop, AMFG 2005, Beijing, China, October 16, 2005. Proceedings](http://gen.lib.rus.ec/book/index.php?md5=40E17BEC2EE98A25A51802FB42B47752)
-####2017
+#### 2017
 - [Gesture Recognition](http://gen.lib.rus.ec/book/index.php?md5=55ECF03504C5E0EB1D5C0BBBA860AD37)
 #### 2018
 - [	Robust hand gesture recognition for robotic hand control](http://gen.lib.rus.ec/book/index.php?md5=08BF4EBB10A3BD6B442BAF7F96903930)
