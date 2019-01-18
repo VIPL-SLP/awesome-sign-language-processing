@@ -4,6 +4,8 @@ collecting related resources of gesture recognition here.
 
 - 【wiki】[Gesture_recognition](https://en.wikipedia.org/wiki/Gesture_recognition)
 - 【challenges related to gesture recognition】[chalearn old website](http://gesture.chalearn.org/); [chalearn new website](http://chalearnlap.cvc.uab.es/)
+- [xinghaochen/awesome-hand-pose-estimation](https://github.com/xinghaochen/awesome-hand-pose-estimation)
+
 ## books
 
 #### 2001
