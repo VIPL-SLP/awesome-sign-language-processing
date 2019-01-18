@@ -58,7 +58,6 @@ collecting related resources of gesture recognition here.
 - Natalia Neverova, Christian Wolf, Graham W. Taylor, Florian Nebout. [ModDrop: adaptive multi-modal gesture recognition](https://arxiv.org/abs/1501.00102)[J]. arXiv preprint arXiv:1501.00102
 - Heba Abdelnasser, Moustafa Youssef, Khaled A. Harras. [WiGest: A Ubiquitous WiFi-based Gesture Recognition System](https://arxiv.org/abs/1501.04301)[J]. arXiv preprint arXiv:1501.04301
 - Moustafa Meshry, Mohamed E. Hussein, Marwan Torki .[Linear-time Online Action Detection From 3D Skeletal Data Using Bags of  Gesturelets](https://arxiv.org/pdf/1502.01228) .[J] arXiv preprint arXiv:1502.01228.
-
 - Bousaaid Mourad, Ayaou Tarik, Afdel Karim, Estraillier Pascal. [Real-Time System of Hand Detection And Gesture Recognition In Cyber  Presence Interactive System For E-Learning](https://arxiv.org/abs/1502.07243)[J]. arXiv preprint arXiv:1502.07243
 - Lionel Pigou, A ron van den Oord, Sander Dieleman, Mieke Van Herreweghe, Joni Dambre. [Beyond Temporal Pooling: Recurrence and Temporal Convolutions for  Gesture Recognition in Video](https://arxiv.org/abs/1506.01911)[J]. arXiv preprint arXiv:1506.01911
 - Ali Boyali .[Spectral Collaborative Representation based Classification for Hand  Gestures recognition on Electromyography Signals](https://arxiv.org/pdf/1506.08006) .[J] arXiv preprint arXiv:1506.08006.
