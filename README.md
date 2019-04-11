@@ -136,8 +136,20 @@ collecting related resources of gesture recognition here.
 - Can Liu, Shridatt Sugrim, Gradeigh D. Clark, Janne Lindqvist .[Quantifying the Security of Recognition Passwords: Gestures and Signatures](https://arxiv.org/pdf/1812.09410) .[J] arXiv preprint arXiv:1812.09410.
 - Biswarup Ganguly, Amit Konar .[Kinect Sensor Based Gesture Recognition for Surveillance Application](https://arxiv.org/pdf/1812.09595) .[J] arXiv preprint arXiv:1812.09595.
 
-## frameworks & toolkit
+### 2019
+- Ali Moin, Andy Zhou, Simone Benatti, Abbas Rahimi, George Alexandrov, Alisha Menon, Senam Tamakloe, Jonathan Ting, Natasha Yamamoto, Yasser Khan, Fred Burghardt, Ana C. Arias, Luca Benini, Jan M. Rabaey .[Adaptive EMG-based hand gesture recognition using hyperdimensional computing](https://arxiv.org/pdf/1901.00234) .[J] arXiv preprint arXiv:1901.00234.
+- 【Dataset】Asanka G Perera, Yee Wei Law, Javaan Chahl .[UAV-GESTURE: A Dataset for UAV Control and Gesture Recognition](https://arxiv.org/pdf/1901.02602) .[J] arXiv preprint arXiv:1901.02602.
+- Hao Tang, Hong Liu, Wei Xiao, Nicu Sebe .[Fast and Robust Dynamic Hand Gesture Recognition via Key Frames Extraction and Feature Fusion](https://arxiv.org/pdf/1901.04622) .[J] arXiv preprint arXiv:1901.04622.
+- István Ketykó, Ferenc Kovács, Krisztián Zsolt Varga .[Domain Adaptation for sEMG-based Gesture Recognition with Recurrent Neural Networks](https://arxiv.org/pdf/1901.06958) .[J] arXiv preprint arXiv:1901.06958.
+- Okan Köpüklü, Ahmet Gunduz, Neslihan Kose, Gerhard Rigoll .[Real-time Hand Gesture Detection and Classification Using Convolutional Neural Networks](https://arxiv.org/pdf/1901.10323) .[J] arXiv preprint arXiv:1901.10323.
+- Shaojie Xu, Anvesha Amaravati, Justin Romberg, Arijit Raychowdhury .[Appearance-based Gesture recognition in the compressed domain](https://arxiv.org/pdf/1903.00100) .[J] arXiv preprint arXiv:1903.00100.
+- Vasileios Sideridis, Andrew Zacharakis, George Tzagkarakis, Maria Papadopouli .[GestureKeeper: Gesture Recognition for Controlling Devices in IoT Environments](https://arxiv.org/pdf/1903.06643) .[J] arXiv preprint arXiv:1903.06643.
+- Waseem Abbas, David Masip Rodo .[Locomotion and gesture tracking in mice and small animals for neurosceince applications: A survey](https://arxiv.org/pdf/1903.10422) .[J] arXiv preprint arXiv:1903.10422.
+
+---
+## Frameworks & Toolkit
 -  【c++】[Gesture Recognition Toolkit](http://www.nickgillian.com/grt/)
 
+---
 ## Projects
 - [tz28/Chinese-number-gestures-recognition](https://github.com/tz28/Chinese-number-gestures-recognition)
