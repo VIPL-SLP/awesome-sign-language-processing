@@ -139,3 +139,5 @@ collecting related resources of gesture recognition here.
 ## frameworks & toolkit
 -  【c++】[Gesture Recognition Toolkit](http://www.nickgillian.com/grt/)
 
+## Projects
+- [tz28/Chinese-number-gestures-recognition](https://github.com/tz28/Chinese-number-gestures-recognition)
