@@ -9,7 +9,7 @@ collecting related resources of gesture recognition here.
 ## papers
 
 ### 2019
-- 【CVPR 2019】Improving the Performance of Unimodal Dynamic Hand-Gesture Recognition With Multimodal Training. [[paper]](<http://openaccess.thecvf.com/content_CVPR_2019/papers/Abavisani_Improving_the_Performance_of_Unimodal_Dynamic_Hand-Gesture_Recognition_With_Multimodal_CVPR_2019_paper.pdf>)
+- 【CVPR 2019】Improving the Performance of Unimodal Dynamic Hand-Gesture Recognition With Multimodal Training. [[paper]](<http://openaccess.thecvf.com/content_CVPR_2019/papers/Abavisani_Improving_the_Performance_of_Unimodal_Dynamic_Hand-Gesture_Recognition_With_Multimodal_CVPR_2019_paper.pdf>) \\
    *Mahdi Abavisani, Hamid Reza Vaezi Joze, Vishal M. Patel*
 - 【CVPR 2019】Learning Individual Styles of Conversational Gesture. [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Ginosar_Learning_Individual_Styles_of_Conversational_Gesture_CVPR_2019_paper.pdf)
    *Shiry Ginosar, Amir Bar, Gefen Kohavi, Caroline Chan, Andrew Owens, Jitendra Malik*
