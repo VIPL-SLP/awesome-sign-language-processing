@@ -9,38 +9,38 @@ collecting related resources of gesture recognition here.
 ## papers
 
 ### 2019
-- 【CVPR 2019】Improving the Performance of Unimodal Dynamic Hand-Gesture Recognition With Multimodal Training. [[paper]](<http://openaccess.thecvf.com/content_CVPR_2019/papers/Abavisani_Improving_the_Performance_of_Unimodal_Dynamic_Hand-Gesture_Recognition_With_Multimodal_CVPR_2019_paper.pdf>) \\
+- 【CVPR 2019】Improving the Performance of Unimodal Dynamic Hand-Gesture Recognition With Multimodal Training. [[paper]](<http://openaccess.thecvf.com/content_CVPR_2019/papers/Abavisani_Improving_the_Performance_of_Unimodal_Dynamic_Hand-Gesture_Recognition_With_Multimodal_CVPR_2019_paper.pdf>)  
    *Mahdi Abavisani, Hamid Reza Vaezi Joze, Vishal M. Patel*
-- 【CVPR 2019】Learning Individual Styles of Conversational Gesture. [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Ginosar_Learning_Individual_Styles_of_Conversational_Gesture_CVPR_2019_paper.pdf)
+- 【CVPR 2019】Learning Individual Styles of Conversational Gesture. [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Ginosar_Learning_Individual_Styles_of_Conversational_Gesture_CVPR_2019_paper.pdf)  
    *Shiry Ginosar, Amir Bar, Gefen Kohavi, Caroline Chan, Andrew Owens, Jitendra Malik*
-- 【CVPR 2019】A Neural Network Based on SPD Manifold Learning for Skeleton-Based Hand Gesture Recognition. [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Nguyen_A_Neural_Network_Based_on_SPD_Manifold_Learning_for_Skeleton-Based_CVPR_2019_paper.pdf)
+- 【CVPR 2019】A Neural Network Based on SPD Manifold Learning for Skeleton-Based Hand Gesture Recognition. [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Nguyen_A_Neural_Network_Based_on_SPD_Manifold_Learning_for_Skeleton-Based_CVPR_2019_paper.pdf)  
    *Xuan Son Nguyen, Luc Brun, Olivier Lezoray, Sebastien Bougleux*
-- 【CVPR 2019】Iterative Alignment Network for Continuous Sign Language Recognition. [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Pu_Iterative_Alignment_Network_for_Continuous_Sign_Language_Recognition_CVPR_2019_paper.pdf)]
+- 【CVPR 2019】Iterative Alignment Network for Continuous Sign Language Recognition. [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Pu_Iterative_Alignment_Network_for_Continuous_Sign_Language_Recognition_CVPR_2019_paper.pdf)  
    *Junfu Pu, Wengang Zhou, Houqiang Li*
-- 【BMVC 2019】Construct Dynamic Graphs for Hand Gesture Recognition via Spatial-Temporal Attention. [[paper]](https://bmvc2019.org/wp-content/uploads/papers/0281-paper.pdf) [[code]](<https://github.com/yuxiaochen1103/DG-STA>)
+- 【BMVC 2019】Construct Dynamic Graphs for Hand Gesture Recognition via Spatial-Temporal Attention. [[paper]](https://bmvc2019.org/wp-content/uploads/papers/0281-paper.pdf) [[code]](<https://github.com/yuxiaochen1103/DG-STA>)  
    *Yuxiao Chen, Long Zhao, Xi Peng, Jianbo Yuan, Dimitris Metaxas*
-- 【BMVC 2019】 FlickerNet: Adaptive 3D Gesture Recognition from Sparse Point Clouds.[[paper]](https://bmvc2019.org/wp-content/uploads/papers/0326-paper.pdf)
+- 【BMVC 2019】 FlickerNet: Adaptive 3D Gesture Recognition from Sparse Point Clouds.[[paper]](https://bmvc2019.org/wp-content/uploads/papers/0326-paper.pdf)  
    *Yuecong Min, Xiujuan Chai, Lei Zhao, Xilin Chen*
-- 【BMVC 2019】Zero-Shot Sign Language Recognition: Can Textual Data Uncover Sign Languages?[[paper]](https://bmvc2019.org/wp-content/uploads/papers/0122-paper.pdf) [[project]](<https://ycbilge.github.io/zsslr.html>)
+- 【BMVC 2019】Zero-Shot Sign Language Recognition: Can Textual Data Uncover Sign Languages?[[paper]](https://bmvc2019.org/wp-content/uploads/papers/0122-paper.pdf) [[project]](<https://ycbilge.github.io/zsslr.html>)  
    *Yunus Can Bilge, Nazli Ikizler-Cinbis, Ramazan Gokberk Cinbis*
-- 【BMVC 2019】MS-ASL: A Large-Scale Data Set and Benchmark for Understanding American Sign Language. [[paper]](https://bmvc2019.org/wp-content/uploads/papers/0254-paper.pdf)
+- 【BMVC 2019】MS-ASL: A Large-Scale Data Set and Benchmark for Understanding American Sign Language. [[paper]](https://bmvc2019.org/wp-content/uploads/papers/0254-paper.pdf)  
    *HAMID VAEZI JOZE, Oscar Koller*
 - 【arXiv:1901/00234, BioCAS 2019】Analysis of Contraction Effort Level in EMG-Based Gesture
-  Recognition Using Hyperdimensional Computing. [[paper]](https://arxiv.org/pdf/1901.00234)
+  Recognition Using Hyperdimensional Computing. [[paper]](https://arxiv.org/pdf/1901.00234)  
   *Ali Moin, Andy Zhou, Simone Benatti, Abbas Rahimi, Luca Benini, Jan M. Rabaey*
-- 【arXiv:1903.00100, ICASSP 2017】Appearance-based Gesture recognition in the compressed domain. [[paper]](https://arxiv.org/pdf/1903.00100)
+- 【arXiv:1903.00100, ICASSP 2017】Appearance-based Gesture recognition in the compressed domain. [[paper]](https://arxiv.org/pdf/1903.00100)  
   *Shaojie Xu, Anvesha Amaravati, Justin Romberg, Arijit Raychowdhury*
-- 【arXiv:1901.02602】UAV-GESTURE: A Dataset for UAV Control and Gesture Recognition. [[paper]](https://arxiv.org/pdf/1901.02602.pdf)
+- 【arXiv:1901.02602】UAV-GESTURE: A Dataset for UAV Control and Gesture Recognition. [[paper]](https://arxiv.org/pdf/1901.02602.pdf)  
   *Asanka G Perera, Yee Wei Law, Javaan Chahl*
-- 【arXiv:1901.04622】 Fast and Robust Dynamic Hand Gesture Recognition via Key Frames Extraction and Feature Fusion. [[paper]](https://arxiv.org/pdf/1901.04622)
+- 【arXiv:1901.04622】 Fast and Robust Dynamic Hand Gesture Recognition via Key Frames Extraction and Feature Fusion. [[paper]](https://arxiv.org/pdf/1901.04622)  
   *Hao Tang, Hong Liu, Wei Xiao, Nicu Sebe*
-- 【arXiv:1901.06958】Domain Adaptation for sEMG-based Gesture Recognition with Recurrent Neural Networks. [[paper]](https://arxiv.org/pdf/1901.06958)
+- 【arXiv:1901.06958】Domain Adaptation for sEMG-based Gesture Recognition with Recurrent Neural Networks. [[paper]](https://arxiv.org/pdf/1901.06958)  
   *Istvan Ketyko, Ferenc Kovacs and Krisztian Zsolt Varga*
-- 【arXiv:1901.10323】Real-time Hand Gesture Detection and Classification Using Convolutional Neural Networks. [[paper]](https://arxiv.org/pdf/1901.10323) [[code]](https://github.com/ahmetgunduz/Real-time-GesRec)
+- 【arXiv:1901.10323】Real-time Hand Gesture Detection and Classification Using Convolutional Neural Networks. [[paper]](https://arxiv.org/pdf/1901.10323) [[code]](https://github.com/ahmetgunduz/Real-time-GesRec)  
   *Okan Kopuklu, Ahmet Gunduz, Neslihan Kose2, Gerhard Rigoll*
-- 【arXiv:1903.06643】GestureKeeper: Gesture Recognition for Controlling Devices in IoT Environments. [[paper]](https://arxiv.org/pdf/1903.06643)
+- 【arXiv:1903.06643】GestureKeeper: Gesture Recognition for Controlling Devices in IoT Environments. [[paper]](https://arxiv.org/pdf/1903.06643)  
    *Vasileios Sideridis, Andrew Zacharakis, George Tzagkarakis, Maria Papadopouli*
-- 【arXiv:1903.10422】Locomotion and gesture tracking in mice and small animals for neurosceince applications: A survey. [[paper]]((https://arxiv.org/pdf/1903.10422))
+- 【arXiv:1903.10422】Locomotion and gesture tracking in mice and small animals for neurosceince applications: A survey. [[paper]]((https://arxiv.org/pdf/1903.10422))  
   *Waseem Abbas, David Masip Rodo*
 
 #### 2018
