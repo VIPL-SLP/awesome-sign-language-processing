@@ -5,6 +5,12 @@ collecting related resources of gesture recognition here.
 - 【wiki】[Gesture_recognition](https://en.wikipedia.org/wiki/Gesture_recognition)
 - 【challenges related to gesture recognition】[chalearn old website](http://gesture.chalearn.org/); [chalearn new website](http://chalearnlap.cvc.uab.es/)
 - 【hand pose estimation/tracking】[xinghaochen/awesome-hand-pose-estimation](https://github.com/xinghaochen/awesome-hand-pose-estimation)
+- 【Dataset】[Chalearn LAP IsoGD Database](http://www.cbsr.ia.ac.cn/users/jwan/database/isogd.html)
+- 【Dataset】[Chalearn LAP ConGD Database](http://www.cbsr.ia.ac.cn/users/jwan/database/congd.html)
+- 【Dataset】[NVIDIA Dynamic Hand Gesture Dataset](https://research.nvidia.com/publication/online-detection-and-classification-dynamic-hand-gestures-recurrent-3d-convolutional)
+- 【Dataset】[SHREC 2017](http://www-rech.telecom-lille.fr/shrec2017-hand/)
+- 【Dataset】[Devisign](http://vipl.ict.ac.cn/homepage/ksl/data.html)
+
 
 ## Contents
 
