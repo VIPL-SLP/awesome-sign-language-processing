@@ -1,25 +1,42 @@
-# awesome-Gesture-Recognition
+# awesome-gesture-recognition
 
 collecting related resources of gesture recognition here.
 
-- 【wiki】[Gesture_recognition](https://en.wikipedia.org/wiki/Gesture_recognition)
-- 【challenges related to gesture recognition】[chalearn old website](http://gesture.chalearn.org/); [chalearn new website](http://chalearnlap.cvc.uab.es/)
+- 【Wiki】[Gesture_recognition](https://en.wikipedia.org/wiki/Gesture_recognition)
 - 【hand pose estimation/tracking】[xinghaochen/awesome-hand-pose-estimation](https://github.com/xinghaochen/awesome-hand-pose-estimation)
-- 【Dataset】[Chalearn LAP IsoGD Database](http://www.cbsr.ia.ac.cn/users/jwan/database/isogd.html)
-- 【Dataset】[Chalearn LAP ConGD Database](http://www.cbsr.ia.ac.cn/users/jwan/database/congd.html)
-- 【Dataset】[NVIDIA Dynamic Hand Gesture Dataset](https://research.nvidia.com/publication/online-detection-and-classification-dynamic-hand-gestures-recurrent-3d-convolutional)
-- 【Dataset】[SHREC 2017](http://www-rech.telecom-lille.fr/shrec2017-hand/)
-- 【Dataset】[Devisign](http://vipl.ict.ac.cn/homepage/ksl/data.html)
 
 
 ## Contents
 
+- [Datasets](#datasets)
+- [Journal Papers](#journal-papers)
 - [Conference Papers](#conference-papers)
 - [arXiv Papers](#arXiv-papers)
+
+## Datasets
+
+- 【challenges related to gesture recognition】[chalearn old website](http://gesture.chalearn.org/); [chalearn new website](http://chalearnlap.cvc.uab.es/)
+- [Chalearn LAP IsoGD Database](http://www.cbsr.ia.ac.cn/users/jwan/database/isogd.html)
+- [Chalearn LAP ConGD Database](http://www.cbsr.ia.ac.cn/users/jwan/database/congd.html)
+- [NVIDIA Dynamic Hand Gesture Dataset](https://research.nvidia.com/publication/online-detection-and-classification-dynamic-hand-gestures-recurrent-3d-convolutional)
+- [SHREC 2017](http://www-rech.telecom-lille.fr/shrec2017-hand/)
+- [Devisign](http://vipl.ict.ac.cn/homepage/ksl/data.html)
+
+## Journal Papers
+
+- 【2005 TPAMI】Automatic sign language analysis: A survey and the future beyond lexical meaning. [[paper]]( https://pdfs.semanticscholar.org/852e/333b06fbe9ea5bf3dd1e894cad86283b94f7.pdf )    
+  *SCW Ong, S Ranganath* 
+- 【1997 TPAMI】Visual interpretation of hand gestures for human-computer interaction: A review. [[paper]]( https://www.semanticscholar.org/paper/Visual-Interpretation-of-Hand-Gestures-for-A-Review-Pavlovic-Sharma/8dd3d5ef2e1c40433417cd90e21ce9a0468a7626 )   
+  *VI Pavlovic, R Sharma, TS Huang*
 
 ## Conference Papers
 
 #### 2019
+
+- 【ICCV 2019】Talking With Hands 16.2M: A Large-Scale Dataset of Synchronized Body-Finger Motion and Audio for Conversational Motion Analysis and Synthesis. [[paper]]( http://openaccess.thecvf.com/content_ICCV_2019/papers/Lee_Talking_With_Hands_16.2M_A_Large-Scale_Dataset_of_Synchronized_Body-Finger_ICCV_2019_paper.pdf )   
+   *Gilwoo Lee, Zhiwei Deng, Shugao Ma, Takaaki Shiratori, Siddhartha S. Srinivasa, Yaser Sheikh*
+- 【ICCV 2019】Drive&Act: A Multi-Modal Dataset for Fine-Grained Driver Behavior Recognition in Autonomous Vehicles. [[paper]]( http://openaccess.thecvf.com/content_ICCV_2019/html/Martin_DriveAct_A_Multi-Modal_Dataset_for_Fine-Grained_Driver_Behavior_Recognition_in_ICCV_2019_paper.html )   
+   *Manuel Martin, Alina Roitberg, Monica Haurilet, Matthias Horne, Simon Reiss, Michael Voit, Rainer Stiefelhagen*
 
 - 【CVPR 2019】Improving the Performance of Unimodal Dynamic Hand-Gesture Recognition With Multimodal Training. [[paper]](<http://openaccess.thecvf.com/content_CVPR_2019/papers/Abavisani_Improving_the_Performance_of_Unimodal_Dynamic_Hand-Gesture_Recognition_With_Multimodal_CVPR_2019_paper.pdf>)  
    *Mahdi Abavisani, Hamid Reza Vaezi Joze, Vishal M. Patel*
@@ -55,6 +72,8 @@ collecting related resources of gesture recognition here.
 
 - 【CVPR 2017】Personalizing Gesture Recognition Using Hierarchical Bayesian Neural Networks. [[paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Joshi_Personalizing_Gesture_Recognition_CVPR_2017_paper.pdf)  
   *Ajjen Joshi, Soumya Ghosh, Margrit Betke, Stan Sclaroff, Hanspeter Pfister*
+- 【CVPR 2017】Re-Sign: Re-Aligned End-To-End Sequence Modelling With Deep Recurrent CNN-HMMs. [[paper]]( http://openaccess.thecvf.com/content_cvpr_2017/html/Koller_Re-Sign_Re-Aligned_End-To-End_CVPR_2017_paper.html )   
+  *Oscar Koller, Sepehr Zargaran, Hermann Ney*
 - 【CVPR 2017】A Low Power, Fully Event-Based Gesture Recognition System. [[paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Amir_A_Low_Power_CVPR_2017_paper.pdf)  
   *Arnon Amir, Brian Taba, David Berg, Timothy Melano, Jeffrey McKinstry, Carmelo Di Nolfo, Tapan Nayak, Alexander Andreopoulos, Guillaume Garreau, Marcela Mendoza, Jeff Kusnitz, Michael Debole, Steve Esser, Tobi Delbruck, Myron Flickner, Dharmendra Modha*
 - 【CVPR 2017】Recurrent Convolutional Neural Networks for Continuous Sign Language Recognition by Staged Optimization. [[paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Cui_Recurrent_Convolutional_Neural_CVPR_2017_paper.pdf)  
@@ -70,6 +89,8 @@ collecting related resources of gesture recognition here.
   *Pavlo Molchanov, Xiaodong Yang, Shalini Gupta, Kihwan Kim, Stephen Tyree, Jan Kautz*
 - 【ECCV 2016】Iterative Reference Driven Metric Learning for Signer Independent Isolated Sign. [[paper]](http://vipl.ict.ac.cn/uploadfile/upload/2018112115134267.pdf)  
   *Fang Yin, Xiujuan Chai, Xilin Chen*
+- 【BMVC 2016】Deep Sign: Hybrid CNN-HMM for Continuous Sign Language Recognition. [[paper]]( http://www.bmva.org/bmvc/2016/papers/paper136/index.html )  
+  *Oscar Koller, Sepehr Zargaran, Hermann Ney and Richard Bowden*
 
 ## arXiv Papers
 
