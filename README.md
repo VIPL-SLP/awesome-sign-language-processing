@@ -54,6 +54,11 @@ collecting related resources of gesture recognition here.
    *Yunus Can Bilge, Nazli Ikizler-Cinbis, Ramazan Gokberk Cinbis*
 - 【BMVC 2019】MS-ASL: A Large-Scale Data Set and Benchmark for Understanding American Sign Language. [[paper]](https://bmvc2019.org/wp-content/uploads/papers/0254-paper.pdf)  
    *HAMID VAEZI JOZE, Oscar Koller*
+- 【WACV 2019】Space-time Event Clouds for Gesture Recognition: from RGB Cameras to Event Cameras. [[paper]](https://cse.buffalo.edu/~jsyuan/papers/2019/WACV_2019_Qinyi.pdf)  
+   *Qinyi Wang, Yexin Zhang, Junsong Yuan, Yilong Lu*
+- 【WACV 2019】Hidden States Exploration for 3D Skeleton-Based Gesture Recognition. [[paper]](http://jultika.oulu.fi/files/nbnfi-fe2019072923218.pdf)  
+   *Xin Liu, Henglin Shi, Xiaopeng Hong, Haoyu Chen, Dacheng Tao, Guoying Zhao*
+
 
 #### 2018
 
