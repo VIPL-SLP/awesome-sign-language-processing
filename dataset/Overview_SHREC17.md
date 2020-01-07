@@ -1,0 +1,12 @@
+| <img width="250px" src="SHREC17/class_1_1.gif">  | <img width="250px" src="SHREC17/class_2_1.gif">  | <img width="250px" src="SHREC17/class_3_1.gif">  | <img width="250px" src="SHREC17/class_4_1.gif">  |
+| ------------------------------------------------ | ------------------------------------------------ | ------------------------------------------------ | ------------------------------------------------ |
+| <img width="250px" src="SHREC17/class_1_2.gif">  | <img width="250px" src="SHREC17/class_2_2.gif">  | <img width="250px" src="SHREC17/class_3_2.gif">  | <img width="250px" src="SHREC17/class_4_2.gif">  |
+| Grab                                             | Tap                                              | Expand                                           | Pinch                                            |
+| <img width="250px" src="SHREC17/class_5_1.gif">  | <img width="250px" src="SHREC17/class_6_1.gif">  | <img width="250px" src="SHREC17/class_7_1.gif">  | <img width="250px" src="SHREC17/class_8_1.gif">  |
+| <img width="250px" src="SHREC17/class_5_2.gif">  | <img width="250px" src="SHREC17/class_6_2.gif">  | <img width="250px" src="SHREC17/class_7_2.gif">  | <img width="250px" src="SHREC17/class_8_2.gif">  |
+| Rotation Clockwise                               | Rotation Counter Clockwise                       | Swipe Right                                      | Swipe Left                                       |
+| <img width="250px" src="SHREC17/class_9_1.gif">  | <img width="250px" src="SHREC17/class_10_1.gif"> | <img width="250px" src="SHREC17/class_11_1.gif"> | <img width="250px" src="SHREC17/class_12_1.gif"> |
+| <img width="250px" src="SHREC17/class_9_2.gif">  | <img width="250px" src="SHREC17/class_10_2.gif"> | <img width="250px" src="SHREC17/class_11_2.gif"> | <img width="250px" src="SHREC17/class_12_2.gif"> |
+| Swipe Up                                         | Swipe Down                                       | Swipe X                                          | Swipe +                                          |
+| <img width="250px" src="SHREC17/class_13_1.gif"> | <img width="250px" src="SHREC17/class_13_2.gif"> | <img width="250px" src="SHREC17/class_14_1.gif"> | <img width="250px" src="SHREC17/class_14_2.gif"> |
+| Swipe V                                          |                                                  | Shake                                            |                                                  |
