@@ -37,7 +37,9 @@ collecting related resources of gesture recognition here.
   *Natalia Neverova, Christian Wolf, Graham Taylor, Florian Nebout*  
 - 【2010 TPAMI】Handling Movement Epenthesis and Segmentation Ambiguities in Sign Language Recognition Nested Dynamic Programming. [[paper]]( http://figment.csee.usf.edu/~sarkar/PDFs/YangSarkarLoedingTPAMI-2008-01-0026.pdf )    
   *Ruiduo Yang, Sudeep Sarkar,  Barbara Loeding* 
-- 【2005 TPAMI】Automatic Sign Language Analysis: A Survey and the Future beyond Lexical Meaning. [[paper]]( http://compbio.fmph.uniba.sk/vyuka/gm/handouts/Lee1999.pdf )    
+- 【2007 TSMC】Gesture Recognition: A Survey. [[paper]](<http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.107.6243&rep=rep1&type=pdf>)    
+  *Sushmita Mitra, Tinku Acharya* 
+- 【2005 TPAMI】Automatic Sign Language Analysis: A Survey and the Future beyond Lexical Meaning. [[paper]](https://pdfs.semanticscholar.org/852e/333b06fbe9ea5bf3dd1e894cad86283b94f7.pdf )    
   *Sylvie C.W. Ong,  Surendra Ranganath* 
 - 【1999 TPAMI】An HMM-Based Threshold Model Approach for Gesture Recognition. [[paper]]( <http://compbio.fmph.uniba.sk/vyuka/gm/handouts/Lee1999.pdf> )   
   *Hyeon-Kyu Lee, Jin H. Kim*
