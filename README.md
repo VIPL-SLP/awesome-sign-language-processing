@@ -24,8 +24,16 @@ collecting related resources of gesture recognition here.
 
 ## Journal Papers
 
-- 【2005 TPAMI】Automatic sign language analysis: A survey and the future beyond lexical meaning. [[paper]]( https://pdfs.semanticscholar.org/852e/333b06fbe9ea5bf3dd1e894cad86283b94f7.pdf )    
+- 【2015 TCSVT】A Survey on 3D Hand Gesture Recognition. [[paper]]( http://www.academia.edu/download/48354754/1.pdf )    
+  *Hong Cheng, Lu Yang, Zicheng Liu* 
+- 【2015 CVIU】Recent Methods and Databases in Vision-based Hand Gesture Recognition: A Review. [[paper]]( https://www.researchgate.net/profile/Pramod_Pisharady/publication/284070092_Recent_methods_and_databases_in_vision-based_hand_gesture_recognition_A_review/links/59db8d320f7e9b1947ef77ee/Recent-methods-and-databases-in-vision-based-hand-gesture-recognition-A-review.pdf)    
+  *Pramod Kumar Pisharady, Martin Saerbeck* 
+- 【2010 TPAMI】Handling Movement Epenthesis and Segmentation Ambiguities in Sign Language Recognition Nested Dynamic Programming. [[paper]]( http://figment.csee.usf.edu/~sarkar/PDFs/YangSarkarLoedingTPAMI-2008-01-0026.pdf )    
+  *Ruiduo Yang, Sudeep Sarkar,  Barbara Loeding* 
+- 【2005 TPAMI】An HMM-Based Threshold Model Approach for Gesture Recognition. [[paper]]( http://compbio.fmph.uniba.sk/vyuka/gm/handouts/Lee1999.pdf )    
   *SCW Ong, S Ranganath* 
+- 【1999 TPAMI】Visual interpretation of hand gestures for human-computer interaction: A review. [[paper]]( https://www.semanticscholar.org/paper/Visual-Interpretation-of-Hand-Gestures-for-A-Review-Pavlovic-Sharma/8dd3d5ef2e1c40433417cd90e21ce9a0468a7626 )   
+  *Hyeon-Kyu Lee, Jin H. Kim*
 - 【1997 TPAMI】Visual interpretation of hand gestures for human-computer interaction: A review. [[paper]]( https://www.semanticscholar.org/paper/Visual-Interpretation-of-Hand-Gestures-for-A-Review-Pavlovic-Sharma/8dd3d5ef2e1c40433417cd90e21ce9a0468a7626 )   
   *VI Pavlovic, R Sharma, TS Huang*
 
