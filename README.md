@@ -48,6 +48,15 @@ collecting related resources of gesture recognition here.
 
 ## Conference Papers
 
+#### 2020
+
+- 【AAAI 2020】Spatial-Temporal Multi-Cue Network for Continuous Sign Language Recognition. [[paper]](<https://arxiv.org/pdf/2002.03187.pdf>)  
+  *Hao Zhou, Wengang Zhou, Yun Zhou, Houqiang Li* 
+- 【WACV 2020】Word-level Deep Sign Language Recognition from Video: A New Large-scale Dataset and Methods Comparison.  [[paper]](<http://openaccess.thecvf.com/content_WACV_2020/papers/Li_Word-level_Deep_Sign_Language_Recognition_from_Video_A_New_Large-scale_WACV_2020_paper.pdf>)  
+  *Dongxu Li, Cristian Rodriguez, Xin Yu, Hongdong Li*
+- 【WACV 2020】Neural Sign Language Synthesis: Words Are Our Glosses. [[paper]](<http://openaccess.thecvf.com/content_WACV_2020/papers/Zelinka_Neural_Sign_Language_Synthesis_Words_Are_Our_Glosses_WACV_2020_paper.pdf>)  
+  *Jan Zelinka, Jakub Kanis*
+
 #### 2019
 
 - 【ICCV 2019】Talking With Hands 16.2M: A Large-Scale Dataset of Synchronized Body-Finger Motion and Audio for Conversational Motion Analysis and Synthesis. [[paper]]( http://openaccess.thecvf.com/content_ICCV_2019/papers/Lee_Talking_With_Hands_16.2M_A_Large-Scale_Dataset_of_Synchronized_Body-Finger_ICCV_2019_paper.pdf )   
@@ -83,6 +92,8 @@ collecting related resources of gesture recognition here.
   *Pradyumna Narayana, Ross Beveridge, Bruce A. Draper*
 - 【CVPR 2018】Neural Sign Language Translation. [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Camgoz_Neural_Sign_Language_CVPR_2018_paper.pdf)  
   *Necati Cihan Camgoz, Simon Hadfield, Oscar Koller, Hermann Ney, Richard Bowden* 
+- 【CVPR 2018】Making Convolutional Networks Recurrent for Visual Sequence Learning. [[paper]](<http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_Making_Convolutional_Networks_CVPR_2018_paper.pdf>)  
+  *Xiaodong Yang, Pavlo Molchanov, Jan Kautz*
 - 【ECCV 2018】Deformable Pose Traversal Convolution for 3D Action and Gesture Recognition. [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Junwu_Weng_Deformable_Pose_Traversal_ECCV_2018_paper.pdf)  
   *Junwu Weng, Mengyuan Liu, Xudong Jiang, Junsong Yuan*
 - 【BMVC 2018】Point Attention Network for Gesture Recognition Using Point Cloud Data. [[paper]](http://bmvc2018.org/contents/papers/0427.pdf)  
