@@ -24,6 +24,8 @@ collecting related resources of gesture recognition here.
 
 ## Journal Papers
 
+- 【2020 IJCV】Text2Sign: Towards Sign Language Production Using Neural Machine Translation and Generative Adversarial Networks.[[paper]](<https://link.springer.com/content/pdf/10.1007%2Fs11263-019-01281-2.pdf>)   
+  *Stephanie Stoll, Necati Cihan Camgoz, Simon Hadfield, Richard Bowden*
 - 【2019 TPAMI】Weakly Supervised Learning with Multi-Stream CNN-LSTM-HMMs to Discover Sequential Parallelism in Sign Language Videos. [[paper]]( <https://www-i6.informatik.rwth-aachen.de/publications/download/1099/Koller-PAMI-2019.pdf>)    
   *Oscar Koller, Necati Cihan Camgoz, Hermann Ney, Richard Bowden*  
 - 【2018 IJCV】Deep Sign: Enabling Robust Statistical Continuous Sign Language
@@ -50,6 +52,16 @@ collecting related resources of gesture recognition here.
 
 #### 2020
 
+- 【CVPR 2020】Decoupled Representation Learning for Skeleton-Based Gesture Recognition	.  
+  *Jianbo Liu, Yongcheng Liu, Ying Wang, Véronique Prinet, Shiming Xiang, Chunhong Pan*
+- 【CVPR 2020】An Efficient PointLSTM for Point Clouds Based Gesture Recognition.  
+  *Yuecong Min, Yanxiao Zhang, Xiujuan Chai, Xilin Chen*
+- 【CVPR 2020】Music Gesture for Visual Sound Separation. [[paper]](<https://arxiv.org/pdf/2004.09476.pdf>)  
+  *Chuang Gan, Deng Huang, Hang Zhao, Joshua B. Tenenbaum, Antonio Torralba*	
+- 【CVPR 2020】Transferring Cross-Domain Knowledge for Video Sign Language Recognition.[[paper]](<https://arxiv.org/pdf/2003.03703.pdf>)  
+  *Dongxu Li, Xin Yu, Chenchen Xu, Lars Petersson, Hongdong Li*	
+- 【CVPR 2020] Sign Language Transformers: Joint End-to-End Sign Language Recognition and Translation.[[paper]](<https://arxiv.org/pdf/2003.13830.pdf>)   
+  *Necati Cihan Camgöz, Oscar Koller, Simon Hadfield, Richard Bowden*	
 - 【AAAI 2020】Spatial-Temporal Multi-Cue Network for Continuous Sign Language Recognition. [[paper]](<https://arxiv.org/pdf/2002.03187.pdf>)  
   *Hao Zhou, Wengang Zhou, Yun Zhou, Houqiang Li* 
 - 【WACV 2020】Word-level Deep Sign Language Recognition from Video: A New Large-scale Dataset and Methods Comparison.  [[paper]](<http://openaccess.thecvf.com/content_WACV_2020/papers/Li_Word-level_Deep_Sign_Language_Recognition_from_Video_A_New_Large-scale_WACV_2020_paper.pdf>)  
