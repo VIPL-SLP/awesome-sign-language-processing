@@ -52,9 +52,9 @@ collecting related resources of gesture recognition here.
 
 #### 2020
 
-- 【CVPR 2020】Decoupled Representation Learning for Skeleton-Based Gesture Recognition	.  
+- 【CVPR 2020】Decoupled Representation Learning for Skeleton-Based Gesture Recognition.[[paper]](<http://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Decoupled_Representation_Learning_for_Skeleton-Based_Gesture_Recognition_CVPR_2020_paper.pdf>)  
   *Jianbo Liu, Yongcheng Liu, Ying Wang, Véronique Prinet, Shiming Xiang, Chunhong Pan*
-- 【CVPR 2020】An Efficient PointLSTM for Point Clouds Based Gesture Recognition.  
+- 【CVPR 2020】An Efficient PointLSTM for Point Clouds Based Gesture Recognition.[[paper]](<http://openaccess.thecvf.com/content_CVPR_2020/papers/Min_An_Efficient_PointLSTM_for_Point_Clouds_Based_Gesture_Recognition_CVPR_2020_paper.pdf>)  
   *Yuecong Min, Yanxiao Zhang, Xiujuan Chai, Xilin Chen*
 - 【CVPR 2020】Music Gesture for Visual Sound Separation. [[paper]](<https://arxiv.org/pdf/2004.09476.pdf>)  
   *Chuang Gan, Deng Huang, Hang Zhao, Joshua B. Tenenbaum, Antonio Torralba*	
