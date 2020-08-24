@@ -52,17 +52,19 @@ collecting related resources of gesture recognition here.
 
 #### 2020
 
-- 【ECCV 2020】 [SLRTP 2020](https://slrtp.com/) Sign language recognition, translation & production.
+- 【ECCV 2020】 [SLRTP 2020](https://slrtp.com/) Sign language recognition, translation & production. [[Accepted papers]](SLRTP_acccepted_list.md)
 - 【ECCV 2020】Progressive Transformers for End-to-End Sign Language Production.[[paper](https://arxiv.org/pdf/2004.14874.pdf)]    
   *Ben Saunders, Necati Cihan Camgoz, and Richard Bowden*
-- 【ECCV 2020】Stochastic Fine-grained Labeling of Multi-state Sign Glosses for Continuous Sign Language Recognition.   
+- 【ECCV 2020】Stochastic Fine-grained Labeling of Multi-state Sign Glosses for Continuous Sign Language Recognition.[[paper]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610171.pdf)   
   *Niu Zhe, Brian Mak*
 - 【ECCV 2020】Fully Convolutional Networks for Continuous Sign Language Recognition.[[paper](https://arxiv.org/pdf/2007.12402v1.pdf)]   
   *Ka Leong Cheng, Zhaoyang Yang, Qifeng Chen, and Yu-Wing Tai*
-- 【ECCV 2020】 Collaborative Learning of Gesture Recognition and 3D Hand Pose Estimation with Multi-Order Feature Analysis.
+- 【ECCV 2020】 Collaborative Learning of Gesture Recognition and 3D Hand Pose Estimation with Multi-Order Feature Analysis.[[paper]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480766.pdf)    
+  *Yang, Siyuan, Jun Liu, Shijian Lu, Meng Hwa Er, and Alex C. Kot.*
 - 【ECCV 2020】Style Transfer for Co-Speech Gesture Animation: A Multi-Speaker Conditional-Mixture Approach. [[paper]](https://arxiv.org/pdf/2007.12553.pdf)    
   *Chaitanya Ahuja, Dong Won Lee, Yukiko I. Nakano, and Louis-Philippe Morency*
-- 【ECCV 2020】Towards Efficient Coarse-to-Fine Networks for Action and Gesture Recognition.
+- 【ECCV 2020】Towards Efficient Coarse-to-Fine Networks for Action and Gesture Recognition.[[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123750035.pdf)     
+  *Quader, Niamul, Juwei Lu, Peng Dai, and Wei Li*
 
 - 【CVPR 2020】Decoupled Representation Learning for Skeleton-Based Gesture Recognition.[[paper]](<http://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Decoupled_Representation_Learning_for_Skeleton-Based_Gesture_Recognition_CVPR_2020_paper.pdf>)  
   *Jianbo Liu, Yongcheng Liu, Ying Wang, Véronique Prinet, Shiming Xiang, Chunhong Pan*
