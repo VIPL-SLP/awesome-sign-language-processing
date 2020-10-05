@@ -52,7 +52,29 @@ collecting related resources of gesture recognition here.
 
 #### 2020
 
+- 【Arxiv】Facial Expression Phoenix (FePh): An Annotated Sequenced Dataset for Facial and Emotion-Specified Expressions in Sign Language. [[paper]](http://arxiv.org/pdf/2003.08759v2.pdf)    
+  *Marie Alaghband, Niloofar Yousefi, Ivan Garibay*
+- 【Arxiv】Quantitative Survey of the State of the Art in Sign Language Recognition. [[paper]](http://arxiv.org/pdf/2008.09918v2.pdf)
+  *Oscar Koller*
+- 【FG 2020】Feature Selection for Zero-Shot Gesture Recognition. [[paper]](https://www.computer.org/csdl/proceedings-article/fg/2020/307900a309/1kecI8r1WXC)    
+  *Naveen Madapana, Juan Wachs*
+- 【FG 2020】Image-Based Pose Representation for Action Recognition and Hand Gesture Recognition. [[paper]]()    
+  *Zeyi Lin, Wei Zhang, Xiaoming Deng, Cuixia Ma, Hongan Wang*
+- 【FG 2020】Neural Sign Language Translation by Learning Tokenization. [[paper]](https://arxiv.org/pdf/2002.00479.pdf)     
+   *Orbay, Alptekin, and Lale Akarun* 
+- 【FG 2020】Sign Language Recognition in Virtual Reality. [[paper]](https://www.computer.org/csdl/proceedings-article/fg/2020/307900a185/1kecI0aXAje)     
+  *Jacob Schioppo, Zachary Meyer, Diego Fabiano, Shaun Canavan*
+- 【FG 2020】SILFA: Sign Language Facial Action Database for the Development of Assistive Technologies for the Deaf.[[paper]](https://www.computer.org/csdl/proceedings-article/fg/2020/307900a382/1kecIdR70Y0)    
+  *Emely Pujólli da Silva, Paula Dornhofer Paro Costa, Kate Mamhy Oliveira Kumada, José Mario De Martino*
+- 【FG 2020】FineHand: Learning Hand Shapes for American Sign Language Recognition. [[paper]](https://arxiv.org/pdf/2003.08753.pdf)    
+  *Al Amin Hosain, Panneer Selvam Santhalingam, Parth Pathak, Huzefa Rangwala, Jana Košecká*
+- 【FG 2020】Introduction and Analysis of an Event-Based Sign Language Dataset [[paper]](https://www.computer.org/csdl/proceedings-article/fg/2020/307900a441/1kecIyj5b0c)    
+  *Ajay Vasudevan, Pablo Negri, Bernabe Linares-Barranco, Teresa Serrano-Gotarredona*
+- 【FG 2020】Towards a Visual Sign Language Dataset for Home Care Services. [[paper]](https://www.computer.org/csdl/proceedings-article/fg/2020/307900a622/1kecIMIW1Bm)    
+  *D. Kosmopoulos, I. Oikonomidis, C. Constantinopoulos, N. Arvanitis, K. Antzakas, A. Bifis, G. Lydakis, A. Roussos, A. Argyros*
 - 【ECCV 2020】 [SLRTP 2020](https://slrtp.com/) Sign language recognition, translation & production. [[Accepted papers]](SLRTP_acccepted_list.md)
+- 【ECCV 2020】BSL-1K: Scaling up co-articulated sign language recognition using mouthing cues.[[paper]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123560035.pdf)    
+  *Samuel Albanie, Gül Varol, Liliane Momeni, Triantafyllos Afouras, Joon Son Chung, Neil Fox, Andrew Zisserman*
 - 【ECCV 2020】Progressive Transformers for End-to-End Sign Language Production.[[paper](https://arxiv.org/pdf/2004.14874.pdf)]    
   *Ben Saunders, Necati Cihan Camgoz, and Richard Bowden*
 - 【ECCV 2020】Stochastic Fine-grained Labeling of Multi-state Sign Glosses for Continuous Sign Language Recognition.[[paper]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610171.pdf)   
@@ -65,7 +87,6 @@ collecting related resources of gesture recognition here.
   *Chaitanya Ahuja, Dong Won Lee, Yukiko I. Nakano, and Louis-Philippe Morency*
 - 【ECCV 2020】Towards Efficient Coarse-to-Fine Networks for Action and Gesture Recognition.[[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123750035.pdf)     
   *Quader, Niamul, Juwei Lu, Peng Dai, and Wei Li*
-
 - 【CVPR 2020】Decoupled Representation Learning for Skeleton-Based Gesture Recognition.[[paper]](<http://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Decoupled_Representation_Learning_for_Skeleton-Based_Gesture_Recognition_CVPR_2020_paper.pdf>)  
   *Jianbo Liu, Yongcheng Liu, Ying Wang, Véronique Prinet, Shiming Xiang, Chunhong Pan*
 - 【CVPR 2020】An Efficient PointLSTM for Point Clouds Based Gesture Recognition.[[paper]](<http://openaccess.thecvf.com/content_CVPR_2020/papers/Min_An_Efficient_PointLSTM_for_Point_Clouds_Based_Gesture_Recognition_CVPR_2020_paper.pdf>)  
