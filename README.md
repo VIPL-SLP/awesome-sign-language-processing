@@ -52,6 +52,14 @@ collecting related resources of gesture recognition here.
 
 #### 2020
 
+- 【ACM MM 2020】INCLUDE: A Large Scale Dataset for Indian Sign Language Recognition.[[paper]](https://dl.acm.org/doi/abs/10.1145/3394171.3413528)    
+  *Sridhar, Advaith, Rohith Gandhi Ganesan, Pratyush Kumar, and Mitesh Khapra*
+- 【ACM MM 2020】Boosting Continuous Sign Language Recognition via Cross Modality Augmentation.[[paper]](https://arxiv.org/pdf/2010.05264.pdf)    
+  *Pu, Junfu, Wengang Zhou, Hezhen Hu, and Houqiang Li*
+- 【ACM MM 2020】Recognizing Camera Wearer from Hand Gestures in Egocentric Videos.[[paper]](http://www.cse.iitd.ac.in/~chetan/papers/daksh-mm-2020.pdf)    
+  *Thapar, Daksh, Aditya Nigam, and Chetan Arora*
+- 【NIPS 2020】TSPNet: Hierarchical Feature Learning via Temporal Semantic Pyramid for Sign Language Translation. [[paper]](https://proceedings.neurips.cc/paper/2020/file/8c00dee24c9878fea090ed070b44f1ab-Paper.pdf)    
+  *Li, Dongxu, Chenchen Xu, Xin Yu, Kaihao Zhang, Benjamin Swift, Hanna Suominen, and Hongdong Li*
 - 【Arxiv】Facial Expression Phoenix (FePh): An Annotated Sequenced Dataset for Facial and Emotion-Specified Expressions in Sign Language. [[paper]](http://arxiv.org/pdf/2003.08759v2.pdf)    
   *Marie Alaghband, Niloofar Yousefi, Ivan Garibay*
 - 【Arxiv】Quantitative Survey of the State of the Art in Sign Language Recognition. [[paper]](http://arxiv.org/pdf/2008.09918v2.pdf)
