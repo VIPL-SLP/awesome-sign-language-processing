@@ -50,6 +50,17 @@ collecting related resources of gesture recognition here.
 
 ## Conference Papers
 
+#### 2021
+
+- 【AAAI 2021】Hand-Model-Aware Sign Language Recognition.    
+  *Hezhen Hu, Wengang Zhou, Houqiang Li*
+- 【AAAI 2021】 Regional Attention with Architecture-Rebuilt 3D Network for RGB-D Gesture Recognition    
+  *Benjia Zhou, Yunan Li, Jun Wan*
+- 【WACV 2021】 Hand Pose Guided 3D Pooling for Word-level Sign Language Recognition.     
+  *Al Amin Hosain; Panneer Selvam Santhalingam; Parth Pathak; Huzefa Rangwala; Jana Kosecka*
+- 【WACV 2021】Whose hand is this? Person Identification from Egocentric Hand Gestures     
+  Satoshi Tsutsui; Yanwei Fu; David Crandall
+
 #### 2020
 
 - 【ACM MM 2020】INCLUDE: A Large Scale Dataset for Indian Sign Language Recognition.[[paper]](https://dl.acm.org/doi/abs/10.1145/3394171.3413528)    
@@ -60,10 +71,6 @@ collecting related resources of gesture recognition here.
   *Thapar, Daksh, Aditya Nigam, and Chetan Arora*
 - 【NIPS 2020】TSPNet: Hierarchical Feature Learning via Temporal Semantic Pyramid for Sign Language Translation. [[paper]](https://proceedings.neurips.cc/paper/2020/file/8c00dee24c9878fea090ed070b44f1ab-Paper.pdf)    
   *Li, Dongxu, Chenchen Xu, Xin Yu, Kaihao Zhang, Benjamin Swift, Hanna Suominen, and Hongdong Li*
-- 【Arxiv】Facial Expression Phoenix (FePh): An Annotated Sequenced Dataset for Facial and Emotion-Specified Expressions in Sign Language. [[paper]](http://arxiv.org/pdf/2003.08759v2.pdf)    
-  *Marie Alaghband, Niloofar Yousefi, Ivan Garibay*
-- 【Arxiv】Quantitative Survey of the State of the Art in Sign Language Recognition. [[paper]](http://arxiv.org/pdf/2008.09918v2.pdf)
-  *Oscar Koller*
 - 【FG 2020】Feature Selection for Zero-Shot Gesture Recognition. [[paper]](https://www.computer.org/csdl/proceedings-article/fg/2020/307900a309/1kecI8r1WXC)    
   *Naveen Madapana, Juan Wachs*
 - 【FG 2020】Image-Based Pose Representation for Action Recognition and Hand Gesture Recognition. [[paper]]()    
@@ -182,7 +189,19 @@ collecting related resources of gesture recognition here.
 
 ## arXiv Papers
 
-### 2019
+#### 2021
+
+- 【arXiv:2104.02330】Visual Alignment Constraint for Continuous Sign Language Recognition.[[paper]](https://arxiv.org/abs/2104.02330)   
+  *Yuecong Min, Aiming Hao, Xiujuan Chai, Xilin Chen*
+
+#### 2020
+
+- 【arXiv:2003.08759】Facial Expression Phoenix (FePh): An Annotated Sequenced Dataset for Facial and Emotion-Specified Expressions in Sign Language. [[paper]](http://arxiv.org/pdf/2003.08759v2.pdf)    
+  *Marie Alaghband, Niloofar Yousefi, Ivan Garibay*
+- 【arXiv:2008.09918】Quantitative Survey of the State of the Art in Sign Language Recognition. [[paper]](http://arxiv.org/pdf/2008.09918v2.pdf)   
+  *Oscar Koller*
+
+#### 2019
 
 - 【arXiv:1901.00234】Analysis of Contraction Effort Level in EMG-Based Gesture 
   Recognition Using Hyperdimensional Computing. [[paper]](https://arxiv.org/pdf/1901.00234)  
