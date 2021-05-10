@@ -63,9 +63,9 @@ collecting related resources of gesture recognition here.
   *Gül Varol, Liliane Momeni, Samuel Albanie, Triantafyllos Afouras, Andrew Zisserman*
 - 【CVPR 2021】iMiGUE: An Identity-Free Video Dataset for Micro-Gesture Understanding and Emotion Analysis.    
   *Xin Liu, Henglin Shi, Haoyu Chen, Zitong Yu, Xiaobai Li, Guoying Zhao*
-- 【CVPR 2021】Body2Hands: Learning To Infer 3D Hands From Conversational Gesture Body Dynamics. [[paper]](https://arxiv.org/abs/2007.12287)
+- 【CVPR 2021】Body2Hands: Learning To Infer 3D Hands From Conversational Gesture Body Dynamics. [[paper]](https://arxiv.org/abs/2007.12287)  
   *Evonne Ng, Shiry Ginosar, Trevor Darrell, Hanbyul Joo*
-- 【CVPR 2021】Model-Aware Gesture-to-Gesture Translation.
+- 【CVPR 2021】Model-Aware Gesture-to-Gesture Translation.   
   *Hezhen Hu, Weilun Wang, Wengang Zhou, Weichao Zhao, Houqiang Li*
 - 【AAAI 2021】Hand-Model-Aware Sign Language Recognition.    
   *Hezhen Hu, Wengang Zhou, Houqiang Li*
@@ -74,6 +74,7 @@ collecting related resources of gesture recognition here.
 - 【WACV 2021】 Hand Pose Guided 3D Pooling for Word-level Sign Language Recognition.[[paper]](https://openaccess.thecvf.com/content/WACV2021/papers/Hosain_Hand_Pose_Guided_3D_Pooling_for_Word-Level_Sign_Language_Recognition_WACV_2021_paper.pdf)     
   *Al Amin Hosain; Panneer Selvam Santhalingam; Parth Pathak; Huzefa Rangwala; Jana Kosecka*
 - 【WACV 2021】Whose hand is this? Person Identification from Egocentric Hand Gestures.[[paper]](https://arxiv.org/abs/2011.08900)        
+  *Satoshi Tsutsui; Yanwei Fu; David Crandall*
 
 #### 2020
 
