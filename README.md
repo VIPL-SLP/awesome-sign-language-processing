@@ -24,6 +24,8 @@ collecting related resources of gesture recognition here.
 
 ## Journal Papers
 
+- 【2021 TMM】Spatial-Temporal Multi-Cue Network for Sign Language Recognition and Translation.[[paper]](https://ieeexplore.ieee.org/abstract/document/9354538/)    
+  *Hao Zhou, Wengang Zhou, Yun Zhou, Houqiang Li*
 - 【2020 IJCV】Text2Sign: Towards Sign Language Production Using Neural Machine Translation and Generative Adversarial Networks.[[paper]](<https://link.springer.com/content/pdf/10.1007%2Fs11263-019-01281-2.pdf>)   
   *Stephanie Stoll, Necati Cihan Camgoz, Simon Hadfield, Richard Bowden*
 - 【2019 TPAMI】Weakly Supervised Learning with Multi-Stream CNN-LSTM-HMMs to Discover Sequential Parallelism in Sign Language Videos. [[paper]]( <https://www-i6.informatik.rwth-aachen.de/publications/download/1099/Koller-PAMI-2019.pdf>)    
@@ -51,7 +53,6 @@ collecting related resources of gesture recognition here.
 ## Conference Papers
 
 #### 2021
-
 - 【CVPR 2021】Improving Sign Language Translation With Monolingual Data by Sign Back-Translation.    
   *Hao Zhou, Wengang Zhou, Weizhen Qi, Junfu Pu, Houqiang Li*
 - 【CVPR 2021】How2Sign: A Large-Scale Multimodal Dataset for Continuous American Sign Language. [[paper]](https://arxiv.org/abs/2008.08143)   
@@ -72,8 +73,7 @@ collecting related resources of gesture recognition here.
   *Benjia Zhou, Yunan Li, Jun Wan*
 - 【WACV 2021】 Hand Pose Guided 3D Pooling for Word-level Sign Language Recognition.[[paper]](https://openaccess.thecvf.com/content/WACV2021/papers/Hosain_Hand_Pose_Guided_3D_Pooling_for_Word-Level_Sign_Language_Recognition_WACV_2021_paper.pdf)     
   *Al Amin Hosain; Panneer Selvam Santhalingam; Parth Pathak; Huzefa Rangwala; Jana Kosecka*
-- 【WACV 2021】Whose hand is this? Person Identification from Egocentric Hand Gestures.[[paper]](https://arxiv.org/abs/2011.08900)     
-  Satoshi Tsutsui; Yanwei Fu; David Crandall
+- 【WACV 2021】Whose hand is this? Person Identification from Egocentric Hand Gestures.[[paper]](https://arxiv.org/abs/2011.08900)        
 
 #### 2020
 
