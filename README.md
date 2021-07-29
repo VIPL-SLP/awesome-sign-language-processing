@@ -53,7 +53,13 @@ collecting related resources of gesture recognition here.
 ## Conference Papers
 
 #### 2021
-- 【CVPR 2021】Improving Sign Language Translation With Monolingual Data by Sign Back-Translation.    
+
+- 【ICCV 2021】Visual Alignment Constraint for Continuous Sign Language Recognition.[[paper]](https://arxiv.org/abs/2104.02330)    
+   *Yuecong Min, Aiming Hao, Xiujuan Chai, and Xilin Chen*
+- 【ICCV 2021】Self-Mutual Distillation Learning for Continuous Sign Language Recognition.    
+  *Aiming Hao, Yuecong Min, and Xilin Chen*
+
+- 【CVPR 2021】Improving Sign Language Translation With Monolingual Data by Sign Back-Translation.[[paper]](https://arxiv.org/abs/2105.12397)    
   *Hao Zhou, Wengang Zhou, Weizhen Qi, Junfu Pu, Houqiang Li*
 - 【CVPR 2021】How2Sign: A Large-Scale Multimodal Dataset for Continuous American Sign Language. [[paper]](https://arxiv.org/abs/2008.08143)   
   *Amanda Duarte, Shruti Palaskar, Lucas Ventura, Deepti Ghadiyaram, Kenneth DeHaan, Florian Metze, Jordi Torres, Xavier Giro-i-Nieto*
@@ -203,11 +209,6 @@ collecting related resources of gesture recognition here.
   *Oscar Koller, Sepehr Zargaran, Hermann Ney and Richard Bowden*
 
 ## arXiv Papers
-
-#### 2021
-
-- 【arXiv:2104.02330】Visual Alignment Constraint for Continuous Sign Language Recognition.[[paper]](https://arxiv.org/abs/2104.02330)   
-  *Yuecong Min, Aiming Hao, Xiujuan Chai, Xilin Chen*
 
 #### 2020
 
