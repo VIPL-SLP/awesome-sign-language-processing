@@ -54,11 +54,22 @@ collecting related resources of gesture recognition here.
 
 #### 2021
 
+- 【ICCV 2021】YouRefIt: Embodied Reference Understanding With Language and Gesture.[[paper]](https://arxiv.org/abs/2109.03413)    
+   *Yixin Chen; Qing Li; Deqian Kong; Yik Lun Kei; Song-Chun Zhu; Tao Gao; Yixin Zhu; Siyuan Huang*
+- 【ICCV 2021】Speech Drives Templates: Co-Speech Gesture Synthesis With Learned Templates.     
+   *Shenhan Qian; Zhi Tu; Yihao Zhi; Wen Liu; Shenghua Gao*
+- 【ICCV 2021】Audio2Gestures: Generating Diverse Gestures From Speech Audio With Conditional Variational Autoencoders.    
+   *Jing Li; Di Kang; Wenjie Pei; Xuefei Zhe; Ying Zhang; Zhenyu He; Linchao Bao*
+- 【ICCV 2021】Aligning Subtitles in Sign Language Videos.[[paper]](https://arxiv.org/abs/2105.02877)     
+   *Hannah Bull; Triantafyllos Afouras; Gül Varol; Samuel Albanie; Liliane Momeni; Andrew Zisserman*
+- 【ICCV 2021】Mixed SIGNals: Sign Language Production via a Mixture of Motion Primitives.[[paper]](https://arxiv.org/abs/2107.11317)    
+   *Ben Saunders; Necati Cihan Camgoz; Richard Bowden*
+- 【ICCV 2021】SignBERT: Pre-Training of Hand-Model-Aware Representation for Sign Language Recognition.    
+   *Hezhen Hu; Weichao Zhao; Wengang Zhou; Yuechen Wang; Houqiang Li*
 - 【ICCV 2021】Visual Alignment Constraint for Continuous Sign Language Recognition.[[paper]](https://arxiv.org/abs/2104.02330)    
    *Yuecong Min, Aiming Hao, Xiujuan Chai, and Xilin Chen*
 - 【ICCV 2021】Self-Mutual Distillation Learning for Continuous Sign Language Recognition.    
   *Aiming Hao, Yuecong Min, and Xilin Chen*
-
 - 【CVPR 2021】Improving Sign Language Translation With Monolingual Data by Sign Back-Translation.[[paper]](https://arxiv.org/abs/2105.12397)    
   *Hao Zhou, Wengang Zhou, Weizhen Qi, Junfu Pu, Houqiang Li*
 - 【CVPR 2021】How2Sign: A Large-Scale Multimodal Dataset for Continuous American Sign Language. [[paper]](https://arxiv.org/abs/2008.08143)   
@@ -67,13 +78,13 @@ collecting related resources of gesture recognition here.
   *Bowen Shi, Diane Brentari, Greg Shakhnarovich, Karen Livescu*
 - 【CVPR 2021】 Read and Attend: Temporal Localisation in Sign Language Videos.[[paper]](https://arxiv.org/abs/2103.16481)    
   *Gül Varol, Liliane Momeni, Samuel Albanie, Triantafyllos Afouras, Andrew Zisserman*
-- 【CVPR 2021】iMiGUE: An Identity-Free Video Dataset for Micro-Gesture Understanding and Emotion Analysis.    
+- 【CVPR 2021】iMiGUE: An Identity-Free Video Dataset for Micro-Gesture Understanding and Emotion Analysis.[[paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Liu_iMiGUE_An_Identity-Free_Video_Dataset_for_Micro-Gesture_Understanding_and_Emotion_CVPR_2021_paper.html)    
   *Xin Liu, Henglin Shi, Haoyu Chen, Zitong Yu, Xiaobai Li, Guoying Zhao*
 - 【CVPR 2021】Body2Hands: Learning To Infer 3D Hands From Conversational Gesture Body Dynamics. [[paper]](https://arxiv.org/abs/2007.12287)  
   *Evonne Ng, Shiry Ginosar, Trevor Darrell, Hanbyul Joo*
-- 【CVPR 2021】Model-Aware Gesture-to-Gesture Translation.   
+- 【CVPR 2021】Model-Aware Gesture-to-Gesture Translation.[[paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Hu_Model-Aware_Gesture-to-Gesture_Translation_CVPR_2021_paper.html)   
   *Hezhen Hu, Weilun Wang, Wengang Zhou, Weichao Zhao, Houqiang Li*
-- 【AAAI 2021】Hand-Model-Aware Sign Language Recognition.    
+- 【AAAI 2021】Hand-Model-Aware Sign Language Recognition.[[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/16247)    
   *Hezhen Hu, Wengang Zhou, Houqiang Li*
 - 【AAAI 2021】 Regional Attention with Architecture-Rebuilt 3D Network for RGB-D Gesture Recognition.[[paper]](https://arxiv.org/pdf/2102.05348.pdf)    
   *Benjia Zhou, Yunan Li, Jun Wan*
