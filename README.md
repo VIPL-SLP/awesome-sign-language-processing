@@ -52,6 +52,31 @@ collecting related resources of gesture recognition here.
 
 ## Conference Papers
 
+#### 2022
+
+- 【CVPR 2022】MLSLT: Towards Multilingual Sign Language Translation.    
+  *Aoxiong Yin, Zhou Zhao, Weike Jin, Meng Zhang, Xingshan Zeng, Xiaofei He*
+- 【CVPR 2022】A Simple Multi-Modality Transfer Learning Baseline for Sign Language Translation.[[paper]](https://arxiv.org/abs/2203.04287)      
+  *Yutong Chen, Fangyun Wei, Xiao Sun, Zhirong Wu, Stephen Lin*
+- 【CVPR 2022】C2SLR: Consistency-Enhanced Continuous Sign Language Recognition.        
+  *Ronglai Zuo, Brian Mak*
+- 【CVPR 2022】Signing at Scale: Learning to Co-Articulate Signs for Large-Scale Photo-Realistic Sign Language Production.[[paper]](https://arxiv.org/abs/2203.15354)     
+  *Ben Saunders, Necati Cihan Camgoz, Richard Bowden*
+- 【CVPR 2022】LD-ConGR: A Large RGB-D Video Dataset for Long-Distance Continuous Gesture Recognition.     
+  *Dan Liu; Libo Zhang; Yanjun Wu*
+- 【CVPR 2022】Audio-Driven Neural Gesture Reenactment With Video Motion Graphs.    
+  *Yang Zhou; Jimei Yang; Dingzeyu Li; Jun Saito; Deepali Aneja; Evangelos Kalogerakis*
+- 【CVPR 2022】Learning Hierarchical Cross-Modal Association for Co-Speech Gesture Generation.[[paper]](https://arxiv.org/abs/2203.13161)   
+  *Xian Liu; Qianyi Wu; Hang Zhou; Yinghao Xu; Rui Qian; Xinyi Lin; Xiaowei Zhou; Wayne Wu; Bo Dai; Bolei Zhou*
+- 【CVPR 2022】SEEG: Semantic Energized Co-Speech Gesture Generation.[[paper]](https://ffmpbgrnn.github.io/publications/pdf/seeg.pdf)   
+  *Yuanzhi Liang; Qianyu Feng; Linchao Zhu; Li Hu; Pan Pan; Yi Yang*
+- 【CVPR 2022】Low-Resource Adaptation for Personalized Co-Speech Gesture Generation.    
+  *Chaitanya Ahuja; Dong Won Lee; Louis-Philippe Morency*
+- 【AAAI 2022】Learning Unseen Emotions from Gestures via Semantically-Conditioned Zero-Shot Perception with Adversarial Autoencoders.[[paper]](https://arxiv.org/abs/2009.08906)    
+  *Abhishek Banerjee, Uttaran Bhattacharya, Aniket Bera*
+- 【WACV 2022】Sign Language Translation With Hierarchical Spatio-Temporal Graph Neural Network [[paper]](https://openaccess.thecvf.com/content/WACV2022/html/Kan_Sign_Language_Translation_With_Hierarchical_Spatio-Temporal_Graph_Neural_Network_WACV_2022_paper.html)   
+  *Jichao Kan, Kun Hu, Markus Hagenbuchner, Ah Chung Tsoi, Mohammed Bennamoun, Zhiyong Wang*
+
 #### 2021
 
 - 【ICCV 2021】YouRefIt: Embodied Reference Understanding With Language and Gesture.[[paper]](https://arxiv.org/abs/2109.03413)    
@@ -66,10 +91,20 @@ collecting related resources of gesture recognition here.
    *Ben Saunders; Necati Cihan Camgoz; Richard Bowden*
 - 【ICCV 2021】SignBERT: Pre-Training of Hand-Model-Aware Representation for Sign Language Recognition.    
    *Hezhen Hu; Weichao Zhao; Wengang Zhou; Yuechen Wang; Houqiang Li*
-- 【ICCV 2021】Visual Alignment Constraint for Continuous Sign Language Recognition.[[paper]](https://arxiv.org/abs/2104.02330)    
+- 【ICCV 2021】Visual Alignment Constraint for Continuous Sign Language Recognition.[[paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Min_Visual_Alignment_Constraint_for_Continuous_Sign_Language_Recognition_ICCV_2021_paper.html)    
    *Yuecong Min, Aiming Hao, Xiujuan Chai, and Xilin Chen*
-- 【ICCV 2021】Self-Mutual Distillation Learning for Continuous Sign Language Recognition.    
+- 【ICCV 2021】Self-Mutual Distillation Learning for Continuous Sign Language Recognition.[[paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Hao_Self-Mutual_Distillation_Learning_for_Continuous_Sign_Language_Recognition_ICCV_2021_paper.html)    
   *Aiming Hao, Yuecong Min, and Xilin Chen*
+- 【ACM MM 2021】Contrastive Disentangled Meta-Learning for Signer-Independent Sign Language Translation.[[paper]](https://dl.acm.org/doi/abs/10.1145/3474085.3475456)   
+  *Tao Jin, Zhou Zhao*
+- 【ACM MM 2021】Towards Fast and High-Quality Sign Language Production.[[paper]](https://dl.acm.org/doi/10.1145/3474085.3475463)    
+  *Wencan Huang, Wenwen Pan, Zhou Zhao, Qi Tian*
+- 【ACM MM 2021】SimulSLT: End-to-End Simultaneous Sign Language Translation.[[paper]](https://arxiv.org/abs/2112.04228)     
+  *Aoxiong Yin, Zhou Zhao, Jinglin Liu, Weike Jin, Meng Zhang, Xingshan Zeng, Xiaofei He*
+- 【ACM MM 2021】Skeleton-Aware Neural Sign Language Translation.[[paper]](https://dl.acm.org/doi/abs/10.1145/3474085.3475577)      
+  *Shiwei Gan, Yafeng Yin, Zhiwei Jiang, Lei Xie, Sanglu Lu*
+- 【ACM MM 2021】Speech2AffectiveGestures: Synthesizing Co-Speech Gestures with Generative Adversarial Affective Expression Learning[[paper]](https://arxiv.org/abs/2108.00262)    
+  *Uttaran Bhattacharya, Elizabeth Childs, Nicholas S Rewkowski, Dinesh Manocha*
 - 【CVPR 2021】Improving Sign Language Translation With Monolingual Data by Sign Back-Translation.[[paper]](https://arxiv.org/abs/2105.12397)    
   *Hao Zhou, Wengang Zhou, Weizhen Qi, Junfu Pu, Houqiang Li*
 - 【CVPR 2021】How2Sign: A Large-Scale Multimodal Dataset for Continuous American Sign Language. [[paper]](https://arxiv.org/abs/2008.08143)   
