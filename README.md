@@ -53,26 +53,40 @@ collecting related resources of gesture recognition here.
 ## Conference Papers
 
 #### 2022
+- 【ECCV 2022】Deep Radial Embedding for Visual Sequence Learning.    
+  *Yuecong Min, Peiqi Jiao, Yanan Li, Wang Xiaotao, Lei Lei, Xiujuan Chai, Xilin Chen*
 
-- 【CVPR 2022】MLSLT: Towards Multilingual Sign Language Translation.    
+- 【ECCV 2022】Temporal Lift Pooling for Continuous Sign Language Recognition.[[paper]](https://arxiv.org/abs/2207.08734)      
+  *Lianyu Hu, Liqing Gao, Zekang Liu, Wei Feng*     
+
+- 【ECCV 2022】Automatic dense annotation of large-vocabulary sign language videos.[[paper]](https://arxiv.org/abs/2208.02802)      
+  *Liliane Momeni, Hannah Bull, Prajwal K R, Samuel Albanie, Gul Varol, Andrew Zisserman*    
+
+- 【ECCV 2022】BEAT: A Large-Scale Semantic and Emotional Multi-Modal Dataset for Conversational Gestures Synthesis.    
+  *Haiyang Liu, Zihao Zhu, Naoya Iwamoto, Yichen Peng, Zhengqing Li, YOU ZHOU, Elif Bozkurt, Bo Zheng*
+
+- 【ECCV 2022】Audio-Driven Stylized Gesture Generation with Flow-Based Model.     
+  *Sheng Ye, Yu-Hui Wen, Yanan Sun, Ying He, Ziyang Zhang, Yaoyuan Wang, Weihua He, Yong-Jin Liu*
+
+- 【CVPR 2022】MLSLT: Towards Multilingual Sign Language Translation.[[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Yin_MLSLT_Towards_Multilingual_Sign_Language_Translation_CVPR_2022_paper.html)          
   *Aoxiong Yin, Zhou Zhao, Weike Jin, Meng Zhang, Xingshan Zeng, Xiaofei He*
-- 【CVPR 2022】A Simple Multi-Modality Transfer Learning Baseline for Sign Language Translation.[[paper]](https://arxiv.org/abs/2203.04287)      
+- 【CVPR 2022】A Simple Multi-Modality Transfer Learning Baseline for Sign Language Translation.[[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Chen_A_Simple_Multi-Modality_Transfer_Learning_Baseline_for_Sign_Language_Translation_CVPR_2022_paper.html)      
   *Yutong Chen, Fangyun Wei, Xiao Sun, Zhirong Wu, Stephen Lin*
 - 【CVPR 2022】C2SLR: Consistency-Enhanced Continuous Sign Language Recognition.        
   *Ronglai Zuo, Brian Mak*
-- 【CVPR 2022】Signing at Scale: Learning to Co-Articulate Signs for Large-Scale Photo-Realistic Sign Language Production.[[paper]](https://arxiv.org/abs/2203.15354)     
+- 【CVPR 2022】Signing at Scale: Learning to Co-Articulate Signs for Large-Scale Photo-Realistic Sign Language Production.[[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Saunders_Signing_at_Scale_Learning_to_Co-Articulate_Signs_for_Large-Scale_Photo-Realistic_CVPR_2022_paper.html)     
   *Ben Saunders, Necati Cihan Camgoz, Richard Bowden*
-- 【CVPR 2022】LD-ConGR: A Large RGB-D Video Dataset for Long-Distance Continuous Gesture Recognition.     
+- 【CVPR 2022】LD-ConGR: A Large RGB-D Video Dataset for Long-Distance Continuous Gesture Recognition.[[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Liu_LD-ConGR_A_Large_RGB-D_Video_Dataset_for_Long-Distance_Continuous_Gesture_CVPR_2022_paper.html)     
   *Dan Liu; Libo Zhang; Yanjun Wu*
-- 【CVPR 2022】Audio-Driven Neural Gesture Reenactment With Video Motion Graphs.    
+- 【CVPR 2022】Audio-Driven Neural Gesture Reenactment With Video Motion Graphs.[[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Zhou_Audio-Driven_Neural_Gesture_Reenactment_With_Video_Motion_Graphs_CVPR_2022_paper.html)    
   *Yang Zhou; Jimei Yang; Dingzeyu Li; Jun Saito; Deepali Aneja; Evangelos Kalogerakis*
-- 【CVPR 2022】Learning Hierarchical Cross-Modal Association for Co-Speech Gesture Generation.[[paper]](https://arxiv.org/abs/2203.13161)   
+- 【CVPR 2022】Learning Hierarchical Cross-Modal Association for Co-Speech Gesture Generation.[[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Liu_Learning_Hierarchical_Cross-Modal_Association_for_Co-Speech_Gesture_Generation_CVPR_2022_paper.html)   
   *Xian Liu; Qianyi Wu; Hang Zhou; Yinghao Xu; Rui Qian; Xinyi Lin; Xiaowei Zhou; Wayne Wu; Bo Dai; Bolei Zhou*
-- 【CVPR 2022】SEEG: Semantic Energized Co-Speech Gesture Generation.[[paper]](https://ffmpbgrnn.github.io/publications/pdf/seeg.pdf)   
+- 【CVPR 2022】SEEG: Semantic Energized Co-Speech Gesture Generation.[[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Liang_SEEG_Semantic_Energized_Co-Speech_Gesture_Generation_CVPR_2022_paper.html)   
   *Yuanzhi Liang; Qianyu Feng; Linchao Zhu; Li Hu; Pan Pan; Yi Yang*
 - 【CVPR 2022】Low-Resource Adaptation for Personalized Co-Speech Gesture Generation.    
   *Chaitanya Ahuja; Dong Won Lee; Louis-Philippe Morency*
-- 【AAAI 2022】Learning Unseen Emotions from Gestures via Semantically-Conditioned Zero-Shot Perception with Adversarial Autoencoders.[[paper]](https://arxiv.org/abs/2009.08906)    
+- 【AAAI 2022】Learning Unseen Emotions from Gestures via Semantically-Conditioned Zero-Shot Perception with Adversarial Autoencoders.[[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Ahuja_Low-Resource_Adaptation_for_Personalized_Co-Speech_Gesture_Generation_CVPR_2022_paper.html)    
   *Abhishek Banerjee, Uttaran Bhattacharya, Aniket Bera*
 - 【WACV 2022】Sign Language Translation With Hierarchical Spatio-Temporal Graph Neural Network [[paper]](https://openaccess.thecvf.com/content/WACV2022/html/Kan_Sign_Language_Translation_With_Hierarchical_Spatio-Temporal_Graph_Neural_Network_WACV_2022_paper.html)   
   *Jichao Kan, Kun Hu, Markus Hagenbuchner, Ah Chung Tsoi, Mohammed Bennamoun, Zhiyong Wang*
