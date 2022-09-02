@@ -56,23 +56,23 @@ collecting related resources of gesture recognition here.
 - 【ECCV 2022】Deep Radial Embedding for Visual Sequence Learning.    
   *Yuecong Min, Peiqi Jiao, Yanan Li, Wang Xiaotao, Lei Lei, Xiujuan Chai, Xilin Chen*
 
-- 【ECCV 2022】Temporal Lift Pooling for Continuous Sign Language Recognition.[[paper]](https://arxiv.org/abs/2207.08734)      
+- 【ECCV 2022】Temporal Lift Pooling for Continuous Sign Language Recognition. [[paper]](https://arxiv.org/abs/2207.08734)      
   *Lianyu Hu, Liqing Gao, Zekang Liu, Wei Feng*     
 
-- 【ECCV 2022】Automatic dense annotation of large-vocabulary sign language videos.[[paper]](https://arxiv.org/abs/2208.02802)      
+- 【ECCV 2022】Automatic dense annotation of large-vocabulary sign language videos. [[paper]](https://arxiv.org/abs/2208.02802)      
   *Liliane Momeni, Hannah Bull, Prajwal K R, Samuel Albanie, Gul Varol, Andrew Zisserman*    
 
 - 【ECCV 2022】BEAT: A Large-Scale Semantic and Emotional Multi-Modal Dataset for Conversational Gestures Synthesis.    
-  *Haiyang Liu, Zihao Zhu, Naoya Iwamoto, Yichen Peng, Zhengqing Li, YOU ZHOU, Elif Bozkurt, Bo Zheng*
+  *Haiyang Liu, Zihao Zhu, Naoya Iwamoto, Yichen Peng, Zhengqing Li, You Zhou, Elif Bozkurt, Bo Zheng*
 
 - 【ECCV 2022】Audio-Driven Stylized Gesture Generation with Flow-Based Model.     
   *Sheng Ye, Yu-Hui Wen, Yanan Sun, Ying He, Ziyang Zhang, Yaoyuan Wang, Weihua He, Yong-Jin Liu*
 
-- 【CVPR 2022】MLSLT: Towards Multilingual Sign Language Translation.[[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Yin_MLSLT_Towards_Multilingual_Sign_Language_Translation_CVPR_2022_paper.html)          
+- 【CVPR 2022】MLSLT: Towards Multilingual Sign Language Translation. [[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Yin_MLSLT_Towards_Multilingual_Sign_Language_Translation_CVPR_2022_paper.html)          
   *Aoxiong Yin, Zhou Zhao, Weike Jin, Meng Zhang, Xingshan Zeng, Xiaofei He*
-- 【CVPR 2022】A Simple Multi-Modality Transfer Learning Baseline for Sign Language Translation.[[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Chen_A_Simple_Multi-Modality_Transfer_Learning_Baseline_for_Sign_Language_Translation_CVPR_2022_paper.html)      
+- 【CVPR 2022】A Simple Multi-Modality Transfer Learning Baseline for Sign Language Translation. [[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Chen_A_Simple_Multi-Modality_Transfer_Learning_Baseline_for_Sign_Language_Translation_CVPR_2022_paper.html)      
   *Yutong Chen, Fangyun Wei, Xiao Sun, Zhirong Wu, Stephen Lin*
-- 【CVPR 2022】C2SLR: Consistency-Enhanced Continuous Sign Language Recognition.        
+- 【CVPR 2022】C2SLR: Consistency-Enhanced Continuous Sign Language Recognition.[[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Zuo_C2SLR_Consistency-Enhanced_Continuous_Sign_Language_Recognition_CVPR_2022_paper.html)          
   *Ronglai Zuo, Brian Mak*
 - 【CVPR 2022】Signing at Scale: Learning to Co-Articulate Signs for Large-Scale Photo-Realistic Sign Language Production.[[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Saunders_Signing_at_Scale_Learning_to_Co-Articulate_Signs_for_Large-Scale_Photo-Realistic_CVPR_2022_paper.html)     
   *Ben Saunders, Necati Cihan Camgoz, Richard Bowden*
@@ -84,7 +84,7 @@ collecting related resources of gesture recognition here.
   *Xian Liu; Qianyi Wu; Hang Zhou; Yinghao Xu; Rui Qian; Xinyi Lin; Xiaowei Zhou; Wayne Wu; Bo Dai; Bolei Zhou*
 - 【CVPR 2022】SEEG: Semantic Energized Co-Speech Gesture Generation.[[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Liang_SEEG_Semantic_Energized_Co-Speech_Gesture_Generation_CVPR_2022_paper.html)   
   *Yuanzhi Liang; Qianyu Feng; Linchao Zhu; Li Hu; Pan Pan; Yi Yang*
-- 【CVPR 2022】Low-Resource Adaptation for Personalized Co-Speech Gesture Generation.    
+- 【CVPR 2022】Low-Resource Adaptation for Personalized Co-Speech Gesture Generation.[[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Ahuja_Low-Resource_Adaptation_for_Personalized_Co-Speech_Gesture_Generation_CVPR_2022_paper.html)       
   *Chaitanya Ahuja; Dong Won Lee; Louis-Philippe Morency*
 - 【AAAI 2022】Learning Unseen Emotions from Gestures via Semantically-Conditioned Zero-Shot Perception with Adversarial Autoencoders.[[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Ahuja_Low-Resource_Adaptation_for_Personalized_Co-Speech_Gesture_Generation_CVPR_2022_paper.html)    
   *Abhishek Banerjee, Uttaran Bhattacharya, Aniket Bera*
