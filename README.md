@@ -24,9 +24,11 @@ collecting related resources of gesture recognition here.
 
 ## Journal Papers
 
-- 【2021 TMM】Spatial-Temporal Multi-Cue Network for Sign Language Recognition and Translation.[[paper]](https://ieeexplore.ieee.org/abstract/document/9354538/)    
+- 【2022 TMM】Spatial-Temporal Multi-Cue Network for Sign Language Recognition and Translation. [[paper]](https://ieeexplore.ieee.org/abstract/document/9954921/)    
+*Hezhen Hu, Junfu Pu, Wengang Zhou, Houqiang Li*
+- 【2021 TMM】Spatial-Temporal Multi-Cue Network for Sign Language Recognition and Translation. [[paper]](https://ieeexplore.ieee.org/abstract/document/9354538/)    
   *Hao Zhou, Wengang Zhou, Yun Zhou, Houqiang Li*
-- 【2020 IJCV】Text2Sign: Towards Sign Language Production Using Neural Machine Translation and Generative Adversarial Networks.[[paper]](<https://link.springer.com/content/pdf/10.1007%2Fs11263-019-01281-2.pdf>)   
+- 【2020 IJCV】Text2Sign: Towards Sign Language Production Using Neural Machine Translation and Generative Adversarial Networks. [[paper]](<https://link.springer.com/content/pdf/10.1007%2Fs11263-019-01281-2.pdf>)   
   *Stephanie Stoll, Necati Cihan Camgoz, Simon Hadfield, Richard Bowden*
 - 【2019 TPAMI】Weakly Supervised Learning with Multi-Stream CNN-LSTM-HMMs to Discover Sequential Parallelism in Sign Language Videos. [[paper]]( <https://www-i6.informatik.rwth-aachen.de/publications/download/1099/Koller-PAMI-2019.pdf>)    
   *Oscar Koller, Necati Cihan Camgoz, Hermann Ney, Richard Bowden*  
@@ -53,19 +55,28 @@ collecting related resources of gesture recognition here.
 ## Conference Papers
 
 #### 2022
-- 【ECCV 2022】Deep Radial Embedding for Visual Sequence Learning.    
+
+- 【NeurIPS 2022】Two-Stream Network for Sign Language Recognition and Translation. [[paper]](https://openreview.net/forum?id=hSxK-4KGLbI)     
+*Yutong Chen, Ronglai Zuo, Fangyun Wei, Yu Wu, Shujie Liu, Brian Mak*
+- 【BMVC 2022】Signing Outside the Studio: Benchmarking Background
+Robustness for Continuous Sign Language Recognition. [[paper]](https://bmvc2022.mpi-inf.mpg.de/0322.pdf)    
+*Youngjoon Jang, Youngtaek Oh, Jae Won Cho, Dong-Jin Kim, Joon Son Chung, In So Kweon*   
+- 【BMVC 2022】Weakly-supervised Fingerspelling Recognition in British Sign Language Videos. [[paper]](https://bmvc2022.mpi-inf.mpg.de/0609.pdf)    
+*K R Prajwal, Hannah Bull, Liliane Momeni, Samuel Albanie, Gül Varol, Andrew Zisserman*    
+- 【BMVC 2022】Towards more efficient few-shot learning based human
+gesture recognition via dynamic vision sensors. [[paper]](https://bmvc2022.mpi-inf.mpg.de/0938.pdf)    
+*Linglin Jing, Yifan Wang, Tailin Chen, Shirin Dora, Zhigang Ji, Hui Fang*    
+- 【BMVC 2022】Continuous Hand Gesture Recognition using Deep Coarse
+and Fine Hand Features. [[paper]](https://bmvc2022.mpi-inf.mpg.de/1055.pdf)        
+- 【ECCV 2022】Deep Radial Embedding for Visual Sequence Learning. [[paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/5670_ECCV_2022_paper.php)      
   *Yuecong Min, Peiqi Jiao, Yanan Li, Wang Xiaotao, Lei Lei, Xiujuan Chai, Xilin Chen*
-
-- 【ECCV 2022】Temporal Lift Pooling for Continuous Sign Language Recognition. [[paper]](https://arxiv.org/abs/2207.08734)      
+- 【ECCV 2022】Temporal Lift Pooling for Continuous Sign Language Recognition. [[paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/160_ECCV_2022_paper.php)      
   *Lianyu Hu, Liqing Gao, Zekang Liu, Wei Feng*     
-
-- 【ECCV 2022】Automatic dense annotation of large-vocabulary sign language videos. [[paper]](https://arxiv.org/abs/2208.02802)      
+- 【ECCV 2022】Automatic dense annotation of large-vocabulary sign language videos. [[paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1028_ECCV_2022_paper.php)      
   *Liliane Momeni, Hannah Bull, Prajwal K R, Samuel Albanie, Gul Varol, Andrew Zisserman*    
-
-- 【ECCV 2022】BEAT: A Large-Scale Semantic and Emotional Multi-Modal Dataset for Conversational Gestures Synthesis.    
+- 【ECCV 2022】BEAT: A Large-Scale Semantic and Emotional Multi-Modal Dataset for Conversational Gestures Synthesis.  [[paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/296_ECCV_2022_paper.php)      
   *Haiyang Liu, Zihao Zhu, Naoya Iwamoto, Yichen Peng, Zhengqing Li, You Zhou, Elif Bozkurt, Bo Zheng*
-
-- 【ECCV 2022】Audio-Driven Stylized Gesture Generation with Flow-Based Model.     
+- 【ECCV 2022】Audio-Driven Stylized Gesture Generation with Flow-Based Model.  [[paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/3948_ECCV_2022_paper.php)       
   *Sheng Ye, Yu-Hui Wen, Yanan Sun, Ying He, Ziyang Zhang, Yaoyuan Wang, Weihua He, Yong-Jin Liu*
 
 - 【CVPR 2022】MLSLT: Towards Multilingual Sign Language Translation. [[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Yin_MLSLT_Towards_Multilingual_Sign_Language_Translation_CVPR_2022_paper.html)          
@@ -150,7 +161,7 @@ collecting related resources of gesture recognition here.
   *Pu, Junfu, Wengang Zhou, Hezhen Hu, and Houqiang Li*
 - 【ACM MM 2020】Recognizing Camera Wearer from Hand Gestures in Egocentric Videos.[[paper]](http://www.cse.iitd.ac.in/~chetan/papers/daksh-mm-2020.pdf)    
   *Thapar, Daksh, Aditya Nigam, and Chetan Arora*
-- 【NIPS 2020】TSPNet: Hierarchical Feature Learning via Temporal Semantic Pyramid for Sign Language Translation. [[paper]](https://proceedings.neurips.cc/paper/2020/file/8c00dee24c9878fea090ed070b44f1ab-Paper.pdf)    
+- 【NeurIPS 2020】TSPNet: Hierarchical Feature Learning via Temporal Semantic Pyramid for Sign Language Translation. [[paper]](https://proceedings.neurips.cc/paper/2020/file/8c00dee24c9878fea090ed070b44f1ab-Paper.pdf)    
   *Li, Dongxu, Chenchen Xu, Xin Yu, Kaihao Zhang, Benjamin Swift, Hanna Suominen, and Hongdong Li*
 - 【FG 2020】Feature Selection for Zero-Shot Gesture Recognition. [[paper]](https://www.computer.org/csdl/proceedings-article/fg/2020/307900a309/1kecI8r1WXC)    
   *Naveen Madapana, Juan Wachs*
