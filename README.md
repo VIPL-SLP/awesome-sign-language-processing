@@ -53,9 +53,35 @@ collecting related resources of gesture recognition here.
   *VI Pavlovic, R Sharma, TS Huang*
 
 ## Conference Papers
+### 2023
+- 【CVPR 2023】 Natural Language-Assisted Sign Language Recognition.[[paper]](https://arxiv.org/abs/2303.12080)     
+*Ronglai Zuo, Fangyun Wei, Brian Mak*
+- 【CVPR 2023】 CiCo: Domain-Aware Sign Language Retrieval via Cross-Lingual Contrastive Learning.[[paper]](https://arxiv.org/abs/2303.12793)     
+*Yiting Cheng, Fangyun Wei, Jianmin Bao, Dong Chen, Wenqiang Zhang*
+- 【CVPR 2023】 CVT-SLR: Contrastive Visual-Textual Transformation for Sign Language Recognition with Variational Alignment.[[paper]](https://arxiv.org/abs/2303.05725)     
+*Jiangbin Zheng, Yile Wang, Cheng Tan, Siyuan Li, Ge Wang, Jun Xia, Yidong Chen, Stan Li*
+- 【CVPR 2023】 Gloss Attention for Gloss-free Sign Language Translation.     
+*Aoxiong Yin, TIANYUN ZHONG, Li Tang, Weike Jin, Tao Jin, Zhou Zhao*
+- 【CVPR 2023】 Continuous Sign Language Recognition with Correlation Network.[[paper]](https://arxiv.org/abs/2303.03202)     
+*Lianyu Hu, Liqing Gao, Zekang Liu, Wei Feng*
+- 【CVPR 2023】 Distilling Cross-Temporal Contexts for Continuous Sign Language Recognition.     
+*Leming Guo, Wanli Xue, Qing Guo, Bo Liu, Kaihua Zhang, Tiantian Yuan, Shengyong Chen*
+- 【CVPR 2023】 Ham2Pose: Animating Sign Language Notation into Pose Sequences. [[paper]](https://arxiv.org/abs/2211.13613)     
+*Rotem Shalev Arkushin, Amit Moryossef, Ohad Fried*
+- 【CVPR 2023】 QPGesture: Quantization-Based and Phase-Guided Motion Matching for Natural Speech-Driven Gesture Generation.     
+*SiCheng Yang, Zhiyong Wu, Minglei Li, Zhensong Zhang, Lei Hao, Weihong Bao, Haolin Zhuang*
+- 【CVPR 2023】 Taming Diffusion Models for Audio-Driven Co-Speech Gesture Generation.[[paper]](https://arxiv.org/abs/2303.09119)     
+*Lingting Zhu, Xian Liu, Xuanyu Liu, Rui Qian, Ziwei Liu, Lequan Yu*
+- 【CVPR 2023】 Diverse 3D Hand Gesture Prediction from Body Dynamics by Bilateral Hand Disentanglement.[[paper]](https://arxiv.org/abs/2303.01765)     
+*Xingqun Qi, Chen Liu, Muyi Sun, Lincheng Li, Changjie Fan, Xin Yu*
+- 【CVPR 2023】 Co-speech Gesture Synthesis by Reinforcement Learning with Contrastive Pre-trained Rewards.     
+*Mingyang Sun, Mengchen Zhao, Yaqing Hou, Minglei Li, Huang Xu, Songcen Xu, Jianye HAO*
 
-#### 2022
 
+### 2022
+
+- 【NeurIPS 2022】 Addressing Resource Scarcity across Sign Languages with Multilingual Pretraining and Unified-Vocabulary Datasets.[[paper]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/eb011fd258c763c44d8c6a0e9ce04f17-Abstract-Datasets_and_Benchmarks.html)     
+*Gokul NC, Manideep Ladi, Sumit Negi, Prem Selvaraj, Pratyush Kumar, Mitesh Khapra*
 - 【NeurIPS 2022】Two-Stream Network for Sign Language Recognition and Translation.[[paper]](https://openreview.net/forum?id=hSxK-4KGLbI)     
 *Yutong Chen, Ronglai Zuo, Fangyun Wei, Yu Wu, Shujie Liu, Brian Mak*
 - 【BMVC 2022】Signing Outside the Studio: Benchmarking Background
@@ -103,7 +129,7 @@ and Fine Hand Features.[[paper]](https://bmvc2022.mpi-inf.mpg.de/1055.pdf)
 - 【WACV 2022】Sign Language Translation With Hierarchical Spatio-Temporal Graph Neural Network.[[paper]](https://openaccess.thecvf.com/content/WACV2022/html/Kan_Sign_Language_Translation_With_Hierarchical_Spatio-Temporal_Graph_Neural_Network_WACV_2022_paper.html)   
   *Jichao Kan, Kun Hu, Markus Hagenbuchner, Ah Chung Tsoi, Mohammed Bennamoun, Zhiyong Wang*
 
-#### 2021
+### 2021
 
 - 【ICCV 2021】YouRefIt: Embodied Reference Understanding With Language and Gesture.[[paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Chen_YouRefIt_Embodied_Reference_Understanding_With_Language_and_Gesture_ICCV_2021_paper.html)    
    *Yixin Chen; Qing Li; Deqian Kong; Yik Lun Kei; Song-Chun Zhu; Tao Gao; Yixin Zhu; Siyuan Huang*
@@ -154,7 +180,7 @@ and Fine Hand Features.[[paper]](https://bmvc2022.mpi-inf.mpg.de/1055.pdf)
 - 【WACV 2021】Whose hand is this? Person Identification from Egocentric Hand Gestures.[[paper]](https://arxiv.org/abs/2011.08900)        
   *Satoshi Tsutsui; Yanwei Fu; David Crandall*
 
-#### 2020
+### 2020
 
 - 【ACM MM 2020】INCLUDE: A Large Scale Dataset for Indian Sign Language Recognition.[[paper]](https://dl.acm.org/doi/abs/10.1145/3394171.3413528)    
   *Sridhar, Advaith, Rohith Gandhi Ganesan, Pratyush Kumar, and Mitesh Khapra*
@@ -212,7 +238,7 @@ and Fine Hand Features.[[paper]](https://bmvc2022.mpi-inf.mpg.de/1055.pdf)
 - 【WACV 2020】Neural Sign Language Synthesis: Words Are Our Glosses. [[paper]](<http://openaccess.thecvf.com/content_WACV_2020/papers/Zelinka_Neural_Sign_Language_Synthesis_Words_Are_Our_Glosses_WACV_2020_paper.pdf>)  
   *Jan Zelinka, Jakub Kanis*
 
-#### 2019
+### 2019
 
 - 【ICCV 2019】Talking With Hands 16.2M: A Large-Scale Dataset of Synchronized Body-Finger Motion and Audio for Conversational Motion Analysis and Synthesis. [[paper]]( http://openaccess.thecvf.com/content_ICCV_2019/papers/Lee_Talking_With_Hands_16.2M_A_Large-Scale_Dataset_of_Synchronized_Body-Finger_ICCV_2019_paper.pdf )   
    *Gilwoo Lee, Zhiwei Deng, Shugao Ma, Takaaki Shiratori, Siddhartha S. Srinivasa, Yaser Sheikh*
@@ -241,7 +267,7 @@ and Fine Hand Features.[[paper]](https://bmvc2022.mpi-inf.mpg.de/1055.pdf)
    *Xin Liu, Henglin Shi, Xiaopeng Hong, Haoyu Chen, Dacheng Tao, Guoying Zhao*
 
 
-#### 2018
+### 2018
 
 - 【CVPR 2018】Gesture Recognition: Focus on the Hands. [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Narayana_Gesture_Recognition_Focus_CVPR_2018_paper.pdf)  
   *Pradyumna Narayana, Ross Beveridge, Bruce A. Draper*
@@ -256,7 +282,7 @@ and Fine Hand Features.[[paper]](https://bmvc2022.mpi-inf.mpg.de/1055.pdf)
 - 【BMVC 2018】Sign Language Production using Neural Machine Translation and Generative Adversarial Networks. [[paper]](http://bmvc2018.org/contents/papers/0906.pdf)  
   *Stephanie M Stoll, Necati Cihan Camgoz, Simon Hadfield, Richard Bowden*
 
-#### 2017
+### 2017
 
 - 【CVPR 2017】Personalizing Gesture Recognition Using Hierarchical Bayesian Neural Networks. [[paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Joshi_Personalizing_Gesture_Recognition_CVPR_2017_paper.pdf)  
   *Ajjen Joshi, Soumya Ghosh, Margrit Betke, Stan Sclaroff, Hanspeter Pfister*
@@ -271,7 +297,7 @@ and Fine Hand Features.[[paper]](https://bmvc2022.mpi-inf.mpg.de/1055.pdf)
 - 【ICCV 2017】SubUNets: End-To-End Hand Shape and Continuous Sign Language Recognition. [[paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Camgoz_SubUNets_End-To-End_Hand_ICCV_2017_paper.pdf)  
   *Necati Cihan Camgoz, Simon Hadfield, Oscar Koller, Richard Bowden*
 
-#### 2016
+### 2016
 
 - 【CVPR 2016】Online Detection and Classification of Dynamic Hand Gestures With Recurrent 3D Convolutional Neural Network. [[paper]](http://openaccess.thecvf.com/content_cvpr_2016/papers/Molchanov_Online_Detection_and_CVPR_2016_paper.pdf)  
   *Pavlo Molchanov, Xiaodong Yang, Shalini Gupta, Kihwan Kim, Stephen Tyree, Jan Kautz*
@@ -282,14 +308,14 @@ and Fine Hand Features.[[paper]](https://bmvc2022.mpi-inf.mpg.de/1055.pdf)
 
 ## arXiv Papers
 
-#### 2020
+### 2020
 
 - 【arXiv:2003.08759】Facial Expression Phoenix (FePh): An Annotated Sequenced Dataset for Facial and Emotion-Specified Expressions in Sign Language. [[paper]](http://arxiv.org/pdf/2003.08759v2.pdf)    
   *Marie Alaghband, Niloofar Yousefi, Ivan Garibay*
 - 【arXiv:2008.09918】Quantitative Survey of the State of the Art in Sign Language Recognition. [[paper]](http://arxiv.org/pdf/2008.09918v2.pdf)   
   *Oscar Koller*
 
-#### 2019
+### 2019
 
 - 【arXiv:1901.00234】Analysis of Contraction Effort Level in EMG-Based Gesture 
   Recognition Using Hyperdimensional Computing. [[paper]](https://arxiv.org/pdf/1901.00234)  
@@ -309,7 +335,7 @@ and Fine Hand Features.[[paper]](https://bmvc2022.mpi-inf.mpg.de/1055.pdf)
 - 【arXiv:1903.10422】Locomotion and gesture tracking in mice and small animals for neurosceince applications: A survey. [[paper]](https://arxiv.org/pdf/1903.10422)  
   *Waseem Abbas, David Masip Rodo*
 
-#### 2018
+### 2018
 
 - 【arXiv:1801.01446】 IMU2Face: Real-time Gesture-driven Facial Reenactment. [[paper]](https://arxiv.org/pdf/1801.01446)  
   *Justus Thies, Michael Zollhöfer, Matthias Nießner .*
@@ -364,7 +390,7 @@ and Fine Hand Features.[[paper]](https://bmvc2022.mpi-inf.mpg.de/1055.pdf)
 - 【arXiv:1812.09595】 Kinect Sensor Based Gesture Recognition for Surveillance Application. [[paper]](https://arxiv.org/pdf/1812.09595)  
   *Biswarup Ganguly, Amit Konar .*
 
-#### 2017
+### 2017
 
 - 【arXiv:1701.01814】 Large-scale Isolated Gesture Recognition Using Convolutional Neural  Networks. [[paper]](https://arxiv.org/abs/1701.01814)  
   *Pichao Wang, Wanqing Li, Song Liu, Zhimin Gao, Chang Tang, Philip Ogunbona.*
@@ -419,7 +445,7 @@ and Fine Hand Features.[[paper]](https://bmvc2022.mpi-inf.mpg.de/1055.pdf)
 - 【arXiv:1712.10136】 Learning Deep and Compact Models for Gesture Recognition. [[paper]](https://arxiv.org/abs/1712.10136)  
   *Koustav Mullick, Anoop M. Namboodiri.*
 
-#### 2016
+### 2016
 
 - 【arXiv:1603.06531】 Deep video gesture recognition using illumination invariants. [[paper]](https://arxiv.org/abs/1603.06531)  
   *Otkrist Gupta, Dan Raviv, Ramesh Raskar.*
@@ -444,7 +470,7 @@ and Fine Hand Features.[[paper]](https://bmvc2022.mpi-inf.mpg.de/1055.pdf)
 - 【arXiv:1612.02889】 Gesture-based Bootstrapping for Egocentric Hand Segmentation. [[paper]](https://arxiv.org/pdf/1612.02889)  
   *Yubo Zhang, Vishnu Naresh Boddeti, Kris M. Kitani .*
 
-#### 2015
+### 2015
 
 - 【arXiv:1501.00102】 ModDrop: adaptive multi-modal gesture recognition. [[paper]](https://arxiv.org/abs/1501.00102)  
   *Natalia Neverova, Christian Wolf, Graham W. Taylor, Florian Nebout.*
@@ -465,7 +491,7 @@ and Fine Hand Features.[[paper]](https://bmvc2022.mpi-inf.mpg.de/1055.pdf)
 - 【arXiv:1512.00622】 Continuous and Simultaneous Gesture and Posture Recognition for  Commanding a Robotic Wheelchair; Towards Spotting the Signal Patterns. [[paper]](https://arxiv.org/pdf/1512.00622)  
   *Ali Boyali, Naohisa Hashimoto, Manolya Kavakli .*
 
-#### 2014
+### 2014
 
 - 【arXiv:1401.02058】 Gesture recognition based mouse events. [[paper]](https://arxiv.org/abs/1401.02058)  
   *Rachit Puri.*
@@ -486,7 +512,7 @@ and Fine Hand Features.[[paper]](https://bmvc2022.mpi-inf.mpg.de/1055.pdf)
 - 【arXiv:1411.05394】 Wi-Fi Gesture Recognition on Existing Devices. [[paper]](https://arxiv.org/abs/1411.05394)  
   *Rajalakshmi Nandakumar, Bryce Kellogg, Shyamnath Gollakota.*
 
-#### 2013
+### 2013
 
 - 【arXiv:1301.04659】 English Sentence Recognition using Artificial Neural Network through  Mouse-based Gestures. [[paper]](https://arxiv.org/pdf/1301.04659)  
   *Firoj Parwej .*
@@ -505,7 +531,7 @@ and Fine Hand Features.[[paper]](https://bmvc2022.mpi-inf.mpg.de/1055.pdf)
 - 【arXiv:1312.04190】 One-Shot-Learning Gesture Recognition using HOG-HOF Features. [[paper]](https://arxiv.org/abs/1312.04190)  
   *Jakub Konečný, Michal Hagara. *
 
-#### 2012
+### 2012
 
 - Vision based hand gesture recognition for human computer interaction: a survey. [[paper]](http://cgvr.informatik.uni-bremen.de/teaching/studentprojects/nui4cars/wp-content/uploads/2013/06/survey_Agrawal_AI2012_handRecod.pdf) 
 - 【arXiv:1211.04226】 Education for All: Remote testing system with gesture recognition and  recording. [[paper]](https://arxiv.org/abs/1211.04226)  
@@ -516,14 +542,14 @@ and Fine Hand Features.[[paper]](https://bmvc2022.mpi-inf.mpg.de/1055.pdf)
 - 【arXiv:1110.06287】 Deciding of HMM parameters based on number of critical points for  gesture recognition from motion capture data. [[paper]](https://arxiv.org/abs/1110.06287)  
   *Michał Cholewa, Przemysław Głomb.*
 
-#### 2010
+### 2010
 
 - 【arXiv:1003.01819】 Facial Gesture Recognition Using Correlation And Mahalanobis Distance. [[paper]](https://arxiv.org/abs/1003.01819)  
   *Supriya Kapoor, Shruti Khanna, Rahul Bhatia.*
 - 【arXiv:1012.00084】 Survey on Various Gesture Recognition Techniques for Interfacing  Machines Based on Ambient Intelligence. [[paper]](https://arxiv.org/abs/1012.00084)  
   *Harshith C, Karthik R. Shastry, Manoj Ravindran, M.V.V.N.S. Srikanth, Naveen Lakshmikhanth.*
 
-#### 2009
+### 2009
 
 - 【arXiv:0906.05039】 A new approach for digit recognition based on hand gesture analysis. [[paper]](https://arxiv.org/pdf/0906.05039)  
   *Ahmed Ben Jmaa, Walid Mahdi, Yousra Ben Jemaa, Abdelmajid Ben Hamadou .*
@@ -532,18 +558,18 @@ and Fine Hand Features.[[paper]](https://bmvc2022.mpi-inf.mpg.de/1055.pdf)
 
 ## books
 
-#### 2018
+### 2018
 - [Robust hand gesture recognition for robotic hand control](http://gen.lib.rus.ec/book/index.php?md5=08BF4EBB10A3BD6B442BAF7F96903930)
 - [Gesture recognition : principles, techniques and applications](http://gen.lib.rus.ec/book/index.php?md5=477739F41797033018FA20ED603EB5F0)
 
-#### 2017
+### 2017
 - [Gesture Recognition](http://gen.lib.rus.ec/book/index.php?md5=55ECF03504C5E0EB1D5C0BBBA860AD37)
 
-#### 2005
+### 2005
 
 - [Analysis and Modelling of Faces and Gestures: Second International Workshop, AMFG 2005, Beijing, China, October 16, 2005. Proceedings](http://gen.lib.rus.ec/book/index.php?md5=40E17BEC2EE98A25A51802FB42B47752)
 
-#### 2001
+### 2001
 
 - [Face Detection and Gesture Recognition for Human-Computer Interaction](http://gen.lib.rus.ec/book/index.php?md5=E1ABFE65BA1D8740A610FB1E14D74C50)
 
