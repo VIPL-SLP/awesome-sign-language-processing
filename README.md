@@ -22,59 +22,31 @@ collecting related resources of gesture recognition here.
 - [SHREC 2017](http://www-rech.telecom-lille.fr/shrec2017-hand/) [[Overview]](dataset/Overview_SHREC17.md)
 - [Devisign](http://vipl.ict.ac.cn/homepage/ksl/data.html)
 
-## Journal Papers
-
-- 【2022 TMM】Spatial-Temporal Multi-Cue Network for Sign Language Recognition and Translation. [[paper]](https://ieeexplore.ieee.org/abstract/document/9954921/)    
-*Hezhen Hu, Junfu Pu, Wengang Zhou, Houqiang Li*
-- 【2021 TMM】Spatial-Temporal Multi-Cue Network for Sign Language Recognition and Translation. [[paper]](https://ieeexplore.ieee.org/abstract/document/9354538/)    
-  *Hao Zhou, Wengang Zhou, Yun Zhou, Houqiang Li*
-- 【2020 IJCV】Text2Sign: Towards Sign Language Production Using Neural Machine Translation and Generative Adversarial Networks. [[paper]](<https://link.springer.com/content/pdf/10.1007%2Fs11263-019-01281-2.pdf>)   
-  *Stephanie Stoll, Necati Cihan Camgoz, Simon Hadfield, Richard Bowden*
-- 【2019 TPAMI】Weakly Supervised Learning with Multi-Stream CNN-LSTM-HMMs to Discover Sequential Parallelism in Sign Language Videos. [[paper]]( <https://www-i6.informatik.rwth-aachen.de/publications/download/1099/Koller-PAMI-2019.pdf>)    
-  *Oscar Koller, Necati Cihan Camgoz, Hermann Ney, Richard Bowden*  
-- 【2018 IJCV】Deep Sign: Enabling Robust Statistical Continuous Sign Language
-  Recognition via Hybrid CNN-HMMs. [[paper]]( <https://www-i6.informatik.rwth-aachen.de/publications/download/1081/Koller-IJCV-2018.pdf>)    
-  *Oscar Koller, Sepehr Zargaran, Hermann Ney, Richard Bowden*  
-- 【2015 TCSVT】A Survey on 3D Hand Gesture Recognition. [[paper]]( http://www.academia.edu/download/48354754/1.pdf )    
-  *Hong Cheng, Lu Yang, Zicheng Liu* 
-- 【2015 CVIU】Recent Methods and Databases in Vision-based Hand Gesture Recognition: A Review. [[paper]]( https://www.researchgate.net/profile/Pramod_Pisharady/publication/284070092_Recent_methods_and_databases_in_vision-based_hand_gesture_recognition_A_review/links/59db8d320f7e9b1947ef77ee/Recent-methods-and-databases-in-vision-based-hand-gesture-recognition-A-review.pdf)    
-  *Pramod Kumar Pisharady, Martin Saerbeck*
-- 【2015 TPAMI】Moddrop: adaptive multi-modal gesture recognition. [[paper]]( <https://arxiv.org/pdf/1501.00102.pdf>)    
-  *Natalia Neverova, Christian Wolf, Graham Taylor, Florian Nebout*  
-- 【2010 TPAMI】Handling Movement Epenthesis and Segmentation Ambiguities in Sign Language Recognition Nested Dynamic Programming. [[paper]]( http://figment.csee.usf.edu/~sarkar/PDFs/YangSarkarLoedingTPAMI-2008-01-0026.pdf )    
-  *Ruiduo Yang, Sudeep Sarkar,  Barbara Loeding* 
-- 【2007 TSMC】Gesture Recognition: A Survey. [[paper]](<http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.107.6243&rep=rep1&type=pdf>)    
-  *Sushmita Mitra, Tinku Acharya* 
-- 【2005 TPAMI】Automatic Sign Language Analysis: A Survey and the Future beyond Lexical Meaning. [[paper]](https://pdfs.semanticscholar.org/852e/333b06fbe9ea5bf3dd1e894cad86283b94f7.pdf )    
-  *Sylvie C.W. Ong,  Surendra Ranganath* 
-- 【1999 TPAMI】An HMM-Based Threshold Model Approach for Gesture Recognition. [[paper]]( <http://compbio.fmph.uniba.sk/vyuka/gm/handouts/Lee1999.pdf> )   
-  *Hyeon-Kyu Lee, Jin H. Kim*
-- 【1997 TPAMI】Visual interpretation of hand gestures for human-computer interaction: A review. [[paper]]( https://www.semanticscholar.org/paper/Visual-Interpretation-of-Hand-Gestures-for-A-Review-Pavlovic-Sharma/8dd3d5ef2e1c40433417cd90e21ce9a0468a7626 )   
-  *VI Pavlovic, R Sharma, TS Huang*
-
 ## Conference Papers
 ### 2023
-- 【CVPR 2023】 Natural Language-Assisted Sign Language Recognition.[[paper]](https://arxiv.org/abs/2303.12080)     
+- 【ICLR 2023】SLTUNET: A Simple Unified Model for Sign Language Translation.[[paper]](https://openreview.net/forum?id=EBS4C77p_5S) [[code]](https://github.com/bzhangGo/sltunet)     
+*Biao Zhang, Mathias Müller, Rico Sennrich*
+- 【CVPR 2023】 Natural Language-Assisted Sign Language Recognition.[[paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Zuo_Natural_Language-Assisted_Sign_Language_Recognition_CVPR_2023_paper.html)[[code]](https://github.com/FangyunWei/SLRT/tree/main/NLA-SLR)     
 *Ronglai Zuo, Fangyun Wei, Brian Mak*
-- 【CVPR 2023】 CiCo: Domain-Aware Sign Language Retrieval via Cross-Lingual Contrastive Learning.[[paper]](https://arxiv.org/abs/2303.12793)     
+- 【CVPR 2023】 CiCo: Domain-Aware Sign Language Retrieval via Cross-Lingual Contrastive Learning.[[paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Bao_CiCo_Domain-Aware_Sign_Language_Retrieval_via_Cross-Lingual_Contrastive_Learning_CVPR_2023_paper.html)[[code]](https://github.com/FangyunWei/SLRT/tree/main/CiCo)     
 *Yiting Cheng, Fangyun Wei, Jianmin Bao, Dong Chen, Wenqiang Zhang*
-- 【CVPR 2023】 CVT-SLR: Contrastive Visual-Textual Transformation for Sign Language Recognition with Variational Alignment.[[paper]](https://arxiv.org/abs/2303.05725)     
+- 【CVPR 2023】 CVT-SLR: Contrastive Visual-Textual Transformation for Sign Language Recognition with Variational Alignment.[[paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Zheng_CVT-SLR_Contrastive_Visual-Textual_Transformation_for_Sign_Language_Recognition_With_Variational_CVPR_2023_paper.html)     
 *Jiangbin Zheng, Yile Wang, Cheng Tan, Siyuan Li, Ge Wang, Jun Xia, Yidong Chen, Stan Li*
-- 【CVPR 2023】 Gloss Attention for Gloss-free Sign Language Translation.     
-*Aoxiong Yin, TIANYUN ZHONG, Li Tang, Weike Jin, Tao Jin, Zhou Zhao*
-- 【CVPR 2023】 Continuous Sign Language Recognition with Correlation Network.[[paper]](https://arxiv.org/abs/2303.03202)     
+- 【CVPR 2023】 Gloss Attention for Gloss-free Sign Language Translation.[[paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Yin_Gloss_Attention_for_Gloss-Free_Sign_Language_Translation_CVPR_2023_paper.html)     
+*Aoxiong Yin, Tianyun Zhong, Li Tang, Weike Jin, Tao Jin, Zhou Zhao*
+- 【CVPR 2023】 Continuous Sign Language Recognition with Correlation Network.[[paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Hu_Continuous_Sign_Language_Recognition_With_Correlation_Network_CVPR_2023_paper.html)     
 *Lianyu Hu, Liqing Gao, Zekang Liu, Wei Feng*
-- 【CVPR 2023】 Distilling Cross-Temporal Contexts for Continuous Sign Language Recognition.     
+- 【CVPR 2023】 Distilling Cross-Temporal Contexts for Continuous Sign Language Recognition.[[paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Guo_Distilling_Cross-Temporal_Contexts_for_Continuous_Sign_Language_Recognition_CVPR_2023_paper.html)     
 *Leming Guo, Wanli Xue, Qing Guo, Bo Liu, Kaihua Zhang, Tiantian Yuan, Shengyong Chen*
-- 【CVPR 2023】 Ham2Pose: Animating Sign Language Notation into Pose Sequences. [[paper]](https://arxiv.org/abs/2211.13613)     
+- 【CVPR 2023】 Ham2Pose: Animating Sign Language Notation into Pose Sequences. [[paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Arkushin_Ham2Pose_Animating_Sign_Language_Notation_Into_Pose_Sequences_CVPR_2023_paper.html)     
 *Rotem Shalev Arkushin, Amit Moryossef, Ohad Fried*
-- 【CVPR 2023】 QPGesture: Quantization-Based and Phase-Guided Motion Matching for Natural Speech-Driven Gesture Generation.     
+- 【CVPR 2023】 QPGesture: Quantization-Based and Phase-Guided Motion Matching for Natural Speech-Driven Gesture Generation.[[paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Yang_QPGesture_Quantization-Based_and_Phase-Guided_Motion_Matching_for_Natural_Speech-Driven_Gesture_CVPR_2023_paper.html)     
 *SiCheng Yang, Zhiyong Wu, Minglei Li, Zhensong Zhang, Lei Hao, Weihong Bao, Haolin Zhuang*
-- 【CVPR 2023】 Taming Diffusion Models for Audio-Driven Co-Speech Gesture Generation.[[paper]](https://arxiv.org/abs/2303.09119)     
+- 【CVPR 2023】 Taming Diffusion Models for Audio-Driven Co-Speech Gesture Generation.[[paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Zhu_Taming_Diffusion_Models_for_Audio-Driven_Co-Speech_Gesture_Generation_CVPR_2023_paper.html)     
 *Lingting Zhu, Xian Liu, Xuanyu Liu, Rui Qian, Ziwei Liu, Lequan Yu*
-- 【CVPR 2023】 Diverse 3D Hand Gesture Prediction from Body Dynamics by Bilateral Hand Disentanglement.[[paper]](https://arxiv.org/abs/2303.01765)     
+- 【CVPR 2023】 Diverse 3D Hand Gesture Prediction from Body Dynamics by Bilateral Hand Disentanglement.[[paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Qi_Diverse_3D_Hand_Gesture_Prediction_From_Body_Dynamics_by_Bilateral_CVPR_2023_paper.html)     
 *Xingqun Qi, Chen Liu, Muyi Sun, Lincheng Li, Changjie Fan, Xin Yu*
-- 【CVPR 2023】 Co-speech Gesture Synthesis by Reinforcement Learning with Contrastive Pre-trained Rewards.     
+- 【CVPR 2023】 Co-speech Gesture Synthesis by Reinforcement Learning with Contrastive Pre-trained Rewards.[[paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Sun_Co-Speech_Gesture_Synthesis_by_Reinforcement_Learning_With_Contrastive_Pre-Trained_Rewards_CVPR_2023_paper.html)     
 *Mingyang Sun, Mengchen Zhao, Yaqing Hou, Minglei Li, Huang Xu, Songcen Xu, Jianye HAO*
 
 
@@ -82,7 +54,7 @@ collecting related resources of gesture recognition here.
 
 - 【NeurIPS 2022】 Addressing Resource Scarcity across Sign Languages with Multilingual Pretraining and Unified-Vocabulary Datasets.[[paper]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/eb011fd258c763c44d8c6a0e9ce04f17-Abstract-Datasets_and_Benchmarks.html)     
 *Gokul NC, Manideep Ladi, Sumit Negi, Prem Selvaraj, Pratyush Kumar, Mitesh Khapra*
-- 【NeurIPS 2022】Two-Stream Network for Sign Language Recognition and Translation.[[paper]](https://openreview.net/forum?id=hSxK-4KGLbI)     
+- 【NeurIPS 2022】Two-Stream Network for Sign Language Recognition and Translation.[[paper]](https://openreview.net/forum?id=hSxK-4KGLbI) [[code]](https://github.com/FangyunWei/SLRT/tree/main/TwoStreamNetwork)     
 *Yutong Chen, Ronglai Zuo, Fangyun Wei, Yu Wu, Shujie Liu, Brian Mak*
 - 【BMVC 2022】Signing Outside the Studio: Benchmarking Background
 Robustness for Continuous Sign Language Recognition.[[paper]](https://bmvc2022.mpi-inf.mpg.de/0322.pdf)    
@@ -143,7 +115,7 @@ and Fine Hand Features.[[paper]](https://bmvc2022.mpi-inf.mpg.de/1055.pdf)
    *Ben Saunders; Necati Cihan Camgoz; Richard Bowden*
 - 【ICCV 2021】SignBERT: Pre-Training of Hand-Model-Aware Representation for Sign Language Recognition.[[paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Hu_SignBERT_Pre-Training_of_Hand-Model-Aware_Representation_for_Sign_Language_Recognition_ICCV_2021_paper.html)    
    *Hezhen Hu; Weichao Zhao; Wengang Zhou; Yuechen Wang; Houqiang Li*
-- 【ICCV 2021】Visual Alignment Constraint for Continuous Sign Language Recognition.[[paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Min_Visual_Alignment_Constraint_for_Continuous_Sign_Language_Recognition_ICCV_2021_paper.html)    
+- 【ICCV 2021】Visual Alignment Constraint for Continuous Sign Language Recognition.[[paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Min_Visual_Alignment_Constraint_for_Continuous_Sign_Language_Recognition_ICCV_2021_paper.html) [[code]](https://github.com/ycmin95/VAC_CSLR)    
    *Yuecong Min, Aiming Hao, Xiujuan Chai, and Xilin Chen*
 - 【ICCV 2021】Self-Mutual Distillation Learning for Continuous Sign Language Recognition.[[paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Hao_Self-Mutual_Distillation_Learning_for_Continuous_Sign_Language_Recognition_ICCV_2021_paper.html)    
   *Aiming Hao, Yuecong Min, and Xilin Chen*
@@ -305,6 +277,36 @@ and Fine Hand Features.[[paper]](https://bmvc2022.mpi-inf.mpg.de/1055.pdf)
   *Fang Yin, Xiujuan Chai, Xilin Chen*
 - 【BMVC 2016】Deep Sign: Hybrid CNN-HMM for Continuous Sign Language Recognition. [[paper]]( http://www.bmva.org/bmvc/2016/papers/paper136/index.html )  
   *Oscar Koller, Sepehr Zargaran, Hermann Ney and Richard Bowden*
+
+## Journal Papers
+
+- 【2022 TMM】Spatial-Temporal Multi-Cue Network for Sign Language Recognition and Translation. [[paper]](https://ieeexplore.ieee.org/abstract/document/9954921/)    
+*Hezhen Hu, Junfu Pu, Wengang Zhou, Houqiang Li*
+- 【2021 TMM】Spatial-Temporal Multi-Cue Network for Sign Language Recognition and Translation. [[paper]](https://ieeexplore.ieee.org/abstract/document/9354538/)    
+  *Hao Zhou, Wengang Zhou, Yun Zhou, Houqiang Li*
+- 【2020 IJCV】Text2Sign: Towards Sign Language Production Using Neural Machine Translation and Generative Adversarial Networks. [[paper]](<https://link.springer.com/content/pdf/10.1007%2Fs11263-019-01281-2.pdf>)   
+  *Stephanie Stoll, Necati Cihan Camgoz, Simon Hadfield, Richard Bowden*
+- 【2019 TPAMI】Weakly Supervised Learning with Multi-Stream CNN-LSTM-HMMs to Discover Sequential Parallelism in Sign Language Videos. [[paper]]( <https://www-i6.informatik.rwth-aachen.de/publications/download/1099/Koller-PAMI-2019.pdf>)    
+  *Oscar Koller, Necati Cihan Camgoz, Hermann Ney, Richard Bowden*  
+- 【2018 IJCV】Deep Sign: Enabling Robust Statistical Continuous Sign Language
+  Recognition via Hybrid CNN-HMMs. [[paper]]( <https://www-i6.informatik.rwth-aachen.de/publications/download/1081/Koller-IJCV-2018.pdf>)    
+  *Oscar Koller, Sepehr Zargaran, Hermann Ney, Richard Bowden*  
+- 【2015 TCSVT】A Survey on 3D Hand Gesture Recognition. [[paper]]( http://www.academia.edu/download/48354754/1.pdf )    
+  *Hong Cheng, Lu Yang, Zicheng Liu* 
+- 【2015 CVIU】Recent Methods and Databases in Vision-based Hand Gesture Recognition: A Review. [[paper]]( https://www.researchgate.net/profile/Pramod_Pisharady/publication/284070092_Recent_methods_and_databases_in_vision-based_hand_gesture_recognition_A_review/links/59db8d320f7e9b1947ef77ee/Recent-methods-and-databases-in-vision-based-hand-gesture-recognition-A-review.pdf)    
+  *Pramod Kumar Pisharady, Martin Saerbeck*
+- 【2015 TPAMI】Moddrop: adaptive multi-modal gesture recognition. [[paper]]( <https://arxiv.org/pdf/1501.00102.pdf>)    
+  *Natalia Neverova, Christian Wolf, Graham Taylor, Florian Nebout*  
+- 【2010 TPAMI】Handling Movement Epenthesis and Segmentation Ambiguities in Sign Language Recognition Nested Dynamic Programming. [[paper]]( http://figment.csee.usf.edu/~sarkar/PDFs/YangSarkarLoedingTPAMI-2008-01-0026.pdf )    
+  *Ruiduo Yang, Sudeep Sarkar,  Barbara Loeding* 
+- 【2007 TSMC】Gesture Recognition: A Survey. [[paper]](<http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.107.6243&rep=rep1&type=pdf>)    
+  *Sushmita Mitra, Tinku Acharya* 
+- 【2005 TPAMI】Automatic Sign Language Analysis: A Survey and the Future beyond Lexical Meaning. [[paper]](https://pdfs.semanticscholar.org/852e/333b06fbe9ea5bf3dd1e894cad86283b94f7.pdf )    
+  *Sylvie C.W. Ong,  Surendra Ranganath* 
+- 【1999 TPAMI】An HMM-Based Threshold Model Approach for Gesture Recognition. [[paper]]( <http://compbio.fmph.uniba.sk/vyuka/gm/handouts/Lee1999.pdf> )   
+  *Hyeon-Kyu Lee, Jin H. Kim*
+- 【1997 TPAMI】Visual interpretation of hand gestures for human-computer interaction: A review. [[paper]]( https://www.semanticscholar.org/paper/Visual-Interpretation-of-Hand-Gestures-for-A-Review-Pavlovic-Sharma/8dd3d5ef2e1c40433417cd90e21ce9a0468a7626 )   
+  *VI Pavlovic, R Sharma, TS Huang*
 
 ## arXiv Papers
 
