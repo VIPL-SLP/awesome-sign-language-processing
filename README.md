@@ -24,6 +24,24 @@ collecting related resources of gesture recognition here.
 
 ## Conference Papers
 ### 2023
+- 【ICCV 2023】CoSign: Exploring Co-occurrence Signals in Skeleton-based Continuous Sign Language Recognition.  
+*Peiqi Jiao, Yuecong Min, Yanan Li, Xiaotao Wang, Lei Lei, Xilin Chen*
+- 【ICCV 2023】Human Part-wise 3D Motion Context Learning for Sign Language Recognition.       
+*Taeryung Lee, Yeonguk Oh and Kyoung Mu Lee*  
+- 【ICCV 2023】C2ST: Cross-modal Contextualized Sequence Transduction for Continuous Sign Language Recognition.   
+*Huaiwen Zhang, Zihang Guo, Yang Yang, Xin Liu, De Hu*
+- 【ICCV 2023】Gloss-free Sign Language Translation: Improving from Visual-Language Pretraining.[[paper]](https://arxiv.org/abs/2307.14768)   
+*Benjia Zhou, Zhigang Chen, Albert Clapés, Jun Wan, Yanyan Liang, Sergio Escalera, Zhen Lei, Du Zhang*  
+- 【ACL 2023】Neural Machine Translation Methods for Translating Text to Sign Language Glosses. [[paper]](https://aclanthology.org/2023.acl-long.700/)  
+*Dele Zhu, Vera Czehmann, Eleftherios Avramidis*
+- 【ACL 2023】Gloss-Free End-to-End Sign Language Translation.[[paper]](https://aclanthology.org/2023.acl-long.722/)  
+*Kezhou Lin, Xiaohan Wang, Linchao Zhu, Ke Sun, Bang Zhang, Yi Yang*
+- 【ACL 2023】Considerations for meaningful sign language machine translation based on glosses.[[paper]](https://aclanthology.org/2023.acl-short.60/)  
+*Mathias Müller, Zifan Jiang, Amit Moryossef, Annette Rios, Sarah Ebling*
+- 【ACL 2023】 Listen, Decipher and Sign: Toward Unsupervised Speech-to-Sign Language Recognition.[[paper]](https://aclanthology.org/2023.findings-acl.424/)  
+*Liming Wang, Junrui Ni, Heting Gao, Jialu Li, Kai Chieh Chang, Xulin Fan, Junkai Wu, Mark Hasegawa-Johnson, Chang Yoo*
+- 【ACL 2023】ISLTranslate: Dataset for Translating Indian Sign Language. [[paper]](https://aclanthology.org/2023.findings-acl.665/)
+*Abhinav Joshi, Susmit Agrawal, Ashutosh Modi*
 - 【ICLR 2023】SLTUNET: A Simple Unified Model for Sign Language Translation.[[paper]](https://openreview.net/forum?id=EBS4C77p_5S) [[code]](https://github.com/bzhangGo/sltunet)     
 *Biao Zhang, Mathias Müller, Rico Sennrich*
 - 【CVPR 2023】 Natural Language-Assisted Sign Language Recognition.[[paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Zuo_Natural_Language-Assisted_Sign_Language_Recognition_CVPR_2023_paper.html)[[code]](https://github.com/FangyunWei/SLRT/tree/main/NLA-SLR)     
@@ -51,7 +69,8 @@ collecting related resources of gesture recognition here.
 
 
 ### 2022
-
+- 【EMNLP 2022】Open-Domain Sign Language Translation Learned from Online Video.[[paper]](https://arxiv.org/abs/2205.12870)[[code]](https://github.com/chevalierNoir/OpenASL)   
+*Bowen Shi, Diane Brentari, Greg Shakhnarovich, Karen Livescu*
 - 【NeurIPS 2022】 Addressing Resource Scarcity across Sign Languages with Multilingual Pretraining and Unified-Vocabulary Datasets.[[paper]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/eb011fd258c763c44d8c6a0e9ce04f17-Abstract-Datasets_and_Benchmarks.html)     
 *Gokul NC, Manideep Ladi, Sumit Negi, Prem Selvaraj, Pratyush Kumar, Mitesh Khapra*
 - 【NeurIPS 2022】Two-Stream Network for Sign Language Recognition and Translation.[[paper]](https://openreview.net/forum?id=hSxK-4KGLbI) [[code]](https://github.com/FangyunWei/SLRT/tree/main/TwoStreamNetwork)     
