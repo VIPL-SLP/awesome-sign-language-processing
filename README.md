@@ -25,18 +25,26 @@ collecting related resources of gesture recognition here.
 ## Conference Papers
 ### 2023
 - 【ICCV ACVR 2023】https://iplab.dmi.unict.it/acvr2023/program
-- 【ICCV 2023】CoSign: Exploring Co-occurrence Signals in Skeleton-based Continuous Sign Language Recognition.  
+- 【ICCV 2023】CoSign: Exploring Co-occurrence Signals in Skeleton-based Continuous Sign Language Recognition.[[paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Jiao_CoSign_Exploring_Co-occurrence_Signals_in_Skeleton-based_Continuous_Sign_Language_Recognition_ICCV_2023_paper.html)       
 *Peiqi Jiao, Yuecong Min, Yanan Li, Xiaotao Wang, Lei Lei, Xilin Chen*
-- 【ICCV 2023】Human Part-wise 3D Motion Context Learning for Sign Language Recognition.[[paper]](https://arxiv.org/abs/2308.09305)       
+- 【ICCV 2023】Human Part-wise 3D Motion Context Learning for Sign Language Recognition.[[paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Lee_Human_Part-wise_3D_Motion_Context_Learning_for_Sign_Language_Recognition_ICCV_2023_paper.html)       
 *Taeryung Lee, Yeonguk Oh and Kyoung Mu Lee*  
-- 【ICCV 2023】Sign Language Translation with Iterative Prototype.[[paper]](https://arxiv.org/abs/2308.12191)       
+- 【ICCV 2023】Sign Language Translation with Iterative Prototype.[[paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Yao_Sign_Language_Translation_with_Iterative_Prototype_ICCV_2023_paper.html)       
 *Huijie Yao, Wengang Zhou, Hao Feng, Hezhen Hu, Hao Zhou, Houqiang Li*  
 - 【ICCV 2023】Improving Continuous Sign Language Recognition with Cross-Lingual Signs.[[paper]](https://arxiv.org/abs/2308.10809)       
 *Fangyun Wei, Yutong Chen*    
-- 【ICCV 2023】C2ST: Cross-modal Contextualized Sequence Transduction for Continuous Sign Language Recognition.   
+- 【ICCV 2023】C2ST: Cross-modal Contextualized Sequence Transduction for Continuous Sign Language Recognition.[[paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Zhang_C2ST_Cross-Modal_Contextualized_Sequence_Transduction_for_Continuous_Sign_Language_Recognition_ICCV_2023_paper.html)   
 *Huaiwen Zhang, Zihang Guo, Yang Yang, Xin Liu, De Hu*
-- 【ICCV 2023】Gloss-free Sign Language Translation: Improving from Visual-Language Pretraining.[[paper]](https://arxiv.org/abs/2307.14768)   
+- 【ICCV 2023】Gloss-free Sign Language Translation: Improving from Visual-Language Pretraining.[[paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Zhou_Gloss-Free_Sign_Language_Translation_Improving_from_Visual-Language_Pretraining_ICCV_2023_paper.html)   
 *Benjia Zhou, Zhigang Chen, Albert Clapés, Jun Wan, Yanyan Liang, Sergio Escalera, Zhen Lei, Du Zhang*  
+- 【ICCV 2023】Continual Learning for Personalized Co-speech Gesture Generation.[[paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Ahuja_Continual_Learning_for_Personalized_Co-speech_Gesture_Generation_ICCV_2023_paper.html)     
+*Chaitanya Ahuja, Pratik Joshi, Ryo Ishii, Louis-Philippe Morency*
+- 【ICCV 2023】LivelySpeaker: Towards Semantic-Aware Co-Speech Gesture Generation.[[paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Zhi_LivelySpeaker_Towards_Semantic-Aware_Co-Speech_Gesture_Generation_ICCV_2023_paper.html)     
+*Yihao Zhi, Xiaodong Cun, Xuelin Chen, Xi Shen, Wen Guo, Shaoli Huang, Shenghua Gao*
+- 【ICCV 2023】Learning Robust Representations with Information Bottleneck and Memory Network for RGB-D-based Gesture Recognition.[[paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Li_Learning_Robust_Representations_with_Information_Bottleneck_and_Memory_Network_for_ICCV_2023_paper.html)      
+*Yunan Li, Huizhou Chen, Guanwen Feng, Qiguang Miao*
+- 【ICCV 2023】Data-Free Class-Incremental Hand Gesture Recognition.[[paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Aich_Data-Free_Class-Incremental_Hand_Gesture_Recognition_ICCV_2023_paper.html)      
+*Shubhra Aich, Jesus Ruiz-Santaquiteria, Zhenyu Lu, Prachi Garg, K J Joseph, Alvaro Fernandez Garcia, Vineeth N Balasubramanian, Kenrick Kin, Chengde Wan, Necati Cihan Camgoz, Shugao Ma, Fernando De la Torre*
 - 【ACL 2023】Neural Machine Translation Methods for Translating Text to Sign Language Glosses. [[paper]](https://aclanthology.org/2023.acl-long.700/)  
 *Dele Zhu, Vera Czehmann, Eleftherios Avramidis*
 - 【ACL 2023】Gloss-Free End-to-End Sign Language Translation.[[paper]](https://aclanthology.org/2023.acl-long.722/)  
@@ -45,7 +53,7 @@ collecting related resources of gesture recognition here.
 *Mathias Müller, Zifan Jiang, Amit Moryossef, Annette Rios, Sarah Ebling*
 - 【ACL 2023】 Listen, Decipher and Sign: Toward Unsupervised Speech-to-Sign Language Recognition.[[paper]](https://aclanthology.org/2023.findings-acl.424/)  
 *Liming Wang, Junrui Ni, Heting Gao, Jialu Li, Kai Chieh Chang, Xulin Fan, Junkai Wu, Mark Hasegawa-Johnson, Chang Yoo*
-- 【ACL 2023】ISLTranslate: Dataset for Translating Indian Sign Language. [[paper]](https://aclanthology.org/2023.findings-acl.665/)
+- 【ACL 2023】ISLTranslate: Dataset for Translating Indian Sign Language. [[paper]](https://aclanthology.org/2023.findings-acl.665/)     
 *Abhinav Joshi, Susmit Agrawal, Ashutosh Modi*
 - 【ICLR 2023】SLTUNET: A Simple Unified Model for Sign Language Translation.[[paper]](https://openreview.net/forum?id=EBS4C77p_5S) [[code]](https://github.com/bzhangGo/sltunet)     
 *Biao Zhang, Mathias Müller, Rico Sennrich*
