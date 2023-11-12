@@ -23,7 +23,21 @@ collecting related resources of gesture recognition here.
 - [Devisign](http://vipl.ict.ac.cn/homepage/ksl/data.html)
 
 ## Conference Papers
+### 2024
+- 【ICLR 2024 Submission】Sign2GPT: Leveraging Large Language Models for Gloss-Free Sign Language Translation. [[paper]](https://openreview.net/forum?id=LqaEEs3UxU)
+- 【ICLR 2024 Submission】NaturalSigner: Diffusion Models are Natural Sign Language Generator. [[paper]](https://openreview.net/forum?id=4JjSJyT15z)
+- 【ICLR 2024 Submission】SignAvatars: A Large-scale 3D Sign Language Holistic Motion Dataset and Benchmark. [[paper]](https://openreview.net/forum?id=L2kbdthX5M)
+- 【ICLR 2024 Submission】SignKD: Multi-modal Hierarchical Knowledge Distillation for Continuous Sign Language Recognition. [[paper]](https://openreview.net/forum?id=YkRwadXWHd)
+- 【ICLR 2024 Submission】EQA-MX: Embodied Question Answering using Multimodal Expression. [[paper]](https://openreview.net/forum?id=7gUrYE50Rb)
 ### 2023
+- 【NeurIPS 2023 Dataset】YouTube-ASL: A Large-Scale, Open-Domain American Sign Language-English Parallel Corpus. [[paper]](https://openreview.net/forum?id=QEDjXv9OyY)     
+*David Uthus, Garrett Tanzer, Manfred Georg*
+- 【NeurIPS 2023 Dataset】Auslan-Daily: Australian Sign Language Translation for Daily Communication and News. [[paper]](https://openreview.net/forum?id=g5v3Ig6WVq)      
+*Xin Shen, Shaozu Yuan, Hongwei Sheng, Heming Du, Xin Yu*
+- 【NeurIPS 2023 Dataset】ASL Citizen: A Community-Sourced Dataset for Advancing Isolated Sign Language Recognition.[[paper]](https://openreview.net/forum?id=zbEYTg2F1U)     
+*Aashaka Desai, Lauren Berger, Fyodor O Minakov, Vanessa Milan, Chinmay Singh, Kriston L Pumphrey, Richard Ladner, Hal Daumé III, Alex Xijie Lu, Naomi Caselli, Danielle Bragg*
+- 【NeurIPS 2023 Dataset】PopSign ASL v1.0: An Isolated American Sign Language Dataset Collected via Smartphones. [[paper]](https://openreview.net/forum?id=yEf8NSqTPu)       
+*Thad Starner, Sean Forbes, Matthew So, David Martin, Rohit Sridhar, Gururaj Deshpande, Sam Sepah, Sahir Shahryar, Khushi Bhardwaj, Tyler Kwok, Daksh Sehgal, Saad Hassan, Bill Neubauer, Sofia Anandi Vempala, Alec Tan, Jocelyn Heath, Unnathi Utpal Kumar, Priyanka Vijayaraghavan Mosur, Tavenner M. Hall, Rajandeep Singh et al.*
 - 【ICCV ACVR 2023】https://iplab.dmi.unict.it/acvr2023/program
 - 【ICCV 2023】CoSign: Exploring Co-occurrence Signals in Skeleton-based Continuous Sign Language Recognition.[[paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Jiao_CoSign_Exploring_Co-occurrence_Signals_in_Skeleton-based_Continuous_Sign_Language_Recognition_ICCV_2023_paper.html)       
 *Peiqi Jiao, Yuecong Min, Yanan Li, Xiaotao Wang, Lei Lei, Xilin Chen*
