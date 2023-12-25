@@ -25,7 +25,7 @@ collecting related resources of gesture recognition here.
 ## Conference Papers
 ### 2024
 
-- [WACV 2024]  Sign Language Production With Latent Motion Transformer. 
+- [WACV 2024]  Sign Language Production With Latent Motion Transformer. [[paper]](https://openaccess.thecvf.com/content/WACV2024/html/Xie_Sign_Language_Production_With_Latent_Motion_Transformer_WACV_2024_paper.html)   
   *Pan Xie, Taiying Peng, Yao Du, Qipeng Zhang*
 
 - [ICLR 2024 Submission] Sign2GPT: Leveraging Large Language Models for Gloss-Free Sign Language Translation. [[paper]](https://openreview.net/forum?id=LqaEEs3UxU)
@@ -47,7 +47,7 @@ collecting related resources of gesture recognition here.
   *Amit Moryossef, Zifan Jiang, Mathias Müller, Sarah Ebling, Yoav Goldberg*
 - [EMNLP Findings 2023] Cross-modality Data Augmentation for End-to-End Sign Language Translation. [[paper]](https://aclanthology.org/2023.findings-emnlp.904/)    
   *Jinhui Ye, Wenxiang Jiao, Xing Wang, Zhaopeng Tu, Hui Xiong*
-- [OpenReview] Towards Faithful Sign Language Translation. [[paper]]([Towards Faithful Sign Language Translation | OpenReview](https://openreview.net/forum?id=mWMJN0vbDF))    
+- [OpenReview] Towards Faithful Sign Language Translation. [[paper]](https://openreview.net/forum?id=mWMJN0vbDF)    
   *Yuecong Min, Xilin Chen*
 
 - [NeurIPS 2023 Dataset] YouTube-ASL: A Large-Scale, Open-Domain American Sign Language-English Parallel Corpus. [[paper]](https://openreview.net/forum?id=QEDjXv9OyY)     
