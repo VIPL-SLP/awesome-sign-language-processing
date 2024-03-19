@@ -50,7 +50,7 @@ A curated list of sign language procesing (e.g., sign language recognition, sign
 - [Complete List of Sign Language Recognition](./complete_list/sign_language_recognition.md)
 
 ### Sign Language Translation
-- [CVPR 2024] Representing Signs as Language: A New Method for Sign Language Translation from Videos.
+- [CVPR 2024] Representing Signs as Language: A New Method for Sign Language Translation from Videos.     
   *Jia Gong, Lin Geng Foo, Yixuan He, Hossein Rahmani , Jun Liu*
 - [ICLR 2024] Sign2GPT: Leveraging Large Language Models for Gloss-Free Sign Language Translation. [[paper]](https://openreview.net/forum?id=LqaEEs3UxU)
   *Ryan Wong, Necati Cihan Camgoz, Richard Bowden*
@@ -71,7 +71,7 @@ A curated list of sign language procesing (e.g., sign language recognition, sign
 - [Complete List of Sign Language Translation](./complete_list/sign_language_translation.md)
 
 ### Sign Language Production
-- [CVPR 2024] Neural Sign Actors: A diffusion model for 3D sign language production from text. [[paper]](https://arxiv.org/pdf/2312.02702.pdf)
+- [CVPR 2024] Neural Sign Actors: A diffusion model for 3D sign language production from text. [[paper]](https://arxiv.org/pdf/2312.02702.pdf)     
   *Vasileios Baltatzis, Rolandos Alexandros Potamias, Evangelos Ververas, Guanxiong Sun, Jiankang Deng, Stefanos Zafeiriou*
 - [WACV 2024]  Sign Language Production With Latent Motion Transformer. [[paper]](https://openaccess.thecvf.com/content/WACV2024/html/Xie_Sign_Language_Production_With_Latent_Motion_Transformer_WACV_2024_paper.html)   
   *Pan Xie, Taiying Peng, Yao Du, Qipeng Zhang*
@@ -90,15 +90,15 @@ A curated list of sign language procesing (e.g., sign language recognition, sign
 *Rotem Shalev Arkushin, Amit Moryossef, Ohad Fried*
 
 ### Co-speech Gesture Generation
-- [CVPR 2024] EMAGE: Towards Unified Holistic Co-Speech Gesture Generation via Expressive Masked Audio Gesture Modeling.[[paper]](https://arxiv.org/pdf/2401.00374.pdf)
+- [CVPR 2024] EMAGE: Towards Unified Holistic Co-Speech Gesture Generation via Expressive Masked Audio Gesture Modeling.[[paper]](https://arxiv.org/pdf/2401.00374.pdf)    
   *Haiyang Liu, Zihao Zhu, Giorgio Becherini, YICHEN PENG, Mingyang Su, YOU ZHOU, Xuefei Zhe, Naoya Iwamoto, Bo Zheng, Michael J. Black*
-- [CVPR 2024] Weakly-Supervised Emotion Transition Learning for Diverse 3D Co-speech Gesture Generation.[[paper]](https://arxiv.org/pdf/2311.17532.pdf)
+- [CVPR 2024] Weakly-Supervised Emotion Transition Learning for Diverse 3D Co-speech Gesture Generation.[[paper]](https://arxiv.org/pdf/2311.17532.pdf)     
   *Xingqun Qi, Jiahao Pan, Peng Li, Ruibin Yuan, Xiaowei Chi, Mengfei Li, Wenhan Luo, Wei Xue, Shanghang Zhang, Qifeng Liu, Yike Guo*
-- [CVPR 2024] Towards Variable and Coordinated Holistic Co-Speech Motion Generation. 
+- [CVPR 2024] Towards Variable and Coordinated Holistic Co-Speech Motion Generation.      
   *Yifei Liu, Qiong Cao, Yandong Wen, Huaiguang Jiang, Changxing Ding*
-- [CVPR 2024] ConvoFusion: Multi-Modal Conversational Diffusion for Co-Speech Gesture Synthesis. 
+- [CVPR 2024] ConvoFusion: Multi-Modal Conversational Diffusion for Co-Speech Gesture Synthesis.      
   *Muhammad Hamza Mughal, Rishabh Dabral, Ikhsanul Habibie, Lucia Donatelli, Marc Habermann, Christian Theobalt*
-- [CVPR 2024] Co-Speech Gesture Video Generation via Motion-Decoupled Diffusion Model. 
+- [CVPR 2024] Co-Speech Gesture Video Generation via Motion-Decoupled Diffusion Model.      
   *Xu He, Qiaochu Huang, Zhensong Zhang, Zhiwei Lin, Zhiyong Wu, Sicheng Yang, Minglei Li, Zhiyi Chen, Songcen Xu, Xiaofei Wu*
 - [ICCV 2023] Continual Learning for Personalized Co-speech Gesture Generation.[[paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Ahuja_Continual_Learning_for_Personalized_Co-speech_Gesture_Generation_ICCV_2023_paper.html)     
 *Chaitanya Ahuja, Pratik Joshi, Ryo Ishii, Louis-Philippe Morency*
