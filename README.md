@@ -91,15 +91,15 @@ A curated list of sign language procesing (e.g., sign language recognition, sign
 
 ### Co-speech Gesture Generation
 - [CVPR 2024] EMAGE: Towards Unified Holistic Co-Speech Gesture Generation via Expressive Masked Audio Gesture Modeling.[[paper]](https://arxiv.org/pdf/2401.00374.pdf)
-*Haiyang Liu, Zihao Zhu, Giorgio Becherini, YICHEN PENG, Mingyang Su, YOU ZHOU, Xuefei Zhe, Naoya Iwamoto, Bo Zheng, Michael J. Black*
+  *Haiyang Liu, Zihao Zhu, Giorgio Becherini, YICHEN PENG, Mingyang Su, YOU ZHOU, Xuefei Zhe, Naoya Iwamoto, Bo Zheng, Michael J. Black*
 - [CVPR 2024] Weakly-Supervised Emotion Transition Learning for Diverse 3D Co-speech Gesture Generation.[[paper]](https://arxiv.org/pdf/2311.17532.pdf)
-*Xingqun Qi, Jiahao Pan, Peng Li, Ruibin Yuan, Xiaowei Chi, Mengfei Li, Wenhan Luo, Wei Xue, Shanghang Zhang, Qifeng Liu, Yike Guo*
+  *Xingqun Qi, Jiahao Pan, Peng Li, Ruibin Yuan, Xiaowei Chi, Mengfei Li, Wenhan Luo, Wei Xue, Shanghang Zhang, Qifeng Liu, Yike Guo*
 - [CVPR 2024] Towards Variable and Coordinated Holistic Co-Speech Motion Generation. 
-*Yifei Liu, Qiong Cao, Yandong Wen, Huaiguang Jiang, Changxing Ding*
+  *Yifei Liu, Qiong Cao, Yandong Wen, Huaiguang Jiang, Changxing Ding*
 - [CVPR 2024] ConvoFusion: Multi-Modal Conversational Diffusion for Co-Speech Gesture Synthesis. 
-*Muhammad Hamza Mughal, Rishabh Dabral, Ikhsanul Habibie, Lucia Donatelli, Marc Habermann, Christian Theobalt*
+  *Muhammad Hamza Mughal, Rishabh Dabral, Ikhsanul Habibie, Lucia Donatelli, Marc Habermann, Christian Theobalt*
 - [CVPR 2024] Co-Speech Gesture Video Generation via Motion-Decoupled Diffusion Model. 
-*Xu He, Qiaochu Huang, Zhensong Zhang, Zhiwei Lin, Zhiyong Wu, Sicheng Yang, Minglei Li, Zhiyi Chen, Songcen Xu, Xiaofei Wu*
+  *Xu He, Qiaochu Huang, Zhensong Zhang, Zhiwei Lin, Zhiyong Wu, Sicheng Yang, Minglei Li, Zhiyi Chen, Songcen Xu, Xiaofei Wu*
 - [ICCV 2023] Continual Learning for Personalized Co-speech Gesture Generation.[[paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Ahuja_Continual_Learning_for_Personalized_Co-speech_Gesture_Generation_ICCV_2023_paper.html)     
 *Chaitanya Ahuja, Pratik Joshi, Ryo Ishii, Louis-Philippe Morency*
 - [ICCV 2023] LivelySpeaker: Towards Semantic-Aware Co-Speech Gesture Generation.[[paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Zhi_LivelySpeaker_Towards_Semantic-Aware_Co-Speech_Gesture_Generation_ICCV_2023_paper.html)     
