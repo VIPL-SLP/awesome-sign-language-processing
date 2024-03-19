@@ -10,11 +10,10 @@ A curated list of sign language procesing (e.g., sign language recognition, sign
 - [Wiki] [Sign Language Tranlsation](https://en.wikipedia.org/wiki/Machine_translation_of_sign_languages)
 - [Resource] [jinwchoi/awesome-action-recognition](https://github.com/jinwchoi/awesome-action-recognition)
 - [Resource] [xinghaochen/awesome-hand-pose-estimation](https://github.com/xinghaochen/awesome-hand-pose-estimation)
-- [Resource] [zzw922cn/awesome-speech-recognition-speech-synthesis-papers](https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers)
 - [Resource] [OpenHuman-ai/awesome-gesture_generation](https://github.com/OpenHuman-ai/awesome-gesture_generation)
+- [Resource] [zzw922cn/awesome-speech-recognition-speech-synthesis-papers](https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers)
 
 ## Contents
-- [Datasets](#datasets)
 - [Conference Papers](#conference-papers)
   - [Sign Language Recognition](#sign-language-recognition)
   - [Sign Language Translation](#sign-language-translation)
@@ -23,32 +22,7 @@ A curated list of sign language procesing (e.g., sign language recognition, sign
   - [Co-speech Gesture Generation](#co-speech-gesture-generation)
   - [Gesture Recognition](#gesture-recognition)
 - [Sign Language Workshop](#sign-language-workshop)
-
-## Datasets
-
-|    Dataset   |          | Task |            | Modality |       | Statistic |        |            |
-|:------------:|:--------:|:--------:|:----------:|:--------:|:-----:|:---------:|:------:|:----------:|
-| Name | Language | Isolated | Continuous |    RGB   | Depth |  #Signers | #Vocab | #Sequences |
-|  DGS Kinect  |    DGS   |     √    |            |     √    |   √   |     15    |   40   |    3,000   |
-|    ASLLVD    |    ASL   |     √    |            |     √    |       |     6     |  2,742 |    9,794   |
-|  DEVISIGN-L  |    CSL   |     √    |            |     √    |   √   |     8     |  2,000 |   24,000   |
-|    CSL-500   |    CSL   |     √    |            |     √    |       |     50    |   500  |   125,000  |
-|     MSASL    |    ASL   |     √    |            |     √    |       |    222    |  1,000 |   25,513   |
-|   WLASL2000  |    ASL   |     √    |            |     √    |       |    119    |  2,000 |   21,083   |
-|     AUTSL    |    TSL   |     √    |            |     √    |   √   |     43    |   226  |   38,336   |
-|    SIGNUM    |    DGS   |          |      √     |     √    |   √   |     9     |   455  |    2,340   |
-|   Phoenix14  |    DGS   |          |      √     |     √    |       |     9     |  1,200 |    6,841   |
-|     KETI     |    KSL   |          |      √     |     √    |       |     14    |   524  |   15,672   |
-|      GSL     |    GSL   |          |      √     |     √    |   √   |     7     |   310  |   10,290   |
-|    CSL-100   |    CSL   |          |      √     |     √    |       |     50    |  2,000 |   25,000   |
-|   CSL-Daily  |    CSL   |          |      √     |     √    |       |     10    |  2,000 |   20,654   |
-|    BSL-1K    |    BSL   |          |      √     |     √    |       |     40    |  1,064 |    273K    |
-|   VRT-NEWS   |    VGT   |          |      √     |     √    |       |     9     |  6,325 |    7,174   |
-|   How2Sign   |    BSL   |          |      √     |     √    |   √   |     11    | 15,686 |   35,191   |
-|     BOBSL    |    BSL   |          |      √     |     √    |       |     39    |  2,281 |    452K    |
-|    OpenASL   |    ASL   |          |      √     |     √    |       |    220    | 33,549 |   98,417   |
-|  YouTube-ASL |    ASL   |          |      √     |     √    |       |   >2519   |   60K  |   11,093   |
-|
+- [Datasets](#datasets)
 
 ## Conference Papers
 
@@ -142,3 +116,28 @@ and Fine Hand Features.[[paper]](https://bmvc2022.mpi-inf.mpg.de/1055.pdf)
 ## Sign Language Workshop
 - [[ICCV ACVR 2023]](https://iplab.dmi.unict.it/acvr2023/program) Eleventh International Workshop on Assistive Computer Vision and Robotics
 - [[ECCV SLRTP 2020]](https://slrtp.com/) Sign language recognition, translation & production. [[Accepted papers]](SLRTP_acccepted_list.md)
+
+## Datasets
+
+|    Dataset   |          | Task |            | Modality |       | Statistic |        |            |
+|:------------:|:--------:|:--------:|:----------:|:--------:|:-----:|:---------:|:------:|:----------:|
+| Name | Language | Isolated | Continuous |    RGB   | Depth |  #Signers | #Vocab | #Sequences |
+|  DGS Kinect  |    DGS   |     √    |            |     √    |   √   |     15    |   40   |    3,000   |
+|    ASLLVD    |    ASL   |     √    |            |     √    |       |     6     |  2,742 |    9,794   |
+|  DEVISIGN-L  |    CSL   |     √    |            |     √    |   √   |     8     |  2,000 |   24,000   |
+|    CSL-500   |    CSL   |     √    |            |     √    |       |     50    |   500  |   125,000  |
+|     MSASL    |    ASL   |     √    |            |     √    |       |    222    |  1,000 |   25,513   |
+|   WLASL2000  |    ASL   |     √    |            |     √    |       |    119    |  2,000 |   21,083   |
+|     AUTSL    |    TSL   |     √    |            |     √    |   √   |     43    |   226  |   38,336   |
+|    SIGNUM    |    DGS   |          |      √     |     √    |   √   |     9     |   455  |    2,340   |
+|   Phoenix14  |    DGS   |          |      √     |     √    |       |     9     |  1,200 |    6,841   |
+|     KETI     |    KSL   |          |      √     |     √    |       |     14    |   524  |   15,672   |
+|      GSL     |    GSL   |          |      √     |     √    |   √   |     7     |   310  |   10,290   |
+|    CSL-100   |    CSL   |          |      √     |     √    |       |     50    |  2,000 |   25,000   |
+|   CSL-Daily  |    CSL   |          |      √     |     √    |       |     10    |  2,000 |   20,654   |
+|    BSL-1K    |    BSL   |          |      √     |     √    |       |     40    |  1,064 |    273K    |
+|   VRT-NEWS   |    VGT   |          |      √     |     √    |       |     9     |  6,325 |    7,174   |
+|   How2Sign   |    BSL   |          |      √     |     √    |   √   |     11    | 15,686 |   35,191   |
+|     BOBSL    |    BSL   |          |      √     |     √    |       |     39    |  2,281 |    452K    |
+|    OpenASL   |    ASL   |          |      √     |     √    |       |    220    | 33,549 |   98,417   |
+|  YouTube-ASL |    ASL   |          |      √     |     √    |       |   >2519   |   60K  |   11,093   |
