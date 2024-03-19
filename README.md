@@ -14,7 +14,7 @@ A curated list of sign language procesing (e.g., sign language recognition, sign
 - [Resource] [zzw922cn/awesome-speech-recognition-speech-synthesis-papers](https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers)
 
 ## Contents
-- [Conference Papers](#conference-papers)
+- [Conference Paper](#conference-paper)
   - [Sign Language Recognition](#sign-language-recognition)
   - [Sign Language Translation](#sign-language-translation)
   - [Sign Language Production](#sign-language-production)
@@ -22,9 +22,9 @@ A curated list of sign language procesing (e.g., sign language recognition, sign
   - [Co-speech Gesture Generation](#co-speech-gesture-generation)
   - [Gesture Recognition](#gesture-recognition)
 - [Sign Language Workshop](#sign-language-workshop)
-- [Datasets](#datasets)
+- [Dataset](#dataset)
 
-## Conference Papers
+## Conference Paper
 
 ### Sign Language Recognition
 - [EMNLP Findings 2023]  Handshape-Aware Sign Language Recognition: Extended Datasets and Exploration of Handshape-Inclusive Methods. [[paper]](https://aclanthology.org/2023.findings-emnlp.198/)    
@@ -45,7 +45,7 @@ A curated list of sign language procesing (e.g., sign language recognition, sign
 *Fangyun Wei, Yutong Chen* 
 - [ICCV 2023] C2ST: Cross-modal Contextualized Sequence Transduction for Continuous Sign Language Recognition.[[paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Zhang_C2ST_Cross-Modal_Contextualized_Sequence_Transduction_for_Continuous_Sign_Language_Recognition_ICCV_2023_paper.html)   
 *Huaiwen Zhang, Zihang Guo, Yang Yang, Xin Liu, De Hu*   
-- [Complete List of Sign Language Recognition](./compelete_list/sign_language_recognition.md)
+- [Complete List of Sign Language Recognition](./complete_list/sign_language_recognition.md)
 
 ### Sign Language Translation
 - [ICLR 2024] Sign2GPT: Leveraging Large Language Models for Gloss-Free Sign Language Translation. [[paper]](https://openreview.net/forum?id=LqaEEs3UxU)
@@ -63,7 +63,7 @@ A curated list of sign language procesing (e.g., sign language recognition, sign
 *Huijie Yao, Wengang Zhou, Hao Feng, Hezhen Hu, Hao Zhou, Houqiang Li* 
 - [ICCV 2023] Gloss-free Sign Language Translation: Improving from Visual-Language Pretraining.[[paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Zhou_Gloss-Free_Sign_Language_Translation_Improving_from_Visual-Language_Pretraining_ICCV_2023_paper.html)   
 *Benjia Zhou, Zhigang Chen, Albert Clapés, Jun Wan, Yanyan Liang, Sergio Escalera, Zhen Lei, Du Zhang*  
-- [Complete List of Sign Language Translation](./compelete_list/sign_language_translation.md)
+- [Complete List of Sign Language Translation](./complete_list/sign_language_translation.md)
 
 ### Sign Language Production
 - [WACV 2024]  Sign Language Production With Latent Motion Transformer. [[paper]](https://openaccess.thecvf.com/content/WACV2024/html/Xie_Sign_Language_Production_With_Latent_Motion_Transformer_WACV_2024_paper.html)   
@@ -72,7 +72,7 @@ A curated list of sign language procesing (e.g., sign language recognition, sign
   *Ben Saunders, Necati Cihan Camgoz, Richard Bowden*
 - [ICCV 2021] Mixed SIGNals: Sign Language Production via a Mixture of Motion Primitives.[[paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Saunders_Mixed_SIGNals_Sign_Language_Production_via_a_Mixture_of_Motion_ICCV_2021_paper.html)    
    *Ben Saunders; Necati Cihan Camgoz; Richard Bowden*
-- [Complete List of Sign Language Production](./compelete_list/co_speech_generation.md)
+- [Complete List of Sign Language Production](./complete_list/co_speech_generation.md)
 
 ### Other Sign Language Topic
 - [EMNLP Findings 2023] Enhancing Accessible Communication: from European Portuguese to Portuguese Sign Language. [[paper]](https://aclanthology.org/2023.findings-emnlp.766/)    
@@ -95,7 +95,7 @@ A curated list of sign language procesing (e.g., sign language recognition, sign
 *Xingqun Qi, Chen Liu, Muyi Sun, Lincheng Li, Changjie Fan, Xin Yu*
 - [CVPR 2023]  Co-speech Gesture Synthesis by Reinforcement Learning with Contrastive Pre-trained Rewards.[[paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Sun_Co-Speech_Gesture_Synthesis_by_Reinforcement_Learning_With_Contrastive_Pre-Trained_Rewards_CVPR_2023_paper.html)     
 *Mingyang Sun, Mengchen Zhao, Yaqing Hou, Minglei Li, Huang Xu, Songcen Xu, Jianye HAO*
-- [Complete List of Co-speech Gesture Generation](./compelete_list/co_speech_gesture_generation.md)
+- [Complete List of Co-speech Gesture Generation](./complete_list/co_speech_gesture_generation.md)
 
 ### Gesture Recognition
 - [ICCV 2023] Learning Robust Representations with Information Bottleneck and Memory Network for RGB-D-based Gesture Recognition.[[paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Li_Learning_Robust_Representations_with_Information_Bottleneck_and_Memory_Network_for_ICCV_2023_paper.html)      
@@ -111,13 +111,13 @@ and Fine Hand Features.[[paper]](https://bmvc2022.mpi-inf.mpg.de/1055.pdf)
   *Dan Liu; Libo Zhang; Yanjun Wu*
 - [AAAI 2022] Learning Unseen Emotions from Gestures via Semantically-Conditioned Zero-Shot Perception with Adversarial Autoencoders.[[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Ahuja_Low-Resource_Adaptation_for_Personalized_Co-Speech_Gesture_Generation_CVPR_2022_paper.html)    
   *Abhishek Banerjee, Uttaran Bhattacharya, Aniket Bera*
-- [Complete List of Gesture Recognition](./compelete_list/co_speech_generation.md)
+- [Complete List of Gesture Recognition](./complete_list/co_speech_generation.md)
 
 ## Sign Language Workshop
 - [[ICCV ACVR 2023]](https://iplab.dmi.unict.it/acvr2023/program) Eleventh International Workshop on Assistive Computer Vision and Robotics
 - [[ECCV SLRTP 2020]](https://slrtp.com/) Sign language recognition, translation & production. [[Accepted papers]](SLRTP_acccepted_list.md)
 
-## Datasets
+## Dataset
 
 |    Dataset   |          | Task |            | Modality |       | Statistic |        |            |
 |:------------:|:--------:|:--------:|:----------:|:--------:|:-----:|:---------:|:------:|:----------:|
