@@ -8,18 +8,21 @@ A curated list of sign language procesing (e.g., sign language recognition, sign
 - [Wiki] [Sign Language Recognition](https://en.wikipedia.org/wiki/Sign_language_recognition)
 - [Wiki] [Gesture_recognition](https://en.wikipedia.org/wiki/Gesture_recognition)
 - [Wiki] [Sign Language Tranlsation](https://en.wikipedia.org/wiki/Machine_translation_of_sign_languages)
+- [Resource] [jinwchoi/awesome-action-recognition](https://github.com/jinwchoi/awesome-action-recognition)
 - [Resource] [xinghaochen/awesome-hand-pose-estimation](https://github.com/xinghaochen/awesome-hand-pose-estimation)
+- [Resource] [zzw922cn/awesome-speech-recognition-speech-synthesis-papers](https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers)
+- [Resource] [OpenHuman-ai/awesome-gesture_generation](https://github.com/OpenHuman-ai/awesome-gesture_generation)
 
 ## Contents
 - [Datasets](#datasets)
 - [Conference Papers](#conference-papers)
-  - [Sign Language Workshop](#sign-language-workshop)
   - [Sign Language Recognition](#sign-language-recognition)
   - [Sign Language Translation](#sign-language-translation)
   - [Sign Language Production](#sign-language-production)
   - [Other Sign Language Topic](#other-sign-language-topic)
   - [Co-speech Gesture Generation](#co-speech-gesture-generation)
   - [Gesture Recognition](#gesture-recognition)
+- [Sign Language Workshop](#sign-language-workshop)
 
 ## Datasets
 
@@ -49,10 +52,6 @@ A curated list of sign language procesing (e.g., sign language recognition, sign
 
 ## Conference Papers
 
-### Sign Language Workshop
-- [[ICCV ACVR 2023]](https://iplab.dmi.unict.it/acvr2023/program) Eleventh International Workshop on Assistive Computer Vision and Robotics
-- [[ECCV SLRTP 2020]](https://slrtp.com/) Sign language recognition, translation & production. [[Accepted papers]](SLRTP_acccepted_list.md)
-
 ### Sign Language Recognition
 - [EMNLP Findings 2023]  Handshape-Aware Sign Language Recognition: Extended Datasets and Exploration of Handshape-Inclusive Methods. [[paper]](https://aclanthology.org/2023.findings-emnlp.198/)    
   *Xuan Zhang, Kevin Duh*
@@ -72,15 +71,6 @@ A curated list of sign language procesing (e.g., sign language recognition, sign
 *Fangyun Wei, Yutong Chen* 
 - [ICCV 2023] C2ST: Cross-modal Contextualized Sequence Transduction for Continuous Sign Language Recognition.[[paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Zhang_C2ST_Cross-Modal_Contextualized_Sequence_Transduction_for_Continuous_Sign_Language_Recognition_ICCV_2023_paper.html)   
 *Huaiwen Zhang, Zihang Guo, Yang Yang, Xin Liu, De Hu*   
-- [CVPR 2023]  Natural Language-Assisted Sign Language Recognition.[[paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Zuo_Natural_Language-Assisted_Sign_Language_Recognition_CVPR_2023_paper.html)[[code]](https://github.com/FangyunWei/SLRT/tree/main/NLA-SLR)     
-*Ronglai Zuo, Fangyun Wei, Brian Mak*
-- [CVPR 2023]  CVT-SLR: Contrastive Visual-Textual Transformation for Sign Language Recognition with Variational Alignment.[[paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Zheng_CVT-SLR_Contrastive_Visual-Textual_Transformation_for_Sign_Language_Recognition_With_Variational_CVPR_2023_paper.html)     
-*Jiangbin Zheng, Yile Wang, Cheng Tan, Siyuan Li, Ge Wang, Jun Xia, Yidong Chen, Stan Li*
-- [CVPR 2023]  Continuous Sign Language Recognition with Correlation Network.[[paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Hu_Continuous_Sign_Language_Recognition_With_Correlation_Network_CVPR_2023_paper.html)     
-*Lianyu Hu, Liqing Gao, Zekang Liu, Wei Feng*
-- [CVPR 2023]  Distilling Cross-Temporal Contexts for Continuous Sign Language Recognition.[[paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Guo_Distilling_Cross-Temporal_Contexts_for_Continuous_Sign_Language_Recognition_CVPR_2023_paper.html)     
-*Leming Guo, Wanli Xue, Qing Guo, Bo Liu, Kaihua Zhang, Tiantian Yuan, Shengyong Chen*
-
 - [Complete List of Sign Language Recognition](./compelete_list/sign_language_recognition.md)
 
 ### Sign Language Translation
@@ -148,3 +138,7 @@ and Fine Hand Features.[[paper]](https://bmvc2022.mpi-inf.mpg.de/1055.pdf)
 - [AAAI 2022] Learning Unseen Emotions from Gestures via Semantically-Conditioned Zero-Shot Perception with Adversarial Autoencoders.[[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Ahuja_Low-Resource_Adaptation_for_Personalized_Co-Speech_Gesture_Generation_CVPR_2022_paper.html)    
   *Abhishek Banerjee, Uttaran Bhattacharya, Aniket Bera*
 - [Complete List of Gesture Recognition](./compelete_list/co_speech_generation.md)
+
+## Sign Language Workshop
+- [[ICCV ACVR 2023]](https://iplab.dmi.unict.it/acvr2023/program) Eleventh International Workshop on Assistive Computer Vision and Robotics
+- [[ECCV SLRTP 2020]](https://slrtp.com/) Sign language recognition, translation & production. [[Accepted papers]](SLRTP_acccepted_list.md)
