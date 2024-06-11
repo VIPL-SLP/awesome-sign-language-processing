@@ -1,4 +1,27 @@
 ## Co-speech Generation
+[[Back]](../README.md)
+- [CVPR 2024] EMAGE: Towards Unified Holistic Co-Speech Gesture Generation via Expressive Masked Audio Gesture Modeling.[[paper]](https://openaccess.thecvf.com/content/CVPR2024/html/Liu_EMAGE_Towards_Unified_Holistic_Co-Speech_Gesture_Generation_via_Expressive_Masked_CVPR_2024_paper.html)    
+  *Haiyang Liu, Zihao Zhu, Giorgio Becherini, YICHEN PENG, Mingyang Su, YOU ZHOU, Xuefei Zhe, Naoya Iwamoto, Bo Zheng, Michael J. Black*
+- [CVPR 2024] Weakly-Supervised Emotion Transition Learning for Diverse 3D Co-speech Gesture Generation.[[paper]](https://openaccess.thecvf.com/content/CVPR2024/html/Qi_Weakly-Supervised_Emotion_Transition_Learning_for_Diverse_3D_Co-speech_Gesture_Generation_CVPR_2024_paper.html)     
+  *Xingqun Qi, Jiahao Pan, Peng Li, Ruibin Yuan, Xiaowei Chi, Mengfei Li, Wenhan Luo, Wei Xue, Shanghang Zhang, Qifeng Liu, Yike Guo*
+- [CVPR 2024] Towards Variable and Coordinated Holistic Co-Speech Motion Generation.      
+  *Yifei Liu, Qiong Cao, Yandong Wen, Huaiguang Jiang, Changxing Ding*
+- [CVPR 2024] ConvoFusion: Multi-Modal Conversational Diffusion for Co-Speech Gesture Synthesis.      
+  *Muhammad Hamza Mughal, Rishabh Dabral, Ikhsanul Habibie, Lucia Donatelli, Marc Habermann, Christian Theobalt*
+- [CVPR 2024] Co-Speech Gesture Video Generation via Motion-Decoupled Diffusion Model.      
+  *Xu He, Qiaochu Huang, Zhensong Zhang, Zhiwei Lin, Zhiyong Wu, Sicheng Yang, Minglei Li, Zhiyi Chen, Songcen Xu, Xiaofei Wu*
+- [ICCV 2023] Continual Learning for Personalized Co-speech Gesture Generation.[[paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Ahuja_Continual_Learning_for_Personalized_Co-speech_Gesture_Generation_ICCV_2023_paper.html)     
+*Chaitanya Ahuja, Pratik Joshi, Ryo Ishii, Louis-Philippe Morency*
+- [ICCV 2023] LivelySpeaker: Towards Semantic-Aware Co-Speech Gesture Generation.[[paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Zhi_LivelySpeaker_Towards_Semantic-Aware_Co-Speech_Gesture_Generation_ICCV_2023_paper.html)     
+*Yihao Zhi, Xiaodong Cun, Xuelin Chen, Xi Shen, Wen Guo, Shaoli Huang, Shenghua Gao*
+- [CVPR 2023]  QPGesture: Quantization-Based and Phase-Guided Motion Matching for Natural Speech-Driven Gesture Generation.[[paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Yang_QPGesture_Quantization-Based_and_Phase-Guided_Motion_Matching_for_Natural_Speech-Driven_Gesture_CVPR_2023_paper.html)     
+*SiCheng Yang, Zhiyong Wu, Minglei Li, Zhensong Zhang, Lei Hao, Weihong Bao, Haolin Zhuang*
+- [CVPR 2023]  Taming Diffusion Models for Audio-Driven Co-Speech Gesture Generation.[[paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Zhu_Taming_Diffusion_Models_for_Audio-Driven_Co-Speech_Gesture_Generation_CVPR_2023_paper.html)     
+*Lingting Zhu, Xian Liu, Xuanyu Liu, Rui Qian, Ziwei Liu, Lequan Yu*
+- [CVPR 2023]  Diverse 3D Hand Gesture Prediction from Body Dynamics by Bilateral Hand Disentanglement.[[paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Qi_Diverse_3D_Hand_Gesture_Prediction_From_Body_Dynamics_by_Bilateral_CVPR_2023_paper.html)     
+*Xingqun Qi, Chen Liu, Muyi Sun, Lincheng Li, Changjie Fan, Xin Yu*
+- [CVPR 2023]  Co-speech Gesture Synthesis by Reinforcement Learning with Contrastive Pre-trained Rewards.[[paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Sun_Co-Speech_Gesture_Synthesis_by_Reinforcement_Learning_With_Contrastive_Pre-Trained_Rewards_CVPR_2023_paper.html)     
+*Mingyang Sun, Mengchen Zhao, Yaqing Hou, Minglei Li, Huang Xu, Songcen Xu, Jianye HAO*
 - [ICCV 2023] Continual Learning for Personalized Co-speech Gesture Generation.[[paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Ahuja_Continual_Learning_for_Personalized_Co-speech_Gesture_Generation_ICCV_2023_paper.html)     
 *Chaitanya Ahuja, Pratik Joshi, Ryo Ishii, Louis-Philippe Morency*
 - [ICCV 2023] LivelySpeaker: Towards Semantic-Aware Co-Speech Gesture Generation.[[paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Zhi_LivelySpeaker_Towards_Semantic-Aware_Co-Speech_Gesture_Generation_ICCV_2023_paper.html)     

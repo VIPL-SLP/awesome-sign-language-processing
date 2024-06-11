@@ -1,3 +1,13 @@
+## Sign Language Production
+[[Back]](../README.md)
+- [CVPR 2024] Neural Sign Actors: A diffusion model for 3D sign language production from text. [[paper]](https://openaccess.thecvf.com/content/CVPR2024/html/Baltatzis_Neural_Sign_Actors_A_Diffusion_Model_for_3D_Sign_Language_CVPR_2024_paper.html)     
+  *Vasileios Baltatzis, Rolandos Alexandros Potamias, Evangelos Ververas, Guanxiong Sun, Jiankang Deng, Stefanos Zafeiriou*
+- [WACV 2024]  Sign Language Production With Latent Motion Transformer. [[paper]](https://openaccess.thecvf.com/content/WACV2024/html/Xie_Sign_Language_Production_With_Latent_Motion_Transformer_WACV_2024_paper.html)   
+  *Pan Xie, Taiying Peng, Yao Du, Qipeng Zhang*
+- [CVPR 2022] Signing at Scale: Learning to Co-Articulate Signs for Large-Scale Photo-Realistic Sign Language Production.[[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Saunders_Signing_at_Scale_Learning_to_Co-Articulate_Signs_for_Large-Scale_Photo-Realistic_CVPR_2022_paper.html)     
+  *Ben Saunders, Necati Cihan Camgoz, Richard Bowden*
+- [ICCV 2021] Mixed SIGNals: Sign Language Production via a Mixture of Motion Primitives.[[paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Saunders_Mixed_SIGNals_Sign_Language_Production_via_a_Mixture_of_Motion_ICCV_2021_paper.html)    
+   *Ben Saunders; Necati Cihan Camgoz; Richard Bowden*
 - [ACM MM 2021] Towards Fast and High-Quality Sign Language Production.[[paper]](https://dl.acm.org/doi/10.1145/3474085.3475463)    
   *Wencan Huang, Wenwen Pan, Zhou Zhao, Qi Tian*
 - [CVPR 2021] Model-Aware Gesture-to-Gesture Translation.[[paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Hu_Model-Aware_Gesture-to-Gesture_Translation_CVPR_2021_paper.html)   

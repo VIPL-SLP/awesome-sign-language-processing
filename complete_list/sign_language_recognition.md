@@ -1,4 +1,25 @@
 ## Sign Language Recognition
+[[Back]](../README.md)
+- [CVPR 2024]  SignGraph: A Sign Sequence is Worth Graphs of Nodes. [[paper]](https://openaccess.thecvf.com/content/CVPR2024/html/Gan_SignGraph_A_Sign_Sequence_is_Worth_Graphs_of_Nodes_CVPR_2024_paper.html) [[code]](https://github.com/gswycf/SignGraph/tree/main)    
+  *Shiwei Gan, Yafeng Yin, Zhiwei Jiang, Hongkai Wen, Kang Xia, Lei Xie, Sanglu Lu*
+- [EMNLP Findings 2023]  Handshape-Aware Sign Language Recognition: Extended Datasets and Exploration of Handshape-Inclusive Methods. [[paper]](https://aclanthology.org/2023.findings-emnlp.198/)    
+  *Xuan Zhang, Kevin Duh*
+- [EMNLP Findings 2023] Making Body Movement in Sign Language Corpus Accessible for Linguists and Machines with Three-Dimensional Normalization of MediaPipe. [[paper]](https://aclanthology.org/2023.findings-emnlp.124/)    
+  *Houda Bouamor, Juan Pino, Kalika Bali*
+- [EMNLP Findings 2023] Linguistically Motivated Sign Language Segmentation. [[paper]](https://aclanthology.org/2023.findings-emnlp.846/)       
+  *Amit Moryossef, Zifan Jiang, Mathias Müller, Sarah Ebling, Yoav Goldberg*
+- [NeurIPS 2023 Dataset] ASL Citizen: A Community-Sourced Dataset for Advancing Isolated Sign Language Recognition.[[paper]](https://openreview.net/forum?id=zbEYTg2F1U)     
+*Aashaka Desai, Lauren Berger, Fyodor O Minakov, Vanessa Milan, Chinmay Singh, Kriston L Pumphrey, Richard Ladner, Hal Daumé III, Alex Xijie Lu, Naomi Caselli, Danielle Bragg*
+- [NeurIPS 2023 Dataset] PopSign ASL v1.0: An Isolated American Sign Language Dataset Collected via Smartphones. [[paper]](https://openreview.net/forum?id=yEf8NSqTPu)       
+*Thad Starner, Sean Forbes, Matthew So, David Martin, Rohit Sridhar, Gururaj Deshpande, Sam Sepah, Sahir Shahryar, Khushi Bhardwaj, Tyler Kwok, Daksh Sehgal, Saad Hassan, Bill Neubauer, Sofia Anandi Vempala, Alec Tan, Jocelyn Heath, Unnathi Utpal Kumar, Priyanka Vijayaraghavan Mosur, Tavenner M. Hall, Rajandeep Singh et al.*
+- [ICCV 2023] CoSign: Exploring Co-occurrence Signals in Skeleton-based Continuous Sign Language Recognition.[[paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Jiao_CoSign_Exploring_Co-occurrence_Signals_in_Skeleton-based_Continuous_Sign_Language_Recognition_ICCV_2023_paper.html)       
+*Peiqi Jiao, Yuecong Min, Yanan Li, Xiaotao Wang, Lei Lei, Xilin Chen*
+- [ICCV 2023] Human Part-wise 3D Motion Context Learning for Sign Language Recognition.[[paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Lee_Human_Part-wise_3D_Motion_Context_Learning_for_Sign_Language_Recognition_ICCV_2023_paper.html)       
+*Taeryung Lee, Yeonguk Oh and Kyoung Mu Lee*  
+- [ICCV 2023] Improving Continuous Sign Language Recognition with Cross-Lingual Signs.[[paper]](https://arxiv.org/abs/2308.10809)       
+*Fangyun Wei, Yutong Chen* 
+- [ICCV 2023] C2ST: Cross-modal Contextualized Sequence Transduction for Continuous Sign Language Recognition.[[paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Zhang_C2ST_Cross-Modal_Contextualized_Sequence_Transduction_for_Continuous_Sign_Language_Recognition_ICCV_2023_paper.html)   
+*Huaiwen Zhang, Zihang Guo, Yang Yang, Xin Liu, De Hu* 
 - [EMNLP Findings 2023]  Handshape-Aware Sign Language Recognition: Extended Datasets and Exploration of Handshape-Inclusive Methods. [[paper]](https://aclanthology.org/2023.findings-emnlp.198/)    
   *Xuan Zhang, Kevin Duh*
 - [EMNLP Findings 2023] Making Body Movement in Sign Language Corpus Accessible for Linguists and Machines with Three-Dimensional Normalization of MediaPipe. [[paper]](https://aclanthology.org/2023.findings-emnlp.124/)    

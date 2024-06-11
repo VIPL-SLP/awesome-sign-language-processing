@@ -1,4 +1,7 @@
 ## Sign Language Translation
+[[Back]](../README.md)
+- [CVPR 2024] LLMs are Good Sign Language Translators. [[paper]](https://openaccess.thecvf.com/content/CVPR2024/html/Gong_LLMs_are_Good_Sign_Language_Translators_CVPR_2024_paper.html)     
+  *Jia Gong, Lin Geng Foo, Yixuan He, Hossein Rahmani, Jun Liu*
 - [ICLR 2024] Sign2GPT: Leveraging Large Language Models for Gloss-Free Sign Language Translation. [[paper]](https://openreview.net/forum?id=LqaEEs3UxU)
 - [EMNLP Findings 2023] JWSign: A Highly Multilingual Corpus of Bible Translations for more Diversity in Sign Language Processing. [[paper]](https://aclanthology.org/2023.findings-emnlp.664/)    
   *Shester Gueuwou, Sophie Siake, Colin Leong, Mathias Müller*

@@ -50,8 +50,8 @@ A curated list of sign language procesing (e.g., sign language recognition, sign
 - [Complete List of Sign Language Recognition](./complete_list/sign_language_recognition.md)
 
 ### Sign Language Translation
-- [CVPR 2024] Representing Signs as Language: A New Method for Sign Language Translation from Videos.     
-  *Jia Gong, Lin Geng Foo, Yixuan He, Hossein Rahmani , Jun Liu*
+- [CVPR 2024] LLMs are Good Sign Language Translators. [[paper]](https://openaccess.thecvf.com/content/CVPR2024/html/Gong_LLMs_are_Good_Sign_Language_Translators_CVPR_2024_paper.html)     
+  *Jia Gong, Lin Geng Foo, Yixuan He, Hossein Rahmani, Jun Liu*
 - [ICLR 2024] Sign2GPT: Leveraging Large Language Models for Gloss-Free Sign Language Translation. [[paper]](https://openreview.net/forum?id=LqaEEs3UxU)
   *Ryan Wong, Necati Cihan Camgoz, Richard Bowden*
 - [EMNLP Findings 2023] JWSign: A Highly Multilingual Corpus of Bible Translations for more Diversity in Sign Language Processing. [[paper]](https://aclanthology.org/2023.findings-emnlp.664/)    
@@ -71,7 +71,7 @@ A curated list of sign language procesing (e.g., sign language recognition, sign
 - [Complete List of Sign Language Translation](./complete_list/sign_language_translation.md)
 
 ### Sign Language Production
-- [CVPR 2024] Neural Sign Actors: A diffusion model for 3D sign language production from text. [[paper]](https://arxiv.org/pdf/2312.02702.pdf)     
+- [CVPR 2024] Neural Sign Actors: A diffusion model for 3D sign language production from text. [[paper]](https://openaccess.thecvf.com/content/CVPR2024/html/Baltatzis_Neural_Sign_Actors_A_Diffusion_Model_for_3D_Sign_Language_CVPR_2024_paper.html)     
   *Vasileios Baltatzis, Rolandos Alexandros Potamias, Evangelos Ververas, Guanxiong Sun, Jiankang Deng, Stefanos Zafeiriou*
 - [WACV 2024]  Sign Language Production With Latent Motion Transformer. [[paper]](https://openaccess.thecvf.com/content/WACV2024/html/Xie_Sign_Language_Production_With_Latent_Motion_Transformer_WACV_2024_paper.html)   
   *Pan Xie, Taiying Peng, Yao Du, Qipeng Zhang*
@@ -79,7 +79,7 @@ A curated list of sign language procesing (e.g., sign language recognition, sign
   *Ben Saunders, Necati Cihan Camgoz, Richard Bowden*
 - [ICCV 2021] Mixed SIGNals: Sign Language Production via a Mixture of Motion Primitives.[[paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Saunders_Mixed_SIGNals_Sign_Language_Production_via_a_Mixture_of_Motion_ICCV_2021_paper.html)    
    *Ben Saunders; Necati Cihan Camgoz; Richard Bowden*
-- [Complete List of Sign Language Production](./complete_list/co_speech_generation.md)
+- [Complete List of Sign Language Production](./complete_list/sign_language_production.md)
 
 ### Other Sign Language Topic
 - [EMNLP Findings 2023] Enhancing Accessible Communication: from European Portuguese to Portuguese Sign Language. [[paper]](https://aclanthology.org/2023.findings-emnlp.766/)    
@@ -90,9 +90,9 @@ A curated list of sign language procesing (e.g., sign language recognition, sign
 *Rotem Shalev Arkushin, Amit Moryossef, Ohad Fried*
 
 ### Co-speech Gesture Generation
-- [CVPR 2024] EMAGE: Towards Unified Holistic Co-Speech Gesture Generation via Expressive Masked Audio Gesture Modeling.[[paper]](https://arxiv.org/pdf/2401.00374.pdf)    
+- [CVPR 2024] EMAGE: Towards Unified Holistic Co-Speech Gesture Generation via Expressive Masked Audio Gesture Modeling.[[paper]](https://openaccess.thecvf.com/content/CVPR2024/html/Liu_EMAGE_Towards_Unified_Holistic_Co-Speech_Gesture_Generation_via_Expressive_Masked_CVPR_2024_paper.html)    
   *Haiyang Liu, Zihao Zhu, Giorgio Becherini, YICHEN PENG, Mingyang Su, YOU ZHOU, Xuefei Zhe, Naoya Iwamoto, Bo Zheng, Michael J. Black*
-- [CVPR 2024] Weakly-Supervised Emotion Transition Learning for Diverse 3D Co-speech Gesture Generation.[[paper]](https://arxiv.org/pdf/2311.17532.pdf)     
+- [CVPR 2024] Weakly-Supervised Emotion Transition Learning for Diverse 3D Co-speech Gesture Generation.[[paper]](https://openaccess.thecvf.com/content/CVPR2024/html/Qi_Weakly-Supervised_Emotion_Transition_Learning_for_Diverse_3D_Co-speech_Gesture_Generation_CVPR_2024_paper.html)     
   *Xingqun Qi, Jiahao Pan, Peng Li, Ruibin Yuan, Xiaowei Chi, Mengfei Li, Wenhan Luo, Wei Xue, Shanghang Zhang, Qifeng Liu, Yike Guo*
 - [CVPR 2024] Towards Variable and Coordinated Holistic Co-Speech Motion Generation.      
   *Yifei Liu, Qiong Cao, Yandong Wen, Huaiguang Jiang, Changxing Ding*
@@ -128,7 +128,7 @@ and Fine Hand Features.[[paper]](https://bmvc2022.mpi-inf.mpg.de/1055.pdf)
   *Dan Liu; Libo Zhang; Yanjun Wu*
 - [AAAI 2022] Learning Unseen Emotions from Gestures via Semantically-Conditioned Zero-Shot Perception with Adversarial Autoencoders.[[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Ahuja_Low-Resource_Adaptation_for_Personalized_Co-Speech_Gesture_Generation_CVPR_2022_paper.html)    
   *Abhishek Banerjee, Uttaran Bhattacharya, Aniket Bera*
-- [Complete List of Gesture Recognition](./complete_list/co_speech_generation.md)
+- [Complete List of Gesture Recognition](./complete_list/gesture_recognition.md)
 
 ## Sign Language Workshop
 - [[ICCV ACVR 2023]](https://iplab.dmi.unict.it/acvr2023/program) Eleventh International Workshop on Assistive Computer Vision and Robotics
