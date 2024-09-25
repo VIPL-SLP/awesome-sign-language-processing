@@ -50,6 +50,12 @@ A curated list of sign language procesing (e.g., sign language recognition, sign
 - [Complete List of Sign Language Recognition](./complete_list/sign_language_recognition.md)
 
 ### Sign Language Translation
+- [ECCV 2024] A Simple Baseline for Spoken Language to Sign Language Translation with 3D Avatars. [[paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06499.pdf)
+  *Ronglai Zuo, Fangyun Wei, Zenggui Chen, Brian Mak, Jiaolong Yang, Xin Tong*
+- [ECCV 2024] Visual Alignment Pre-training for Sign Language Translation. [[paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05894.pdf)
+  *Peiqi Jiao, Yuecong Min, Xilin Chen*
+- [ECCV 2024] EvSign: Sign Language Recognition and Translation with Streaming Events. [[paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00799.pdf)     
+  *Pengyu Zhang, Hao Yin, Zeren Wang, Wenyue Chen, Sheng Ming Li, Dong Wang, Huchuan Lu, Xu Jia*
 - [ACL 2024] Towards Privacy-Aware Sign Language Translation at Scale. [[paper]](https://aclanthology.org/2024.acl-long.467/)     
   *Phillip Rust, Bowen Shi, Skyler Wang, Necati Cihan Camgoz, Jean Maillard*
 - [ACL 2024] Sign Language Translation with Sentence Embedding Supervision. [[paper]](https://aclanthology.org/2024.acl-short.40/)     
@@ -79,6 +85,10 @@ A curated list of sign language procesing (e.g., sign language recognition, sign
 - [Complete List of Sign Language Translation](./complete_list/sign_language_translation.md)
 
 ### Sign Language Production
+- [ECCV 2024] Pose Guided Fine-Grained Sign Language Video Generation. [[paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09947.pdf)     
+  *Tongkai Shi, Lianyu Hu, Fanhua Shang, Jichao Feng, liu peidong, Wei Feng*
+- [ECCV 2024] SignGen: End-to-End Sign Language Video Generation with Latent Diffusion. [[paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06988.pdf)     
+  *Fan Qi, Yu Duan, Changsheng Xu, Huaiwen Zhang*
 - [ACL 2024] T2S-GPT: Dynamic Vector Quantization for Autoregressive Sign Language Production from Text. [[paper]](https://aclanthology.org/2024.acl-long.183/)     
   *Aoxiong Yin, Haoyuan Li, Kai Shen, Siliang Tang, Yueting Zhuang*
 - [ACL Findings 2024] MS2SL: Multimodal Spoken Data-Driven Continuous Sign Language Production. [[paper]](https://aclanthology.org/2024.findings-acl.432/)     
@@ -94,6 +104,10 @@ A curated list of sign language procesing (e.g., sign language recognition, sign
 - [Complete List of Sign Language Production](./complete_list/sign_language_production.md)
 
 ### Other Sign Language Topic
+- [ECCV 2024] Uncertainty-aware sign language video retrieval with probability distribution modeling.  [[paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06074.pdf)
+  *Xuan Wu, Hongxiang Li, yuanjiang luo, Xuxin Cheng, Xianwei Zhuang, Meng Cao, Keren Fu*
+- [ECCV 2024] SignAvatars: A Large-scale 3D Sign Language Holistic Motion Dataset and Benchmark.  [[paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00653.pdf)
+  *Zhengdi Yu, Shaoli Huang, yongkang cheng, Tolga Birdal*
 - [ACL 2024] Semi-Supervised Spoken Language Glossification. [[paper]](https://aclanthology.org/2024.acl-long.504/)    
   *Huijie Yao, Wengang Zhou, Hao Zhou, Houqiang Li*
 - [ACL 2024] American Sign Language Handshapes Reflect Pressures for Communicative Efficiency. [[paper]](https://arxiv.org/abs/2406.04024)    
