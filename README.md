@@ -27,6 +27,12 @@ A curated list of sign language procesing (e.g., sign language recognition, sign
 ## Conference Paper
 
 ### Sign Language Recognition
+- [ICLR 2025 Submission]  Representing Signs as Signs: One-Shot ISLR to Facilitate Functional Sign Language Technologies. [[paper]](https://openreview.net/attachment?id=flgrH5nK4H&name=pdf) 
+  *Anonymous authors*
+- [EMNLP 2024]  SignCLIP: Connecting Text and Sign Language by Contrastive Learning. [[paper]](https://aclanthology.org/2024.emnlp-main.518.pdf) 
+  *Zifan Jiang, Gerard Sant, Amit Moryossef, Mathias Müller, Rico Sennrich, Sarah Ebling*
+- [EMNLP 2024]  Towards Online Continuous Sign Language Recognition and Translation. [[paper]](https://aclanthology.org/2024.emnlp-main.619.pdf) 
+  *Ronglai Zuo, Fangyun Wei, Brian Mak*
 - [CVPR 2024]  SignGraph: A Sign Sequence is Worth Graphs of Nodes. [[paper]](https://openaccess.thecvf.com/content/CVPR2024/html/Gan_SignGraph_A_Sign_Sequence_is_Worth_Graphs_of_Nodes_CVPR_2024_paper.html) [[code]](https://github.com/gswycf/SignGraph/tree/main)    
   *Shiwei Gan, Yafeng Yin, Zhiwei Jiang, Hongkai Wen, Kang Xia, Lei Xie, Sanglu Lu*
 - [EMNLP Findings 2023]  Handshape-Aware Sign Language Recognition: Extended Datasets and Exploration of Handshape-Inclusive Methods. [[paper]](https://aclanthology.org/2023.findings-emnlp.198/)    
@@ -50,6 +56,14 @@ A curated list of sign language procesing (e.g., sign language recognition, sign
 - [Complete List of Sign Language Recognition](./complete_list/sign_language_recognition.md)
 
 ### Sign Language Translation
+- [ICLR 2025 Submission] YouTube-SL-25: A Large-Scale, Open-Domain Multilingual Sign Language Parallel Corpus. [[paper]](https://openreview.net/attachment?id=nFVsK3QLgs&name=pdf)   
+  *Anonymous authors*
+- [ICLR 2025 Submission] Uni-Sign: Toward Unified Sign Language Understanding at Scale. [[paper]](https://openreview.net/attachment?id=0Xt7uT04cQ&name=pdf)   
+  *Anonymous authors*
+- [ICLR 2025 Submission] Hybrid Model Collaboration for Sign Language Translation with VQ-VAE and RAG Enhanced LLMS. [[paper]](https://openreview.net/attachment?id=7kRFnSFN89&name=pdf)   
+  *Anonymous authors*
+- [EMNLP 2024] Reconsidering Sentence-Level Sign Language Translation. [[paper]](https://aclanthology.org/2024.emnlp-main.360.pdf)   
+  *Garrett Tanzer, Maximus Shengelia, Ken Harrenstien, David Uthus*
 - [ECCV 2024] Visual Alignment Pre-training for Sign Language Translation. [[paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05894.pdf)   
   *Peiqi Jiao, Yuecong Min, Xilin Chen*
 - [ECCV 2024] EvSign: Sign Language Recognition and Translation with Streaming Events. [[paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00799.pdf)   
@@ -83,6 +97,8 @@ A curated list of sign language procesing (e.g., sign language recognition, sign
 - [Complete List of Sign Language Translation](./complete_list/sign_language_translation.md)
 
 ### Sign Language Production
+- [EMNLP Findings 2024] Word-Conditioned 3D American Sign Language Motion Generation. [[paper]](https://aclanthology.org/2024.findings-emnlp.584.pdf)   
+  *Lu Dong, Xiao Wang, Ifeoma Nwogu*
 - [ECCV 2024] A Simple Baseline for Spoken Language to Sign Language Translation with 3D Avatars. [[paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06499.pdf)   
   *Ronglai Zuo, Fangyun Wei, Zenggui Chen, Brian Mak, Jiaolong Yang, Xin Tong*
 - [ECCV 2024] Pose Guided Fine-Grained Sign Language Video Generation. [[paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09947.pdf)   
@@ -104,6 +120,12 @@ A curated list of sign language procesing (e.g., sign language recognition, sign
 - [Complete List of Sign Language Production](./complete_list/sign_language_production.md)
 
 ### Other Sign Language Topic
+- [EMNLP Findings 2024] Gloss2Text: Sign Language Gloss translation using LLMs and Semantically Aware Label Smoothing.  [[paper]](https://aclanthology.org/2024.findings-emnlp.947.pdf)   
+  *Pooya Fayyazsanavi, Antonios Anastasopoulos, Jana Kosecka*
+- [EMNLP 2024] Unsupervised Discrete Representations of American Sign Language.  [[paper]](https://aclanthology.org/2024.emnlp-main.1104.pdf)   
+  *Artem Abzaliev, Rada Mihalcea*
+- [EMNLP 2024] Studying and Mitigating Biases in Sign Language Understanding Models.  [[paper]](https://aclanthology.org/2024.emnlp-main.17.pdf)   
+  *Katherine Atwell, Danielle Bragg, Malihe Alikhani*
 - [ECCV 2024] Uncertainty-aware sign language video retrieval with probability distribution modeling.  [[paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06074.pdf)   
   *Xuan Wu, Hongxiang Li, yuanjiang luo, Xuxin Cheng, Xianwei Zhuang, Meng Cao, Keren Fu*
 - [ECCV 2024] SignAvatars: A Large-scale 3D Sign Language Holistic Motion Dataset and Benchmark.  [[paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00653.pdf)   
