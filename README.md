@@ -27,11 +27,11 @@ A curated list of sign language procesing (e.g., sign language recognition, sign
 ## Conference Paper
 
 ### Sign Language Recognition
-- [ICLR 2025 Submission]  Representing Signs as Signs: One-Shot ISLR to Facilitate Functional Sign Language Technologies. [[paper]](https://openreview.net/attachment?id=flgrH5nK4H&name=pdf) 
+- [ICLR 2025 Submission]  Representing Signs as Signs: One-Shot ISLR to Facilitate Functional Sign Language Technologies. [[paper]](https://openreview.net/attachment?id=flgrH5nK4H&name=pdf)    
   *Anonymous authors*
-- [EMNLP 2024]  SignCLIP: Connecting Text and Sign Language by Contrastive Learning. [[paper]](https://aclanthology.org/2024.emnlp-main.518.pdf) 
+- [EMNLP 2024]  SignCLIP: Connecting Text and Sign Language by Contrastive Learning. [[paper]](https://aclanthology.org/2024.emnlp-main.518.pdf)    
   *Zifan Jiang, Gerard Sant, Amit Moryossef, Mathias Müller, Rico Sennrich, Sarah Ebling*
-- [EMNLP 2024]  Towards Online Continuous Sign Language Recognition and Translation. [[paper]](https://aclanthology.org/2024.emnlp-main.619.pdf) 
+- [EMNLP 2024]  Towards Online Continuous Sign Language Recognition and Translation. [[paper]](https://aclanthology.org/2024.emnlp-main.619.pdf)    
   *Ronglai Zuo, Fangyun Wei, Brian Mak*
 - [CVPR 2024]  SignGraph: A Sign Sequence is Worth Graphs of Nodes. [[paper]](https://openaccess.thecvf.com/content/CVPR2024/html/Gan_SignGraph_A_Sign_Sequence_is_Worth_Graphs_of_Nodes_CVPR_2024_paper.html) [[code]](https://github.com/gswycf/SignGraph/tree/main)    
   *Shiwei Gan, Yafeng Yin, Zhiwei Jiang, Hongkai Wen, Kang Xia, Lei Xie, Sanglu Lu*
@@ -142,7 +142,13 @@ A curated list of sign language procesing (e.g., sign language recognition, sign
 *Rotem Shalev Arkushin, Amit Moryossef, Ohad Fried*
 
 ### Co-speech Gesture Generation
-- [ECCV 2024] Co-speech Gesture Video Generation with 3D Human Meshes Gestures [[paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/12483.pdf)    
+- [ICLR 2025 Submission] Realistic-Gesture: Co-Speech Gesture Video Generation through Semantic-aware Gesture Representation. [[paper]](https://openreview.net/attachment?id=EXsiGFkwV6&name=pdf)    
+  *Anonymous authors*
+- [ICLR 2025 Submission] Co3Gesture: Towards Coherent Concurrent Co-speech 3D Gesture Generation with Interactive Diffusion. [[paper]](https://openreview.net/attachment?id=VaowElpVzd&name=pdf)      
+*Anonymous authors*
+- [ICLR 2025 Submission] TANGO: Co-Speech Gesture Video Reenactment with Hierarchical Audio Motion Embedding and Diffusion Interpolation. [[paper]](https://openreview.net/attachment?id=LbEWwJOufy&name=pdf)      
+*Anonymous authors*
+- [ECCV 2024] Co-speech Gesture Video Generation with 3D Human Meshes Gestures. [[paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/12483.pdf)    
   *Aniruddha Mahapatra, Richa Mishra, Ziyi Chen, Boyang Ding, Renda Li, Shoulei Wang, Jun-Yan Zhu, Peng Chang, Mei Han, Jing Xiao*
 - [ACL 2024] LLM Knows Body Language, Too: Translating Speech Voices into Human Gestures. [[paper]](https://aclanthology.org/2024.acl-long.273/)    
   *Chenghao Xu, Guangtao Lyu, Jiexi Yan, Muli Yang, Cheng Deng*
@@ -150,11 +156,11 @@ A curated list of sign language procesing (e.g., sign language recognition, sign
   *Haiyang Liu, Zihao Zhu, Giorgio Becherini, YICHEN PENG, Mingyang Su, YOU ZHOU, Xuefei Zhe, Naoya Iwamoto, Bo Zheng, Michael J. Black*
 - [CVPR 2024] Weakly-Supervised Emotion Transition Learning for Diverse 3D Co-speech Gesture Generation. [[paper]](https://openaccess.thecvf.com/content/CVPR2024/html/Qi_Weakly-Supervised_Emotion_Transition_Learning_for_Diverse_3D_Co-speech_Gesture_Generation_CVPR_2024_paper.html)     
   *Xingqun Qi, Jiahao Pan, Peng Li, Ruibin Yuan, Xiaowei Chi, Mengfei Li, Wenhan Luo, Wei Xue, Shanghang Zhang, Qifeng Liu, Yike Guo*
-- [CVPR 2024] Towards Variable and Coordinated Holistic Co-Speech Motion Generation. [[paper]](https://openaccess.thecvf.com/content/CVPR2024/html/Liu_Towards_Variable_and_Coordinated_Holistic_Co-Speech_Motion_Generation_CVPR_2024_paper.html)
+- [CVPR 2024] Towards Variable and Coordinated Holistic Co-Speech Motion Generation. [[paper]](https://openaccess.thecvf.com/content/CVPR2024/html/Liu_Towards_Variable_and_Coordinated_Holistic_Co-Speech_Motion_Generation_CVPR_2024_paper.html)    
   *Yifei Liu, Qiong Cao, Yandong Wen, Huaiguang Jiang, Changxing Ding*
-- [CVPR 2024] ConvoFusion: Multi-Modal Conversational Diffusion for Co-Speech Gesture Synthesis. [[paper]](https://openaccess.thecvf.com/content/CVPR2024/html/Mughal_ConvoFusion_Multi-Modal_Conversational_Diffusion_for_Co-Speech_Gesture_Synthesis_CVPR_2024_paper.html)
+- [CVPR 2024] ConvoFusion: Multi-Modal Conversational Diffusion for Co-Speech Gesture Synthesis. [[paper]](https://openaccess.thecvf.com/content/CVPR2024/html/Mughal_ConvoFusion_Multi-Modal_Conversational_Diffusion_for_Co-Speech_Gesture_Synthesis_CVPR_2024_paper.html)    
   *Muhammad Hamza Mughal, Rishabh Dabral, Ikhsanul Habibie, Lucia Donatelli, Marc Habermann, Christian Theobalt*
-- [CVPR 2024] Co-Speech Gesture Video Generation via Motion-Decoupled Diffusion Model. [[paper]](https://openaccess.thecvf.com/content/CVPR2024/html/He_Co-Speech_Gesture_Video_Generation_via_Motion-Decoupled_Diffusion_Model_CVPR_2024_paper.html)
+- [CVPR 2024] Co-Speech Gesture Video Generation via Motion-Decoupled Diffusion Model. [[paper]](https://openaccess.thecvf.com/content/CVPR2024/html/He_Co-Speech_Gesture_Video_Generation_via_Motion-Decoupled_Diffusion_Model_CVPR_2024_paper.html)   
   *Xu He, Qiaochu Huang, Zhensong Zhang, Zhiwei Lin, Zhiyong Wu, Sicheng Yang, Minglei Li, Zhiyi Chen, Songcen Xu, Xiaofei Wu*
 - [ICCV 2023] Continual Learning for Personalized Co-speech Gesture Generation. [[paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Ahuja_Continual_Learning_for_Personalized_Co-speech_Gesture_Generation_ICCV_2023_paper.html)     
 *Chaitanya Ahuja, Pratik Joshi, Ryo Ishii, Louis-Philippe Morency*
@@ -171,6 +177,8 @@ A curated list of sign language procesing (e.g., sign language recognition, sign
 - [Complete List of Co-speech Gesture Generation](./complete_list/co_speech_gesture_generation.md)
 
 ### Gesture Recognition
+- [ICLR 2025 Submission] Revisiting Noise Resilience Strategies in Gesture Recognition: Short-Term Enhancement in Surface Electromyographic Signal Analysis. [[paper]](https://openreview.net/attachment?id=B7eHRsuTSh&name=pdf)      
+*Anonymous authors*
 - [ICCV 2023] Learning Robust Representations with Information Bottleneck and Memory Network for RGB-D-based Gesture Recognition. [[paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Li_Learning_Robust_Representations_with_Information_Bottleneck_and_Memory_Network_for_ICCV_2023_paper.html)      
 *Yunan Li, Huizhou Chen, Guanwen Feng, Qiguang Miao*
 - [ICCV 2023] Data-Free Class-Incremental Hand Gesture Recognition. [[paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Aich_Data-Free_Class-Incremental_Hand_Gesture_Recognition_ICCV_2023_paper.html)      
