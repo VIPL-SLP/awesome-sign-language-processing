@@ -1,5 +1,29 @@
 ## Sign Language Translation
 [[Back]](../README.md)
+- [Neurips 2024] Scaling Sign Language Translation.[[paper]](https://openreview.net/forum?id=M80WgiO2Lb)     
+*Biao Zhang, Garrett Tanzer, Orhan Firat*
+- [Neurips 2024] Improving Gloss-free Sign Language Translation by Reducing Representation Density.[[paper]](https://openreview.net/forum?id=FtzLbGoHW2)     
+*Jinhui Ye, Xing Wang, Wenxiang Jiao, Junwei Liang, Hui Xiong*
+- [ICLR 2025 Submission] YouTube-SL-25: A Large-Scale, Open-Domain Multilingual Sign Language Parallel Corpus. [[paper]](https://openreview.net/forum?id=nFVsK3QLgs)   
+  *Anonymous authors*
+- [ICLR 2025 Submission] Uni-Sign: Toward Unified Sign Language Understanding at Scale. [[paper]](https://openreview.net/forum?id=0Xt7uT04cQ)   
+  *Anonymous authors*
+- [ICLR 2025 Submission] Hybrid Model Collaboration for Sign Language Translation with VQ-VAE and RAG Enhanced LLMS. [[paper]](https://openreview.net/forum?id=7kRFnSFN89)   
+  *Anonymous authors*
+- [EMNLP 2024] Reconsidering Sentence-Level Sign Language Translation. [[paper]](https://aclanthology.org/2024.emnlp-main.360/)   
+  *Garrett Tanzer, Maximus Shengelia, Ken Harrenstien, David Uthus*
+- [ECCV 2024] Visual Alignment Pre-training for Sign Language Translation. [[paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05894.pdf)   
+  *Peiqi Jiao, Yuecong Min, Xilin Chen*
+- [ECCV 2024] EvSign: Sign Language Recognition and Translation with Streaming Events. [[paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00799.pdf)   
+  *Pengyu Zhang, Hao Yin, Zeren Wang, Wenyue Chen, Sheng Ming Li, Dong Wang, Huchuan Lu, Xu Jia*
+- [ACL 2024] Towards Privacy-Aware Sign Language Translation at Scale. [[paper]](https://aclanthology.org/2024.acl-long.467/)     
+  *Phillip Rust, Bowen Shi, Skyler Wang, Necati Cihan Camgoz, Jean Maillard*
+- [ACL 2024] Sign Language Translation with Sentence Embedding Supervision. [[paper]](https://aclanthology.org/2024.acl-short.40/)     
+  *HAMIDULLAH Yasser, Josef van Genabith, Cristina España-Bonet*
+- [ACL Findings 2024] iSign: A Benchmark for Indian Sign Language Processing. [[paper]](https://aclanthology.org/2024.findings-acl.643/)     
+  *Abhinav Joshi, Romit Mohanty, Mounika Kanakanti, Andesha Mangla, Sudeep Choudhary, Monali Barbate, Ashutosh Modi*
+- [ACL Findings 2024] Unsupervised Sign Language Translation and Generation. [[paper]](https://aclanthology.org/2024.findings-acl.835/)     
+  *Zhengsheng Guo, Zhiwei He, Wenxiang Jiao, Xing Wang, Rui Wang, Kehai Chen, Zhaopeng Tu, Yong Xu, Min Zhang*
 - [CVPR 2024] LLMs are Good Sign Language Translators. [[paper]](https://openaccess.thecvf.com/content/CVPR2024/html/Gong_LLMs_are_Good_Sign_Language_Translators_CVPR_2024_paper.html)     
   *Jia Gong, Lin Geng Foo, Yixuan He, Hossein Rahmani, Jun Liu*
 - [ICLR 2024] Sign2GPT: Leveraging Large Language Models for Gloss-Free Sign Language Translation. [[paper]](https://openreview.net/forum?id=LqaEEs3UxU)
