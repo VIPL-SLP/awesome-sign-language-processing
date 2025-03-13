@@ -27,10 +27,12 @@ A curated list of sign language procesing (e.g., sign language recognition, sign
 ## Conference Paper
 
 ### Sign Language Recognition
+- [CVPR 2025] VSNet: Focusing on the Linguistic Characteristics of Sign Language. [[paper]](https://cvpr.thecvf.com/virtual/2025/poster/33549)     
+*YuHao Li, Xinyue Chen, Hongkai Li, Xiaorong Pu, Peng Jin, Yazhou Ren*
+- [OpenReview]  Representing Signs as Signs: One-Shot ISLR to Facilitate Functional Sign Language Technologies. [[paper]](https://openreview.net/forum?id=flgrH5nK4H)    
+  *Toon Vandendriessche, Mathieu De Coster, Annelies Lejon, Joni Dambre*
 - [NeurIPS 2024] MM-WLAuslan: Multi-View Multi-Modal Word-Level Australian Sign Language Recognition Dataset. [[paper]](https://openreview.net/forum?id=tPsw4NeLZx)     
 *Xin Shen, Heming Du, Hongwei Sheng, Shuyun Wang, Hui Chen, Huiqiang Chen, Zhuojie Wu, Xiaobiao Du, Jiaying Ying, Ruihan Lu, Qingzheng Xu, Xin Yu*
-- [ICLR 2025 Submission]  Representing Signs as Signs: One-Shot ISLR to Facilitate Functional Sign Language Technologies. [[paper]](https://openreview.net/forum?id=flgrH5nK4H)    
-  *Anonymous authors*
 - [EMNLP 2024]  SignCLIP: Connecting Text and Sign Language by Contrastive Learning. [[paper]](https://aclanthology.org/2024.emnlp-main.518/)    
   *Zifan Jiang, Gerard Sant, Amit Moryossef, Mathias Müller, Rico Sennrich, Sarah Ebling*
 - [EMNLP 2024]  Towards Online Continuous Sign Language Recognition and Translation. [[paper]](https://aclanthology.org/2024.emnlp-main.619/)    
@@ -58,16 +60,18 @@ A curated list of sign language procesing (e.g., sign language recognition, sign
 - [Complete List of Sign Language Recognition](./complete_list/sign_language_recognition.md)
 
 ### Sign Language Translation
-- [Neurips 2024] Scaling Sign Language Translation.[[paper]](https://openreview.net/forum?id=M80WgiO2Lb)     
+- [CVPR 2025] Lost in Translation, Found in Context: Sign Language Translation with Contextual Cues. [[paper]](https://arxiv.org/abs/2501.09754)     
+*Youngjoon Jang, Haran Raajesh, Liliane Momeni, Gul Varol, Andrew Zisserman*
+- [ICLR 2025] YouTube-SL-25: A Large-Scale, Open-Domain Multilingual Sign Language Parallel Corpus. [[paper]](https://openreview.net/forum?id=nFVsK3QLgs)   
+  *Garrett Tanzer, Biao Zhang*
+- [ICLR 2025] Uni-Sign: Toward Unified Sign Language Understanding at Scale. [[paper]](https://openreview.net/forum?id=0Xt7uT04cQ)   
+  *Zecheng Li, Wengang Zhou, Weichao Zhao, Kepeng Wu, Hezhen Hu, Houqiang Li*
+- [OpenReview] Hybrid Model Collaboration for Sign Language Translation with VQ-VAE and RAG Enhanced LLMS. [[paper]](https://openreview.net/forum?id=7kRFnSFN89)   
+  *Jian Ma, Wenguan Wang, Yi Yang, Weili Guan, Feng Zheng*
+- [NeurIPS 2024] Scaling Sign Language Translation. [[paper]](https://openreview.net/forum?id=M80WgiO2Lb)     
 *Biao Zhang, Garrett Tanzer, Orhan Firat*
-- [Neurips 2024] Improving Gloss-free Sign Language Translation by Reducing Representation Density.[[paper]](https://openreview.net/forum?id=FtzLbGoHW2)     
+- [NeurIPS 2024] Improving Gloss-free Sign Language Translation by Reducing Representation Density. [[paper]](https://openreview.net/forum?id=FtzLbGoHW2)     
 *Jinhui Ye, Xing Wang, Wenxiang Jiao, Junwei Liang, Hui Xiong*
-- [ICLR 2025 Submission] YouTube-SL-25: A Large-Scale, Open-Domain Multilingual Sign Language Parallel Corpus. [[paper]](https://openreview.net/forum?id=nFVsK3QLgs)   
-  *Anonymous authors*
-- [ICLR 2025 Submission] Uni-Sign: Toward Unified Sign Language Understanding at Scale. [[paper]](https://openreview.net/forum?id=0Xt7uT04cQ)   
-  *Anonymous authors*
-- [ICLR 2025 Submission] Hybrid Model Collaboration for Sign Language Translation with VQ-VAE and RAG Enhanced LLMS. [[paper]](https://openreview.net/forum?id=7kRFnSFN89)   
-  *Anonymous authors*
 - [EMNLP 2024] Reconsidering Sentence-Level Sign Language Translation. [[paper]](https://aclanthology.org/2024.emnlp-main.360/)   
   *Garrett Tanzer, Maximus Shengelia, Ken Harrenstien, David Uthus*
 - [ECCV 2024] Visual Alignment Pre-training for Sign Language Translation. [[paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05894.pdf)   
@@ -103,6 +107,8 @@ A curated list of sign language procesing (e.g., sign language recognition, sign
 - [Complete List of Sign Language Translation](./complete_list/sign_language_translation.md)
 
 ### Sign Language Production
+- [CVPR 2025] Discrete to Continuous: Generating Smooth Transition Poses from Sign Language Observations. [[paper]](https://arxiv.org/abs/2411.16810)   
+  *Shengeng Tang, Jiayi He, Lechao Cheng, Jingjing Wu, Dan Guo, Richang Hong*
 - [EMNLP Findings 2024] Word-Conditioned 3D American Sign Language Motion Generation. [[paper]](https://aclanthology.org/2024.findings-emnlp.584/)   
   *Lu Dong, Xiao Wang, Ifeoma Nwogu*
 - [ECCV 2024] A Simple Baseline for Spoken Language to Sign Language Translation with 3D Avatars. [[paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06499.pdf)   
@@ -148,12 +154,18 @@ A curated list of sign language procesing (e.g., sign language recognition, sign
 *Rotem Shalev Arkushin, Amit Moryossef, Ohad Fried*
 
 ### Co-speech Gesture Generation
-- [ICLR 2025 Submission] Realistic-Gesture: Co-Speech Gesture Video Generation through Semantic-aware Gesture Representation. [[paper]](https://openreview.net/forum?id=EXsiGFkwV6)    
-  *Anonymous authors*
-- [ICLR 2025 Submission] Co3Gesture: Towards Coherent Concurrent Co-speech 3D Gesture Generation with Interactive Diffusion. [[paper]](https://openreview.net/forum?id=VaowElpVzd)      
-*Anonymous authors*
-- [ICLR 2025 Submission] TANGO: Co-Speech Gesture Video Reenactment with Hierarchical Audio Motion Embedding and Diffusion Interpolation. [[paper]](https://openreview.net/forum?id=LbEWwJOufy)      
-*Anonymous authors*
+- [CVPR 2025] Retrieving Semantics from the Deep: an RAG Solution for Gesture Synthesis. [[paper]](https://arxiv.org/abs/2412.06786)    
+  *Muhammad Hamza Mughal, Rishabh Dabral, Merel CJ Scholman, Vera Demberg, Christian Theobalt*
+- [CVPR 2025] Co-Speech Gesture Video Generation with Implicit Motion-Audio Entanglement. [[paper]](https://cvpr.thecvf.com/virtual/2025/poster/32751)    
+  *Xinjie Li, Ziyi Chen, Xinlu Yu, Iek-Heng Chu, Peng Chang, Jing Xiao*
+- [CVPR 2025] HOP: Heterogeneous Topology-based Multimodal Entanglement for Co-Speech Gesture Generation. [[paper]](https://www.arxiv.org/abs/2503.01175)    
+  *Hongye Cheng, Tianyu Wang, guangsi shi, Zexing Zhao, Yanwei Fu*
+- [OpenReview] Realistic-Gesture: Co-Speech Gesture Video Generation through Semantic-aware Gesture Representation. [[paper]](https://openreview.net/forum?id=EXsiGFkwV6)    
+  *Pinxin Liu, Pengfei Zhang, Hyeongwoo Kim, Pablo Garrido, Ari Shapiro, Kyle Olszewski*
+- [ICLR 2025] Co3Gesture: Towards Coherent Concurrent Co-speech 3D Gesture Generation with Interactive Diffusion. [[paper]](https://openreview.net/forum?id=VaowElpVzd)      
+*Xingqun Qi, Yatian Wang, Hengyuan Zhang, Jiahao Pan, Wei Xue, Shanghang Zhang, Wenhan Luo, Qifeng Liu, Yike Guo*
+- [ICLR 2025] TANGO: Co-Speech Gesture Video Reenactment with Hierarchical Audio Motion Embedding and Diffusion Interpolation. [[paper]](https://openreview.net/forum?id=LbEWwJOufy)      
+*Haiyang Liu, Xingchao Yang, Tomoya Akiyama, Yuantian Huang, Qiaoge Li, Shigeru Kuriyama, Takafumi Taketomi*
 - [ECCV 2024] Co-speech Gesture Video Generation with 3D Human Meshes Gestures. [[paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/12483.pdf)    
   *Aniruddha Mahapatra, Richa Mishra, Ziyi Chen, Boyang Ding, Renda Li, Shoulei Wang, Jun-Yan Zhu, Peng Chang, Mei Han, Jing Xiao*
 - [ACL 2024] LLM Knows Body Language, Too: Translating Speech Voices into Human Gestures. [[paper]](https://aclanthology.org/2024.acl-long.273/)    
@@ -183,8 +195,12 @@ A curated list of sign language procesing (e.g., sign language recognition, sign
 - [Complete List of Co-speech Gesture Generation](./complete_list/co_speech_gesture_generation.md)
 
 ### Gesture Recognition
-- [ICLR 2025 Submission] Revisiting Noise Resilience Strategies in Gesture Recognition: Short-Term Enhancement in Surface Electromyographic Signal Analysis. [[paper]](https://openreview.net/forum?id=B7eHRsuTSh)      
-*Anonymous authors*
+- [CVPR 2025] Ges3ViG: Incorporating Pointing Gestures into Language-Based 3D Visual Grounding for Embodied Reference Understanding. [[paper]](https://cvpr.thecvf.com/virtual/2025/poster/35108)      
+*Atharv Mahesh Mane, Dulanga Weerakoon, Vigneshwaran Subbaraju, Sougata Sen, Sanjay Sarma, Archan Misra*
+- [CVPR 2025] SocialGesture: Delving into Multi-person Gesture Understanding. [[paper]](https://cvpr.thecvf.com/virtual/2025/poster/34623)      
+*Xu Cao, Pranav Virupaksha, Wenqi Jia, Bolin Lai, Fiona Ryan, Sangmin Lee, James Rehg*
+- [OpenReview] Revisiting Noise Resilience Strategies in Gesture Recognition: Short-Term Enhancement in Surface Electromyographic Signal Analysis. [[paper]](https://openreview.net/forum?id=B7eHRsuTSh)      
+*Weiyu Guo, Ziyue Qiao, Ying Sun, Hui Xiong*
 - [ICCV 2023] Learning Robust Representations with Information Bottleneck and Memory Network for RGB-D-based Gesture Recognition. [[paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Li_Learning_Robust_Representations_with_Information_Bottleneck_and_Memory_Network_for_ICCV_2023_paper.html)      
 *Yunan Li, Huizhou Chen, Guanwen Feng, Qiguang Miao*
 - [ICCV 2023] Data-Free Class-Incremental Hand Gesture Recognition. [[paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Aich_Data-Free_Class-Incremental_Hand_Gesture_Recognition_ICCV_2023_paper.html)      
