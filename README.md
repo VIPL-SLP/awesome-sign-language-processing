@@ -60,6 +60,12 @@ A curated list of sign language procesing (e.g., sign language recognition, sign
 - [Complete List of Sign Language Recognition](./complete_list/sign_language_recognition.md)
 
 ### Sign Language Translation
+- [ACL 2025] SHuBERT: Self-Supervised Sign Language Representation Learning via Multi-Stream Cluster Prediction. [[paper]](https://arxiv.org/abs/2411.16765)     
+*Shester Gueuwou, Xiaodan Du, Greg Shakhnarovich, Karen Livescu, Alexander H. Liu*
+- [ACL 2025] Multilingual Gloss-free Sign Language Translation: Towards Building a Sign Language Foundation Model. [[paper]](https://arxiv.org/abs/2505.24355)     
+*Sihan Tan, Taro Miyazaki, Kazuhiro Nakadai*
+- [ACL Findings 2025] SignMusketeers: An Efficient Multi-Stream Approach for Sign Language Translation at Scale. [[paper]](https://arxiv.org/abs/2406.06907)     
+*Shester Gueuwou, Xiaodan Du, Greg Shakhnarovich, Karen Livescu*
 - [CVPR 2025] Lost in Translation, Found in Context: Sign Language Translation with Contextual Cues. [[paper]](https://arxiv.org/abs/2501.09754)     
 *Youngjoon Jang, Haran Raajesh, Liliane Momeni, Gul Varol, Andrew Zisserman*
 - [ICLR 2025] YouTube-SL-25: A Large-Scale, Open-Domain Multilingual Sign Language Parallel Corpus. [[paper]](https://openreview.net/forum?id=nFVsK3QLgs)   
@@ -132,6 +138,12 @@ A curated list of sign language procesing (e.g., sign language recognition, sign
 - [Complete List of Sign Language Production](./complete_list/sign_language_production.md)
 
 ### Other Sign Language Topic
+- [ACL Findings 2025] Sign2Vis: Automated Data Visualization from Sign Language. [[paper]](http://wanyao.me/)     
+*Yao Wan, Yang Wu, Zhen Li, Guobiao Zhang, Hongyu Zhang, Zhou Zhao, Hai Jin, April Wang*
+- [ACL Findings 2025] 2M-BELEBELE: Highly Multilingual Speech and American Sign Language Comprehension Dataset. [[paper]](https://openreview.net/forum?id=uV0gGimcuD)     
+*Marta R. Costa-jussà, Bokai YU, Pierre Andrews, Belen Alastruey, Necati Cihan Camgoz, Joe Chuang, Jean Maillard, Christophe Ropers, Arina Turkatenko, Carleigh Wood*
+- [ACL Findings 2025] Large Language Models as Sign Language Interfaces: Mitigating the Requests of Deaf Users of LLMs in a Hearing-Centric World. [[paper]](https://openreview.net/forum?id=8HGvHrfFDx)     
+*Mert Inan, Anthony Sicilia, Malihe Alikhani*
 - [EMNLP Findings 2024] Gloss2Text: Sign Language Gloss translation using LLMs and Semantically Aware Label Smoothing.  [[paper]](https://aclanthology.org/2024.findings-emnlp.947/)   
   *Pooya Fayyazsanavi, Antonios Anastasopoulos, Jana Kosecka*
 - [EMNLP 2024] Unsupervised Discrete Representations of American Sign Language.  [[paper]](https://aclanthology.org/2024.emnlp-main.1104/)   
